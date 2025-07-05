@@ -1,5 +1,6 @@
 use anyhow::{Context, Result};
 use std::path::PathBuf;
+use chrono::{DateTime, Duration, Local, TimeZone, NaiveDateTime};
 
 mod data;
 use data::RawData;
@@ -37,22 +38,73 @@ fn main() -> Result<()> {
 
     let data = RawData::from_json(&body);
     
-    println!("Market Information:");
+    // Create a map of cinema IDs to names
+    let mut cinema_names = std::collections::HashMap::new();
     for market in &data.data.market {
-        println!("  {}", market.name);
-        println!("  Status: {}", market.status);
-        println!("  Cinemas:");
         for cinema in &market.cinemas {
-            println!("    - {} ({})", cinema.name, cinema.slug);
+            cinema_names.insert(cinema.id.clone(), cinema.name.clone());
         }
     }
 
-    println!("\nUpcoming Movies:");
+    // Create a map of presentation slugs to movie titles
+    let mut movie_titles = std::collections::HashMap::new();
     for pres in &data.data.presentations {
-        println!("  - {}", pres.show.title);
+        movie_titles.insert(pres.slug.clone(), pres.show.title.clone());
     }
 
-    println!("\nFound {} total sessions", data.data.sessions.len());
+    // Print header
+    println!("\n{:^25} | {:<40} | {:<25}", "Show Time", "Movie", "Theater");
+    println!("{}", "-".repeat(94));
+
+    // Filter and sort sessions by show time
+    let now = Local::now();
+    let twelve_hours = Duration::hours(12);
+    
+    let mut sessions: Vec<_> = data.data.sessions.iter()
+        .filter(|session| {
+            // Parse the show time
+            if let Ok(show_time) = NaiveDateTime::parse_from_str(&session.show_time_clt, "%Y-%m-%dT%H:%M:%S") {
+                let show_time = Local.from_local_datetime(&show_time).unwrap();
+                // Filter by time and exclude Staten Island theater
+                let theater = cinema_names.get(&session.cinema_id)
+                    .map(|s| s.as_str())
+                    .unwrap_or("Unknown Theater");
+                show_time > now && 
+                show_time <= now + twelve_hours && 
+                theater != "Staten Island"
+            } else {
+                false
+            }
+        })
+        .collect();
+    
+    // Sort filtered sessions
+    sessions.sort_by(|a, b| a.show_time_clt.cmp(&b.show_time_clt));
+
+    // Print header with time range
+    let end_time = now + twelve_hours;
+    println!("\nShowings between {} and {}", 
+             now.format("%m/%d %H:%M"),
+             end_time.format("%m/%d %H:%M"));
+
+    // Print each session
+    for session in &sessions {
+        let show_time = session.show_time_clt.split('T').collect::<Vec<_>>();
+        let date = show_time[0].split('-').collect::<Vec<_>>();
+        let formatted_date = format!("{}/{}", date[1], date[2]); // MM/DD
+        let time = show_time[1].split(':').take(2).collect::<Vec<_>>().join(":");
+        let datetime = format!("{} {}", formatted_date, time);
+        
+        let unknown_movie = String::from("Unknown Movie");
+        let movie = movie_titles.get(&session.presentation_slug)
+            .unwrap_or(&unknown_movie);
+        
+        let unknown_theater = String::from("Unknown Theater");
+        let theater = cinema_names.get(&session.cinema_id)
+            .unwrap_or(&unknown_theater);
+
+        println!("{:^25} | {:<40} | {:<25}", datetime, movie, theater);
+    }
 
     Ok(())
 }

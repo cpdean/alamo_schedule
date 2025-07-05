@@ -1,18 +1,18 @@
 use serde::{Serialize, Deserialize};
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct RawData {
     pub data: RawDataContent,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct RawDataContent {
     pub presentations: Vec<Presentation>,
     pub market: Vec<Market>,
     pub sessions: Vec<Session>,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Market {
     pub id: String,
     pub slug: String,
@@ -21,7 +21,7 @@ pub struct Market {
     pub cinemas: Vec<Cinema>,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Cinema {
     pub id: String,
     #[serde(rename = "loyaltyCinemaId")]
@@ -30,7 +30,7 @@ pub struct Cinema {
     pub name: String,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Session {
     #[serde(rename = "cinemaId")]
     pub cinema_id: String,
@@ -40,9 +40,11 @@ pub struct Session {
     pub presentation_slug: String,
     #[serde(rename = "legacySlug")]
     pub legacy_slug: Option<String>,
+    #[serde(rename = "showTimeClt")]
+    pub show_time_clt: String,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Presentation {
     pub slug: String,
     #[serde(rename = "legacySlug")]
@@ -50,7 +52,7 @@ pub struct Presentation {
     pub show: Show,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Show {
     pub slug: String,
     #[serde(rename = "legacySlug")]
