@@ -42,6 +42,8 @@ pub struct Session {
     pub legacy_slug: Option<String>,
     #[serde(rename = "showTimeClt")]
     pub show_time_clt: String,
+    #[serde(rename = "formatSlug")]
+    pub format_slug: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
