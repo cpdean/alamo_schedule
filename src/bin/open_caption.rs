@@ -1,11 +1,11 @@
 use alamo_schedule::data::RawData;
 use anyhow::Result;
-use chrono::{Duration, Local, TimeZone, NaiveDateTime};
+use chrono::{Duration, Local, NaiveDateTime, TimeZone};
 use std::fs;
 
 fn main() -> Result<()> {
     let args: Vec<String> = std::env::args().collect();
-    
+
     let body = match args.get(1) {
         Some(filepath) => fs::read_to_string(filepath)?,
         None => {
@@ -15,7 +15,7 @@ fn main() -> Result<()> {
     };
 
     let data = RawData::from_json(&body);
-    
+
     // Create lookup maps
     let mut cinema_names = std::collections::HashMap::new();
     for market in &data.data.market {
@@ -33,8 +33,11 @@ fn main() -> Result<()> {
     let now = Local::now();
     let fourteen_days = Duration::days(14);
     let end_date = now + fourteen_days;
-    
-    let mut sessions: Vec<_> = data.data.sessions.iter()
+
+    let mut sessions: Vec<_> = data
+        .data
+        .sessions
+        .iter()
         .filter(|session| {
             // Check if it's an open-caption showing
             if session.format_slug.as_deref() != Some("open-caption") {
@@ -42,7 +45,9 @@ fn main() -> Result<()> {
             }
 
             // Parse the show time
-            if let Ok(show_time) = NaiveDateTime::parse_from_str(&session.show_time_clt, "%Y-%m-%dT%H:%M:%S") {
+            if let Ok(show_time) =
+                NaiveDateTime::parse_from_str(&session.show_time_clt, "%Y-%m-%dT%H:%M:%S")
+            {
                 let show_time = Local.from_local_datetime(&show_time).unwrap();
                 show_time > now && show_time <= end_date
             } else {
@@ -50,7 +55,7 @@ fn main() -> Result<()> {
             }
         })
         .collect();
-    
+
     // Sort filtered sessions
     sessions.sort_by(|a, b| a.show_time_clt.cmp(&b.show_time_clt));
 
@@ -64,15 +69,21 @@ fn main() -> Result<()> {
         let show_time = session.show_time_clt.split('T').collect::<Vec<_>>();
         let date = show_time[0].split('-').collect::<Vec<_>>();
         let formatted_date = format!("{}/{}", date[1], date[2]); // MM/DD
-        let time = show_time[1].split(':').take(2).collect::<Vec<_>>().join(":");
+        let time = show_time[1]
+            .split(':')
+            .take(2)
+            .collect::<Vec<_>>()
+            .join(":");
         let datetime = format!("{} {}", formatted_date, time);
-        
+
         let unknown_movie = String::from("Unknown Movie");
-        let movie = movie_titles.get(&session.presentation_slug)
+        let movie = movie_titles
+            .get(&session.presentation_slug)
             .unwrap_or(&unknown_movie);
-        
+
         let unknown_theater = String::from("Unknown Theater");
-        let theater = cinema_names.get(&session.cinema_id)
+        let theater = cinema_names
+            .get(&session.cinema_id)
             .unwrap_or(&unknown_theater);
 
         println!("{:^25} | {:<40} | {:<25}", datetime, movie, theater);
