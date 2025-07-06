@@ -1,9 +1,10 @@
 use anyhow::{Context, Result};
 use chrono::{DateTime, Duration, Local, NaiveDateTime, TimeZone};
+use std::collections::HashMap;
 use std::path::PathBuf;
 
 mod data;
-use data::RawData;
+use data::{RawData, Session};
 
 fn fetch_from_api() -> Result<String> {
     let url = "https://drafthouse.com/s/mother/v2/schedule/market/nyc";
@@ -28,9 +29,9 @@ fn read_from_file(path: PathBuf) -> Result<String> {
         .with_context(|| format!("Failed to read file: {}", path.display()))
 }
 
-fn main() -> Result<()> {
-    let args: Vec<String> = std::env::args().collect();
-
+fn get_movie_schedule(
+    args: Vec<String>,
+) -> Result<(HashMap<String, String>, HashMap<String, String>, RawData)> {
     let body = match args.get(1) {
         Some(filepath) => read_from_file(filepath.into())?,
         None => fetch_from_api()?,
@@ -52,19 +53,16 @@ fn main() -> Result<()> {
         movie_titles.insert(pres.slug.clone(), pres.show.title.clone());
     }
 
-    // Print header
-    println!(
-        "\n{:^25} | {:<40} | {:<25}",
-        "Show Time", "Movie", "Theater"
-    );
-    println!("{}", "-".repeat(94));
+    Ok((cinema_names, movie_titles, data))
+}
 
-    // Filter and sort sessions by show time
-    let now = Local::now();
-    let twelve_hours = Duration::hours(12);
-
-    let mut sessions: Vec<_> = data
-        .data
+fn recently_showing_movies<'a>(
+    data: &'a RawData,
+    cinema_names: &'a HashMap<String, String>,
+    now: DateTime<Local>,
+    end_time: DateTime<Local>,
+) -> Vec<&'a Session> {
+    data.data
         .sessions
         .iter()
         .filter(|session| {
@@ -78,26 +76,20 @@ fn main() -> Result<()> {
                     .get(&session.cinema_id)
                     .map(|s| s.as_str())
                     .unwrap_or("Unknown Theater");
-                show_time > now && show_time <= now + twelve_hours && theater != "Staten Island"
+                show_time > now && show_time <= end_time && theater != "Staten Island"
             } else {
                 false
             }
         })
-        .collect();
+        .collect()
+}
 
-    // Sort filtered sessions
-    sessions.sort_by(|a, b| a.show_time_clt.cmp(&b.show_time_clt));
-
-    // Print header with time range
-    let end_time = now + twelve_hours;
-    println!(
-        "\nShowings between {} and {}",
-        now.format("%m/%d %H:%M"),
-        end_time.format("%m/%d %H:%M")
-    );
-
-    // Print each session
-    for session in &sessions {
+fn display_sessions<'a>(
+    sessions: &Vec<&'a Session>,
+    cinema_names: &HashMap<String, String>,
+    movie_titles: &HashMap<String, String>,
+) {
+    for session in sessions {
         let show_time = session.show_time_clt.split('T').collect::<Vec<_>>();
         let date = show_time[0].split('-').collect::<Vec<_>>();
         let formatted_date = format!("{}/{}", date[1], date[2]); // MM/DD
@@ -120,6 +112,40 @@ fn main() -> Result<()> {
 
         println!("{:^25} | {:<40} | {:<25}", datetime, movie, theater);
     }
+}
+
+fn main() -> Result<()> {
+    let args: Vec<String> = std::env::args().collect();
+
+    let (cinema_names, movie_titles, data) = get_movie_schedule(args)?;
+
+    // Print header
+    println!(
+        "\n{:^25} | {:<40} | {:<25}",
+        "Show Time", "Movie", "Theater"
+    );
+    println!("{}", "-".repeat(94));
+
+    // Filter and sort sessions by show time
+    let now = Local::now();
+    let twelve_hours = Duration::hours(12);
+
+    let mut sessions: Vec<_> =
+        recently_showing_movies(&data, &cinema_names, now, now + twelve_hours);
+
+    // Sort filtered sessions
+    sessions.sort_by(|a, b| a.show_time_clt.cmp(&b.show_time_clt));
+
+    // Print header with time range
+    let end_time = now + twelve_hours;
+    println!(
+        "\nShowings between {} and {}",
+        now.format("%m/%d %H:%M"),
+        end_time.format("%m/%d %H:%M")
+    );
+
+    // Print each session
+    display_sessions(&sessions, &cinema_names, &movie_titles);
 
     Ok(())
 }
