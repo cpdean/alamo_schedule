@@ -21,6 +21,7 @@ struct ShowtimeInfo {
     cinema_id: String,
     session_id: String,
     presentation_slug: String,
+    open_caption: bool,
 }
 
 #[derive(Debug, Serialize)]
@@ -205,6 +206,12 @@ fn display_sessions_json<'a>(
                 .unwrap_or(&unknown_theater)
                 .clone();
 
+            let open_caption = session
+                .format_slug
+                .as_ref()
+                .map(|slug| slug == "open-caption")
+                .unwrap_or(false);
+
             ShowtimeInfo {
                 show_time: session.show_time_clt.clone(),
                 movie,
@@ -212,6 +219,7 @@ fn display_sessions_json<'a>(
                 cinema_id: session.cinema_id.clone(),
                 session_id: session.session_id.clone(),
                 presentation_slug: session.presentation_slug.clone(),
+                open_caption,
             }
         })
         .collect();

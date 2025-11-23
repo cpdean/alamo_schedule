@@ -74,11 +74,14 @@ function displaySchedule() {
     
     const tableRows = filteredShowtimes.map(showtime => {
         const formattedTime = formatDateTime(showtime.show_time);
+        const captionStatus = showtime.open_caption ? '✓' : '—';
+        const captionClass = showtime.open_caption ? 'caption-yes' : 'caption-no';
         return `
             <tr>
                 <td class="time-cell">${formattedTime}</td>
                 <td class="movie-cell">${showtime.movie}</td>
                 <td class="location-cell">${showtime.theater}</td>
+                <td class="caption-cell ${captionClass}">${captionStatus}</td>
             </tr>
         `;
     }).join('');
@@ -90,6 +93,7 @@ function displaySchedule() {
                     <th>Time</th>
                     <th>Movie</th>
                     <th>Location</th>
+                    <th>Captions</th>
                 </tr>
             </thead>
             <tbody>
