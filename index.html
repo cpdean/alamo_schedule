@@ -69,46 +69,55 @@
 
         .showtimes {
             padding: 2rem;
+            overflow-x: auto;
         }
 
-        .showtime-card {
-            background: #f8f9fa;
-            border-left: 4px solid #667eea;
-            padding: 1.5rem;
-            margin-bottom: 1rem;
-            border-radius: 8px;
-            transition: transform 0.2s, box-shadow 0.2s;
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
         }
 
-        .showtime-card:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        thead {
+            background: #667eea;
+            color: white;
         }
 
-        .movie-title {
-            font-size: 1.5rem;
+        th {
+            padding: 1rem;
+            text-align: left;
             font-weight: 600;
-            color: #2d3748;
-            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
-        .showtime-details {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1.5rem;
-            margin-top: 0.75rem;
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid #e2e8f0;
         }
 
-        .detail-item {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            color: #4a5568;
+        tbody tr {
+            transition: background-color 0.2s;
         }
 
-        .detail-label {
+        tbody tr:hover {
+            background-color: #f7fafc;
+        }
+
+        .time-cell {
             font-weight: 600;
             color: #667eea;
+            white-space: nowrap;
+        }
+
+        .movie-cell {
+            font-weight: 500;
+            color: #2d3748;
+        }
+
+        .location-cell {
+            color: #4a5568;
         }
 
         .loading {
@@ -136,9 +145,13 @@
                 font-size: 1.8rem;
             }
 
-            .showtime-details {
-                flex-direction: column;
-                gap: 0.5rem;
+            th, td {
+                padding: 0.75rem 0.5rem;
+                font-size: 0.9rem;
+            }
+
+            th {
+                font-size: 0.8rem;
             }
         }
     </style>
@@ -148,7 +161,7 @@
         <header>
             <h1>🎬 Alamo Drafthouse Schedule</h1>
             <div class="time-range" id="timeRange">Loading schedule...</div>
-            <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show All Showtimes</button>
+            <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show Next Hour Only</button>
         </header>
         <div class="showtimes" id="showtimes">
             <div class="loading">Loading showtimes...</div>
