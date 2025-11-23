@@ -76,8 +76,14 @@ function displaySchedule() {
         const formattedTime = formatDateTime(showtime.show_time);
         const captionStatus = showtime.open_caption ? '✓' : '—';
         const captionClass = showtime.open_caption ? 'caption-yes' : 'caption-no';
+        
+        // Check if showtime is within 35 minutes
+        const showTime = new Date(showtime.show_time);
+        const minutesUntilShow = (showTime - now) / (1000 * 60);
+        const rowClass = (minutesUntilShow >= 0 && minutesUntilShow < 35) ? 'row-starting-soon' : '';
+        
         return `
-            <tr>
+            <tr class="${rowClass}">
                 <td class="time-cell">${formattedTime}</td>
                 <td class="movie-cell">${showtime.movie}</td>
                 <td class="location-cell">${showtime.theater}</td>
