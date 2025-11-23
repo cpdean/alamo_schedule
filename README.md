@@ -6,9 +6,9 @@ A web-based viewer for Alamo Drafthouse NYC movie showtimes with filtering capab
 
 ### Core Application
 - `src/main.rs` - Rust CLI tool that fetches and formats Alamo Drafthouse schedule data
-- `web/index.html` - Web interface for viewing the schedule
-- `web/schedule.js` - JavaScript for rendering and filtering showtimes
-- `web/current_schedule.json` - JSON data file containing showtime information
+- `index.html` - Web interface for viewing the schedule
+- `schedule.js` - JavaScript for rendering and filtering showtimes
+- `current_schedule.json` - JSON data file containing showtime information
 
 ### Automation
 - `.github/workflows/generate-schedule.yml` - GitHub Actions workflow that automatically updates the schedule
@@ -113,8 +113,8 @@ cargo test
 
 ### Modifying the Web Interface
 
-1. Edit `web/index.html` for structure and styles
-2. Edit `web/schedule.js` for functionality
+1. Edit `index.html` for structure and styles
+2. Edit `schedule.js` for functionality
 3. Test changes using a local HTTP server (`./serve.sh`)
 4. Commit changes to git
 
@@ -138,10 +138,9 @@ alamo_schedule/
 │   ├── data.rs                      # Data structures
 │   └── bin/
 │       └── open_caption.rs          # Open caption filter tool
-├── web/
-│   ├── index.html                   # Web viewer
-│   ├── schedule.js                  # Web viewer logic
-│   └── current_schedule.json        # Schedule data
+├── index.html                       # Web viewer
+├── schedule.js                      # Web viewer logic
+├── current_schedule.json            # Schedule data
 ├── serve.sh                         # Helper script to start server
 └── README.md                        # This file
 ```
