@@ -45,6 +45,28 @@
             margin-top: 0.5rem;
         }
 
+        .toggle-button {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .toggle-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .toggle-button:active {
+            transform: translateY(0);
+        }
+
         .showtimes {
             padding: 2rem;
         }
@@ -126,82 +148,13 @@
         <header>
             <h1>🎬 Alamo Drafthouse Schedule</h1>
             <div class="time-range" id="timeRange">Loading schedule...</div>
+            <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show All Showtimes</button>
         </header>
         <div class="showtimes" id="showtimes">
             <div class="loading">Loading showtimes...</div>
         </div>
     </div>
 
-    <script>
-        // Format ISO datetime to readable format
-        function formatDateTime(isoString) {
-            const date = new Date(isoString);
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            const hours = String(date.getHours()).padStart(2, '0');
-            const minutes = String(date.getMinutes()).padStart(2, '0');
-            return `${month}/${day} ${hours}:${minutes}`;
-        }
-
-        // Load and display the schedule
-        async function loadSchedule() {
-            try {
-                const response = await fetch('current_schedule.json');
-                if (!response.ok) {
-                    throw new Error('Failed to load schedule');
-                }
-                
-                const data = await response.json();
-                
-                // Update time range
-                const timeRangeEl = document.getElementById('timeRange');
-                const startTime = formatDateTime(data.time_range.start);
-                const endTime = formatDateTime(data.time_range.end);
-                timeRangeEl.textContent = `Showings between ${startTime} and ${endTime}`;
-                
-                // Display showtimes
-                const showtimesEl = document.getElementById('showtimes');
-                
-                if (data.showtimes.length === 0) {
-                    showtimesEl.innerHTML = '<div class="loading">No showtimes available in this time range.</div>';
-                    return;
-                }
-                
-                showtimesEl.innerHTML = data.showtimes.map(showtime => {
-                    const formattedTime = formatDateTime(showtime.show_time);
-                    return `
-                        <div class="showtime-card">
-                            <div class="movie-title">${showtime.movie}</div>
-                            <div class="showtime-details">
-                                <div class="detail-item">
-                                    <span class="detail-label">🕐 Time:</span>
-                                    <span>${formattedTime}</span>
-                                </div>
-                                <div class="detail-item">
-                                    <span class="detail-label">🎭 Theater:</span>
-                                    <span>${showtime.theater}</span>
-                                </div>
-                                <div class="detail-item">
-                                    <span class="detail-label">🎫 Session:</span>
-                                    <span>${showtime.session_id}</span>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                }).join('');
-                
-            } catch (error) {
-                console.error('Error loading schedule:', error);
-                document.getElementById('showtimes').innerHTML = `
-                    <div class="error">
-                        <strong>Error:</strong> Could not load schedule. Make sure current_schedule.json exists in the same directory.
-                    </div>
-                `;
-            }
-        }
-
-        // Load schedule when page loads
-        loadSchedule();
-    </script>
+    <script src="schedule.js"></script>
 </body>
 </html>
