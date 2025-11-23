@@ -1,6 +1,7 @@
 use alamo_schedule::data::RawData;
 use anyhow::Result;
-use chrono::{Duration, Local, NaiveDateTime, TimeZone};
+use chrono::{Duration, NaiveDateTime, TimeZone, Utc};
+use chrono_tz::America::New_York;
 use std::fs;
 
 fn main() -> Result<()> {
@@ -29,8 +30,9 @@ fn main() -> Result<()> {
         movie_titles.insert(pres.slug.clone(), pres.show.title.clone());
     }
 
-    // Filter and sort sessions
-    let now = Local::now();
+    // Filter and sort sessions in Eastern time
+    let now_utc = Utc::now();
+    let now = now_utc.with_timezone(&New_York);
     let fourteen_days = Duration::days(14);
     let end_date = now + fourteen_days;
 
@@ -44,11 +46,14 @@ fn main() -> Result<()> {
                 return false;
             }
 
-            // Parse the show time
-            if let Ok(show_time) =
+            // Parse the show time (API times are Eastern)
+            if let Ok(show_time_naive) =
                 NaiveDateTime::parse_from_str(&session.show_time_clt, "%Y-%m-%dT%H:%M:%S")
             {
-                let show_time = Local.from_local_datetime(&show_time).unwrap();
+                let show_time = New_York
+                    .from_local_datetime(&show_time_naive)
+                    .single()
+                    .unwrap();
                 show_time > now && show_time <= end_date
             } else {
                 false
