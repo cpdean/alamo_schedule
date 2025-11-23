@@ -276,15 +276,22 @@
 
         @media (max-width: 768px) {
             body {
-                padding: 1rem;
+                padding: 0.75rem;
+                background: #ffffff;
             }
 
             h1 {
-                font-size: 1.8rem;
+                font-size: 1.5rem;
             }
 
             .search-box {
                 max-width: 100%;
+                border-color: #cbd5e0;
+                color: #1a202c;
+            }
+
+            .search-box::placeholder {
+                color: #a0aec0;
             }
 
             .controls {
@@ -296,13 +303,63 @@
                 justify-content: center;
             }
 
-            th, td {
-                padding: 0.75rem 0.5rem;
-                font-size: 0.9rem;
+            .time-filter-label {
+                color: #4a5568;
+            }
+
+            .time-filter-input {
+                border-color: #cbd5e0;
+                color: #1a202c;
+                background: #ffffff;
+            }
+
+            .toggle-button {
+                background: #667eea;
+                color: #ffffff;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            }
+
+            .container {
+                max-width: 100%;
+                margin: 0;
+                background: transparent;
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+            header {
+                background: transparent;
+                color: #2d3748;
+                padding: 1rem 0.25rem 0.5rem;
+                text-align: left;
+            }
+
+            .showtimes {
+                padding: 0.5rem 0.25rem 1rem;
+            }
+
+            th,
+            td {
+                padding: 0.5rem 0.35rem;
+                font-size: 0.8rem;
             }
 
             th {
-                font-size: 0.8rem;
+                font-size: 0.75rem;
+            }
+
+            .caption-cell {
+                font-size: 0.9rem;
+                padding-left: 0.25rem;
+                padding-right: 0.25rem;
+                width: 3rem;
+            }
+
+            .captions-header {
+                font-size: 0.65rem;
+                padding-left: 0.25rem;
+                padding-right: 0.25rem;
+                white-space: normal;
             }
         }
     </style>
