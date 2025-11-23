@@ -34,7 +34,6 @@ jobs:
 
       - name: Run binary and capture output
         run: |
-          cargo run --bin alamo_schedule --release > market_schedule.txt
           cargo run --bin alamo_schedule --release -- --output json > current_schedule.json
 
       - name: Configure git user
