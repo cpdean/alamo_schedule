@@ -4,7 +4,7 @@ let showOnlyNextHour = false;
 let searchQuery = '';
 let timeFilterHours = 2;
 
-// Format ISO datetime to readable format
+// Format ISO datetime to readable format (full date and time)
 function formatDateTime(isoString) {
     const date = new Date(isoString);
     const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -12,6 +12,14 @@ function formatDateTime(isoString) {
     const hours = String(date.getHours()).padStart(2, '0');
     const minutes = String(date.getMinutes()).padStart(2, '0');
     return `${month}/${day} ${hours}:${minutes}`;
+}
+
+// Format time only (HH:MM)
+function formatTimeOnly(isoString) {
+    const date = new Date(isoString);
+    const hours = String(date.getHours()).padStart(2, '0');
+    const minutes = String(date.getMinutes()).padStart(2, '0');
+    return `${hours}:${minutes}`;
 }
 
 // Handle search input
@@ -85,17 +93,26 @@ function displaySchedule() {
     }
     
     const tableRows = filteredShowtimes.map(showtime => {
-        const formattedTime = formatDateTime(showtime.show_time);
+        const formattedTime = formatTimeOnly(showtime.show_time);
         const captionStatus = showtime.open_caption ? '✓' : '—';
         const captionClass = showtime.open_caption ? 'caption-yes' : 'caption-no';
         
-        // Check if showtime is within 35 minutes
+        // Calculate minutes until show
         const showTime = new Date(showtime.show_time);
-        const minutesUntilShow = (showTime - now) / (1000 * 60);
+        const minutesUntilShow = Math.round((showTime - now) / (1000 * 60));
         const rowClass = (minutesUntilShow >= 0 && minutesUntilShow < 35) ? 'row-starting-soon' : '';
+        
+        // Format minutes display
+        let minutesDisplay;
+        if (minutesUntilShow < 0) {
+            minutesDisplay = `${Math.abs(minutesUntilShow)}m ago`;
+        } else {
+            minutesDisplay = `${minutesUntilShow}m`;
+        }
         
         return `
             <tr class="${rowClass}">
+                <td class="minutes-cell">${minutesDisplay}</td>
                 <td class="time-cell">${formattedTime}</td>
                 <td class="movie-cell">${showtime.movie}</td>
                 <td class="location-cell">${showtime.theater}</td>
@@ -108,6 +125,7 @@ function displaySchedule() {
         <table>
             <thead>
                 <tr>
+                    <th>In</th>
                     <th>Time</th>
                     <th>Movie</th>
                     <th>Location</th>
