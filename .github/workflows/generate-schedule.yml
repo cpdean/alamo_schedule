@@ -43,7 +43,7 @@ jobs:
 
       - name: Commit changes if any
         run: |
-          git add market_schedule.txt current_schedule.json
+          git add current_schedule.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
