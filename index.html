@@ -67,6 +67,28 @@
             transform: translateY(0);
         }
 
+        .search-box {
+            background: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            margin-top: 1rem;
+            width: 100%;
+            max-width: 400px;
+            color: #2d3748;
+        }
+
+        .search-box::placeholder {
+            color: #a0aec0;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: white;
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+        }
+
         .showtimes {
             padding: 2rem;
             overflow-x: auto;
@@ -145,6 +167,10 @@
                 font-size: 1.8rem;
             }
 
+            .search-box {
+                max-width: 100%;
+            }
+
             th, td {
                 padding: 0.75rem 0.5rem;
                 font-size: 0.9rem;
@@ -161,6 +187,7 @@
         <header>
             <h1>🎬 Alamo Drafthouse Schedule</h1>
             <div class="time-range" id="timeRange">Loading schedule...</div>
+            <input type="text" class="search-box" id="searchBox" placeholder="Search movies..." oninput="handleSearch()">
             <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show Next Hour Only</button>
         </header>
         <div class="showtimes" id="showtimes">
