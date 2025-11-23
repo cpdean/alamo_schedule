@@ -1,6 +1,7 @@
 // Global state
 let scheduleData = null;
 let showOnlyNextHour = false;
+let searchQuery = '';
 
 // Format ISO datetime to readable format
 function formatDateTime(isoString) {
@@ -10,6 +11,13 @@ function formatDateTime(isoString) {
     const hours = String(date.getHours()).padStart(2, '0');
     const minutes = String(date.getMinutes()).padStart(2, '0');
     return `${month}/${day} ${hours}:${minutes}`;
+}
+
+// Handle search input
+function handleSearch() {
+    const searchBox = document.getElementById('searchBox');
+    searchQuery = searchBox.value.toLowerCase();
+    displaySchedule();
 }
 
 // Toggle between showing next hour or all showtimes
@@ -38,6 +46,13 @@ function displaySchedule() {
         filteredShowtimes = scheduleData.showtimes;
         startTime = formatDateTime(scheduleData.time_range.start);
         endTime = formatDateTime(scheduleData.time_range.end);
+    }
+    
+    // Apply search filter
+    if (searchQuery) {
+        filteredShowtimes = filteredShowtimes.filter(showtime => 
+            showtime.movie.toLowerCase().includes(searchQuery)
+        );
     }
     
     // Update button text
