@@ -62,7 +62,11 @@ function displaySchedule() {
         startTime = formatDateTime(now.toISOString());
         endTime = formatDateTime(filterEndTime.toISOString());
     } else {
-        filteredShowtimes = scheduleData.showtimes;
+        // Filter out past shows - only show future shows
+        filteredShowtimes = scheduleData.showtimes.filter(showtime => {
+            const showTime = new Date(showtime.show_time);
+            return showTime >= now;
+        });
         startTime = formatDateTime(scheduleData.time_range.start);
         endTime = formatDateTime(scheduleData.time_range.end);
     }
