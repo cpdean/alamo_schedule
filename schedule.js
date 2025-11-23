@@ -1,6 +1,6 @@
 // Global state
 let scheduleData = null;
-let showOnlyNextHour = true;
+let showOnlyNextHour = false;
 
 // Format ISO datetime to readable format
 function formatDateTime(isoString) {
@@ -57,28 +57,31 @@ function displaySchedule() {
         return;
     }
     
-    showtimesEl.innerHTML = filteredShowtimes.map(showtime => {
+    const tableRows = filteredShowtimes.map(showtime => {
         const formattedTime = formatDateTime(showtime.show_time);
         return `
-            <div class="showtime-card">
-                <div class="movie-title">${showtime.movie}</div>
-                <div class="showtime-details">
-                    <div class="detail-item">
-                        <span class="detail-label">🕐 Time:</span>
-                        <span>${formattedTime}</span>
-                    </div>
-                    <div class="detail-item">
-                        <span class="detail-label">🎭 Theater:</span>
-                        <span>${showtime.theater}</span>
-                    </div>
-                    <div class="detail-item">
-                        <span class="detail-label">🎫 Session:</span>
-                        <span>${showtime.session_id}</span>
-                    </div>
-                </div>
-            </div>
+            <tr>
+                <td class="time-cell">${formattedTime}</td>
+                <td class="movie-cell">${showtime.movie}</td>
+                <td class="location-cell">${showtime.theater}</td>
+            </tr>
         `;
     }).join('');
+    
+    showtimesEl.innerHTML = `
+        <table>
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Movie</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${tableRows}
+            </tbody>
+        </table>
+    `;
 }
 
 // Load and display the schedule
