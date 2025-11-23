@@ -2,6 +2,7 @@
 let scheduleData = null;
 let showOnlyNextHour = false;
 let searchQuery = '';
+let timeFilterHours = 2;
 
 // Format ISO datetime to readable format
 function formatDateTime(isoString) {
@@ -20,7 +21,17 @@ function handleSearch() {
     displaySchedule();
 }
 
-// Toggle between showing next hour or all showtimes
+// Handle time filter input
+function handleTimeFilterChange() {
+    const timeFilterInput = document.getElementById('timeFilterInput');
+    const value = parseFloat(timeFilterInput.value);
+    if (!isNaN(value) && value > 0) {
+        timeFilterHours = value;
+        displaySchedule();
+    }
+}
+
+// Toggle between showing filtered time or all showtimes
 function toggleFilter() {
     showOnlyNextHour = !showOnlyNextHour;
     displaySchedule();
@@ -35,13 +46,13 @@ function displaySchedule() {
     let startTime, endTime;
     
     if (showOnlyNextHour) {
-        const oneHourFromNow = new Date(now.getTime() + 60 * 60 * 1000);
+        const filterEndTime = new Date(now.getTime() + timeFilterHours * 60 * 60 * 1000);
         filteredShowtimes = scheduleData.showtimes.filter(showtime => {
             const showTime = new Date(showtime.show_time);
-            return showTime >= now && showTime <= oneHourFromNow;
+            return showTime >= now && showTime <= filterEndTime;
         });
         startTime = formatDateTime(now.toISOString());
-        endTime = formatDateTime(oneHourFromNow.toISOString());
+        endTime = formatDateTime(filterEndTime.toISOString());
     } else {
         filteredShowtimes = scheduleData.showtimes;
         startTime = formatDateTime(scheduleData.time_range.start);
@@ -57,7 +68,8 @@ function displaySchedule() {
     
     // Update button text
     const toggleButton = document.getElementById('toggleButton');
-    toggleButton.textContent = showOnlyNextHour ? 'Show All Showtimes' : 'Show Next Hour Only';
+    const hourText = timeFilterHours === 1 ? 'Hour' : 'Hours';
+    toggleButton.textContent = showOnlyNextHour ? 'Show All Showtimes' : `Show Next ${timeFilterHours} ${hourText}`;
     
     // Update time range
     const timeRangeEl = document.getElementById('timeRange');
