@@ -3,6 +3,7 @@ let scheduleData = null;
 let showOnlyNextHour = false;
 let searchQuery = '';
 let timeFilterHours = 2;
+let showOnlyCaptions = false;
 
 // Format ISO datetime to readable format (full date and time)
 function formatDateTime(isoString) {
@@ -45,6 +46,12 @@ function toggleFilter() {
     displaySchedule();
 }
 
+// Toggle captions-only filter
+function toggleCaptionsFilter() {
+    showOnlyCaptions = !showOnlyCaptions;
+    displaySchedule();
+}
+
 // Display the schedule based on current filter
 function displaySchedule() {
     if (!scheduleData) return;
@@ -76,6 +83,11 @@ function displaySchedule() {
         filteredShowtimes = filteredShowtimes.filter(showtime => 
             showtime.movie.toLowerCase().includes(searchQuery)
         );
+    }
+    
+    // Apply captions-only filter
+    if (showOnlyCaptions) {
+        filteredShowtimes = filteredShowtimes.filter(showtime => showtime.open_caption);
     }
     
     // Update button text
@@ -125,6 +137,9 @@ function displaySchedule() {
         `;
     }).join('');
     
+    const captionsToggleLabel = showOnlyCaptions ? 'only captions' : 'any captions';
+    const captionsHeaderClass = showOnlyCaptions ? 'captions-header captions-header-on' : 'captions-header captions-header-off';
+
     showtimesEl.innerHTML = `
         <table>
             <thead>
@@ -133,7 +148,9 @@ function displaySchedule() {
                     <th>Time</th>
                     <th>Movie</th>
                     <th>Location</th>
-                    <th>Captions</th>
+                    <th class="${captionsHeaderClass}" onclick="toggleCaptionsFilter()">
+                        ${captionsToggleLabel}
+                    </th>
                 </tr>
             </thead>
             <tbody>
