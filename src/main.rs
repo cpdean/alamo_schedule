@@ -1,5 +1,6 @@
 use anyhow::{Context, Result};
-use chrono::{DateTime, Duration, Local, NaiveDateTime, TimeZone};
+use chrono::{DateTime, Duration, NaiveDateTime, TimeZone, Utc};
+use chrono_tz::America::New_York;
 use serde::Serialize;
 use std::collections::HashMap;
 use std::path::PathBuf;
@@ -125,18 +126,21 @@ fn get_movie_schedule(
 fn recently_showing_movies<'a>(
     data: &'a RawData,
     cinema_names: &'a HashMap<String, String>,
-    now: DateTime<Local>,
-    end_time: DateTime<Local>,
+    now: DateTime<chrono_tz::Tz>,
+    end_time: DateTime<chrono_tz::Tz>,
 ) -> Vec<&'a Session> {
     data.data
         .sessions
         .iter()
         .filter(|session| {
-            // Parse the show time
-            if let Ok(show_time) =
+            // Parse the show time (API times are Eastern)
+            if let Ok(show_time_naive) =
                 NaiveDateTime::parse_from_str(&session.show_time_clt, "%Y-%m-%dT%H:%M:%S")
             {
-                let show_time = Local.from_local_datetime(&show_time).unwrap();
+                let show_time = New_York
+                    .from_local_datetime(&show_time_naive)
+                    .single()
+                    .unwrap();
                 // Filter by time and exclude Staten Island theater
                 let theater = cinema_names
                     .get(&session.cinema_id)
@@ -188,8 +192,8 @@ fn display_sessions_json<'a>(
     sessions: &Vec<&'a Session>,
     cinema_names: &HashMap<String, String>,
     movie_titles: &HashMap<String, String>,
-    now: DateTime<Local>,
-    end_time: DateTime<Local>,
+    now: DateTime<chrono_tz::Tz>,
+    end_time: DateTime<chrono_tz::Tz>,
 ) {
     let showtimes: Vec<ShowtimeInfo> = sessions
         .iter()
@@ -244,8 +248,9 @@ fn main() -> Result<()> {
 
     let (cinema_names, movie_titles, data) = get_movie_schedule(filepath)?;
 
-    // Filter and sort sessions by show time
-    let now = Local::now();
+    // Filter and sort sessions by show time using Eastern time
+    let now_utc = Utc::now();
+    let now = now_utc.with_timezone(&New_York);
     let twelve_hours = Duration::hours(12);
     let end_time = now + twelve_hours;
 
