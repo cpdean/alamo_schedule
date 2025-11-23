@@ -1,0 +1,48 @@
+{
+  "time_range": {
+    "start": "2025-11-22T22:42:52.233027-05:00",
+    "end": "2025-11-23T10:42:52.233027-05:00"
+  },
+  "showtimes": [
+    {
+      "show_time": "2025-11-22T22:45:00",
+      "movie": "Predator: Badlands",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118977",
+      "presentation_slug": "predator-badlands"
+    },
+    {
+      "show_time": "2025-11-22T22:45:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "116771",
+      "presentation_slug": "wicked-for-good"
+    },
+    {
+      "show_time": "2025-11-22T22:55:00",
+      "movie": "Predator: Badlands",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80497",
+      "presentation_slug": "predator-badlands"
+    },
+    {
+      "show_time": "2025-11-22T23:00:00",
+      "movie": "Now You See Me: Now You Don't",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118979",
+      "presentation_slug": "now-you-see-me-now-you-dont"
+    },
+    {
+      "show_time": "2025-11-22T23:00:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119297",
+      "presentation_slug": "wicked-for-good"
+    }
+  ]
+}

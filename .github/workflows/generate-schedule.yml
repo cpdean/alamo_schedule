@@ -35,6 +35,7 @@ jobs:
       - name: Run binary and capture output
         run: |
           cargo run --bin alamo_schedule --release > market_schedule.txt
+          cargo run --bin alamo_schedule --release -- --output json > current_schedule.json
 
       - name: Configure git user
         run: |
@@ -43,7 +44,7 @@ jobs:
 
       - name: Commit changes if any
         run: |
-          git add market_schedule.txt
+          git add market_schedule.txt current_schedule.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0

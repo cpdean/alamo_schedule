@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alamo Drafthouse Schedule</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .time-range {
+            font-size: 1rem;
+            opacity: 0.9;
+            margin-top: 0.5rem;
+        }
+
+        .showtimes {
+            padding: 2rem;
+        }
+
+        .showtime-card {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .showtime-card:hover {
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .movie-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 0.5rem;
+        }
+
+        .showtime-details {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            margin-top: 0.75rem;
+        }
+
+        .detail-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #4a5568;
+        }
+
+        .detail-label {
+            font-weight: 600;
+            color: #667eea;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #667eea;
+            font-size: 1.2rem;
+        }
+
+        .error {
+            background: #fee;
+            border-left: 4px solid #e53e3e;
+            padding: 1.5rem;
+            margin: 2rem;
+            border-radius: 8px;
+            color: #c53030;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .showtime-details {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎬 Alamo Drafthouse Schedule</h1>
+            <div class="time-range" id="timeRange">Loading schedule...</div>
+        </header>
+        <div class="showtimes" id="showtimes">
+            <div class="loading">Loading showtimes...</div>
+        </div>
+    </div>
+
+    <script>
+        // Format ISO datetime to readable format
+        function formatDateTime(isoString) {
+            const date = new Date(isoString);
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const hours = String(date.getHours()).padStart(2, '0');
+            const minutes = String(date.getMinutes()).padStart(2, '0');
+            return `${month}/${day} ${hours}:${minutes}`;
+        }
+
+        // Load and display the schedule
+        async function loadSchedule() {
+            try {
+                const response = await fetch('current_schedule.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load schedule');
+                }
+                
+                const data = await response.json();
+                
+                // Update time range
+                const timeRangeEl = document.getElementById('timeRange');
+                const startTime = formatDateTime(data.time_range.start);
+                const endTime = formatDateTime(data.time_range.end);
+                timeRangeEl.textContent = `Showings between ${startTime} and ${endTime}`;
+                
+                // Display showtimes
+                const showtimesEl = document.getElementById('showtimes');
+                
+                if (data.showtimes.length === 0) {
+                    showtimesEl.innerHTML = '<div class="loading">No showtimes available in this time range.</div>';
+                    return;
+                }
+                
+                showtimesEl.innerHTML = data.showtimes.map(showtime => {
+                    const formattedTime = formatDateTime(showtime.show_time);
+                    return `
+                        <div class="showtime-card">
+                            <div class="movie-title">${showtime.movie}</div>
+                            <div class="showtime-details">
+                                <div class="detail-item">
+                                    <span class="detail-label">🕐 Time:</span>
+                                    <span>${formattedTime}</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">🎭 Theater:</span>
+                                    <span>${showtime.theater}</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">🎫 Session:</span>
+                                    <span>${showtime.session_id}</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+                
+            } catch (error) {
+                console.error('Error loading schedule:', error);
+                document.getElementById('showtimes').innerHTML = `
+                    <div class="error">
+                        <strong>Error:</strong> Could not load schedule. Make sure current_schedule.json exists in the same directory.
+                    </div>
+                `;
+            }
+        }
+
+        // Load schedule when page loads
+        loadSchedule();
+    </script>
+</body>
+</html>
