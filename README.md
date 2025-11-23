@@ -62,7 +62,19 @@ The workflow can be triggered manually from the GitHub Actions tab.
 
 **IMPORTANT:** The web interface must be served through a local HTTP server to properly load the JSON data file. Opening `index.html` directly in a browser (`file://` protocol) will fail due to CORS security restrictions.
 
-Start a local Python HTTP server:
+### Local Viewing
+
+Use the provided script to start the server:
+
+```bash
+./serve.sh
+```
+
+This will display URLs for accessing the page from:
+- This device: `http://localhost:8000`
+- Other devices on the same network: `http://[your-ip]:8000`
+
+Alternatively, start the Python server manually:
 
 ```bash
 python3 -m http.server 8000
@@ -127,6 +139,7 @@ alamo_schedule/
 ├── index.html                       # Web viewer
 ├── schedule.js                      # Web viewer logic
 ├── current_schedule.json            # Schedule data
+├── serve.sh                         # Helper script to start server
 └── README.md                        # This file
 ```
 
