@@ -89,6 +89,43 @@
             box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
         }
 
+        .controls {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            justify-content: center;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .time-filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .time-filter-label {
+            color: white;
+            font-size: 0.9rem;
+        }
+
+        .time-filter-input {
+            background: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 0.5rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            width: 60px;
+            color: #2d3748;
+            text-align: center;
+        }
+
+        .time-filter-input:focus {
+            outline: none;
+            border-color: white;
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+        }
+
         .showtimes {
             padding: 2rem;
             overflow-x: auto;
@@ -193,6 +230,15 @@
                 max-width: 100%;
             }
 
+            .controls {
+                flex-direction: column;
+            }
+
+            .time-filter-group {
+                width: 100%;
+                justify-content: center;
+            }
+
             th, td {
                 padding: 0.75rem 0.5rem;
                 font-size: 0.9rem;
@@ -210,7 +256,13 @@
             <h1>🎬 Alamo Drafthouse Schedule</h1>
             <div class="time-range" id="timeRange">Loading schedule...</div>
             <input type="text" class="search-box" id="searchBox" placeholder="Search movies..." oninput="handleSearch()">
-            <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show Next Hour Only</button>
+            <div class="controls">
+                <div class="time-filter-group">
+                    <label class="time-filter-label" for="timeFilterInput">Filter hours:</label>
+                    <input type="number" class="time-filter-input" id="timeFilterInput" value="2" min="0.5" step="0.5" oninput="handleTimeFilterChange()">
+                </div>
+                <button class="toggle-button" id="toggleButton" onclick="toggleFilter()">Show Next 2 Hours</button>
+            </div>
         </header>
         <div class="showtimes" id="showtimes">
             <div class="loading">Loading showtimes...</div>
