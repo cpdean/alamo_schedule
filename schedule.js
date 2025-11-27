@@ -101,14 +101,25 @@ function displaySchedule() {
     
     // Display showtimes
     const showtimesEl = document.getElementById('showtimes');
-    
+
+    let tableRows;
     if (filteredShowtimes.length === 0) {
-        const message = showOnlyNextHour ? 'No showtimes available in the next hour.' : 'No showtimes available in this time range.';
-        showtimesEl.innerHTML = `<div class="loading">${message}</div>`;
-        return;
-    }
-    
-    const tableRows = filteredShowtimes.map(showtime => {
+        let message;
+        if (showOnlyCaptions) {
+            message = 'No upcoming open caption showtimes in this range.';
+        } else if (showOnlyNextHour) {
+            message = 'No showtimes available in the selected time window.';
+        } else {
+            message = 'No upcoming showtimes found.';
+        }
+
+        tableRows = `
+            <tr>
+                <td class="no-results-cell" colspan="5">${message}</td>
+            </tr>
+        `;
+    } else {
+        tableRows = filteredShowtimes.map(showtime => {
         const formattedTime = formatTimeOnly(showtime.show_time);
         const captionStatus = showtime.open_caption ? '✓' : '—';
         const captionClass = showtime.open_caption ? 'caption-yes' : 'caption-no';
@@ -131,16 +142,17 @@ function displaySchedule() {
             minutesDisplay = `${minutesUntilShow}m`;
         }
         
-        return `
-            <tr class="${rowClass}">
-                <td class="minutes-cell">${minutesDisplay}</td>
-                <td class="time-cell">${formattedTime}</td>
-                <td class="movie-cell">${showtime.movie}</td>
-                <td class="location-cell">${showtime.theater}</td>
-                <td class="caption-cell ${captionClass}">${captionStatus}</td>
-            </tr>
-        `;
-    }).join('');
+            return `
+                <tr class="${rowClass}">
+                    <td class="minutes-cell">${minutesDisplay}</td>
+                    <td class="time-cell">${formattedTime}</td>
+                    <td class="movie-cell">${showtime.movie}</td>
+                    <td class="location-cell">${showtime.theater}</td>
+                    <td class="caption-cell ${captionClass}">${captionStatus}</td>
+                </tr>
+            `;
+        }).join('');
+    }
     
     const captionsToggleLabel = showOnlyCaptions ? 'only captions' : 'any captions';
     const captionsHeaderClass = showOnlyCaptions ? 'captions-header captions-header-on' : 'captions-header captions-header-off';
