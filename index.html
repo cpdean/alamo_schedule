@@ -303,12 +303,15 @@
             }
 
             .controls {
-                flex-direction: column;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                justify-content: flex-start;
+                gap: 0.5rem;
             }
 
             .time-filter-group {
-                width: 100%;
-                justify-content: center;
+                width: auto;
+                justify-content: flex-start;
             }
 
             .time-filter-label {
@@ -319,12 +322,18 @@
                 border-color: #cbd5e0;
                 color: #1a202c;
                 background: #ffffff;
+                width: 52px;
+                padding: 0.35rem;
+                font-size: 0.85rem;
             }
 
             .toggle-button {
                 background: #667eea;
                 color: #ffffff;
                 box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+                padding: 0.5rem 0.75rem;
+                font-size: 0.8rem;
+                white-space: nowrap;
             }
 
             .container {
