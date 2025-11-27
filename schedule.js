@@ -116,7 +116,12 @@ function displaySchedule() {
         // Calculate minutes until show
         const showTime = new Date(showtime.show_time);
         const minutesUntilShow = Math.round((showTime - now) / (1000 * 60));
-        const rowClass = (minutesUntilShow >= 0 && minutesUntilShow < 35) ? 'row-starting-soon' : '';
+        let rowClass = '';
+        if (minutesUntilShow >= 0 && minutesUntilShow < 35) {
+            rowClass = 'row-starting-soon';
+        } else if (minutesUntilShow >= 35 && minutesUntilShow <= 60) {
+            rowClass = 'row-upcoming';
+        }
         
         // Format minutes display
         let minutesDisplay;
