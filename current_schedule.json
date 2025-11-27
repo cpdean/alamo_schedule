@@ -1,772 +1,313 @@
 {
   "time_range": {
-    "start": "2025-11-26T09:12:15.096676412-05:00",
-    "end": "2025-11-26T21:12:15.096676412-05:00"
+    "start": "2025-11-27T15:51:56.899694745-05:00",
+    "end": "2025-11-28T03:51:56.899694745-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2025-11-26T09:50:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-11-27T16:00:00",
+      "movie": "Planes, Trains & Automobiles",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "79296",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "78437",
+      "presentation_slug": "planes-trains-automobiles",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T10:00:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80720",
-      "presentation_slug": "now-you-see-me-now-you-dont",
+      "show_time": "2025-11-27T16:00:00",
+      "movie": "Planes, Trains & Automobiles",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "117126",
+      "presentation_slug": "planes-trains-automobiles",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T10:10:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80728",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T10:20:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79773",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T10:30:00",
+      "show_time": "2025-11-27T16:00:00",
       "movie": "Rental Family",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79345",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119463",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T10:40:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-11-27T16:10:00",
+      "movie": "Now You See Me: Now You Don't",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "80735",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "80746",
+      "presentation_slug": "now-you-see-me-now-you-dont",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:00:00",
+      "show_time": "2025-11-27T16:15:00",
+      "movie": "Eternity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "79780",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T16:15:00",
+      "movie": "Now You See Me: Now You Don't",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119454",
+      "presentation_slug": "now-you-see-me-now-you-dont",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T16:15:00",
+      "movie": "Rental Family",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80762",
+      "presentation_slug": "rental-family",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T16:30:00",
+      "movie": "Eternity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118448",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T16:45:00",
       "movie": "Wicked: For Good",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "116400",
+      "session_id": "119469",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:00:00",
+      "show_time": "2025-11-27T17:30:00",
       "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "78975",
+      "session_id": "80755",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:05:00",
+      "show_time": "2025-11-27T17:30:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119126",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T17:40:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80748",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T18:00:00",
+      "movie": "Sentimental Value",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119458",
+      "presentation_slug": "sentimental-value",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T18:00:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "116405",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T18:00:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "80743",
+      "session_id": "78734",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:15:00",
+      "show_time": "2025-11-27T18:10:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "77656",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T18:15:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "117406",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-11-27T18:20:00",
       "movie": "The Running Man (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119447",
+      "session_id": "119461",
       "presentation_slug": "the-running-man-2025",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:20:00",
-      "movie": "Sisu: Road to Revenge",
+      "show_time": "2025-11-27T18:30:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "79424",
-      "presentation_slug": "sisu-road-to-revenge",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:30:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119420",
+      "session_id": "80751",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T11:30:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79297",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:45:00",
-      "movie": "Predator: Badlands",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119451",
-      "presentation_slug": "predator-badlands",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:45:00",
-      "movie": "Rental Family",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119443",
-      "presentation_slug": "rental-family",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:50:00",
-      "movie": "Sentimental Value",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80734",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:50:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78976",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T11:50:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78977",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119123",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:10:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79434",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:15:00",
-      "movie": "Sentimental Value",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119436",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117403",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:30:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117973",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T12:30:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119438",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:00:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80721",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:00:00",
-      "movie": "Sisu: Road to Revenge",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118034",
-      "presentation_slug": "sisu-road-to-revenge",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:15:00",
-      "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118444",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:20:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79774",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:25:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78706",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:35:00",
-      "movie": "Rental Family",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79343",
-      "presentation_slug": "rental-family",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:50:00",
-      "movie": "Bugonia",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80729",
-      "presentation_slug": "bugonia",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T13:55:00",
+      "show_time": "2025-11-27T18:30:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80727",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119424",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T14:10:00",
+      "show_time": "2025-11-27T18:35:00",
       "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "80736",
+      "session_id": "78709",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T14:15:00",
-      "movie": "Predator: Badlands",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80742",
-      "presentation_slug": "predator-badlands",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T14:30:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "116401",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T14:30:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "77652",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T14:45:00",
-      "movie": "The Running Man (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119448",
-      "presentation_slug": "the-running-man-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T14:45:00",
+      "show_time": "2025-11-27T18:45:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119452",
+      "session_id": "119471",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T14:55:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78730",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:00:00",
+      "show_time": "2025-11-27T18:50:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119421",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "78941",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T15:05:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78936",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:15:00",
-      "movie": "Rental Family",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119445",
-      "presentation_slug": "rental-family",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117402",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:20:00",
+      "show_time": "2025-11-27T19:00:00",
       "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79350",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "117977",
       "presentation_slug": "hamnet",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T15:20:00",
-      "movie": "Sentimental Value",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80731",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:25:00",
+      "show_time": "2025-11-27T19:00:00",
       "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "78707",
+      "session_id": "78690",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T15:30:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119124",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T15:45:00",
+      "show_time": "2025-11-27T19:05:00",
       "movie": "Sentimental Value",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119437",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80757",
       "presentation_slug": "sentimental-value",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T15:45:00",
-      "movie": "Sisu: Road to Revenge",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118035",
-      "presentation_slug": "sisu-road-to-revenge",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T16:00:00",
+      "show_time": "2025-11-27T19:10:00",
       "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117971",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "79356",
       "presentation_slug": "hamnet",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T16:00:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119441",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T16:10:00",
-      "movie": "Now You See Me: Now You Don't",
+      "show_time": "2025-11-27T19:15:00",
+      "movie": "Eternity",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "80722",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T16:30:00",
-      "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118443",
+      "session_id": "79781",
       "presentation_slug": "eternity",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T16:30:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79775",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T16:40:00",
-      "movie": "Rental Family",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79341",
-      "presentation_slug": "rental-family",
-      "open_caption": true
-    },
-    {
-      "show_time": "2025-11-26T16:50:00",
-      "movie": "Sisu: Road to Revenge",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79426",
-      "presentation_slug": "sisu-road-to-revenge",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T17:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78704",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T17:20:00",
-      "movie": "Predator: Badlands",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80741",
-      "presentation_slug": "predator-badlands",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T17:40:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80726",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T17:45:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-11-27T19:15:00",
+      "movie": "Now You See Me: Now You Don't",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119450",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "119465",
+      "presentation_slug": "now-you-see-me-now-you-dont",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T17:45:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80737",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "116402",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:00:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78729",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:05:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "77651",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117401",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:30:00",
-      "movie": "Sisu: Road to Revenge",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118036",
-      "presentation_slug": "sisu-road-to-revenge",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:30:00",
-      "movie": "The Running Man (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119446",
-      "presentation_slug": "the-running-man-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:40:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79351",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:45:00",
+      "show_time": "2025-11-27T19:15:00",
       "movie": "Rental Family",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119444",
+      "session_id": "119466",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T18:45:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119419",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:45:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78937",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T18:50:00",
-      "movie": "Sentimental Value",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80732",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78688",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119125",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:15:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "117972",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:15:00",
-      "movie": "Sentimental Value",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119434",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:20:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80723",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:30:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79776",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:30:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119440",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:35:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80730",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:45:00",
-      "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118442",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-11-26T19:45:00",
+      "show_time": "2025-11-27T19:15:00",
       "movie": "Rental Family",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "79344",
+      "session_id": "80763",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T20:25:00",
-      "movie": "The Running Man (2025)",
+      "show_time": "2025-11-27T19:20:00",
+      "movie": "Now You See Me: Now You Don't",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "80740",
-      "presentation_slug": "the-running-man-2025",
+      "session_id": "80747",
+      "presentation_slug": "now-you-see-me-now-you-dont",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T20:35:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-11-27T19:25:00",
+      "movie": "Keeper",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "78705",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "80768",
+      "presentation_slug": "keeper",
       "open_caption": false
     },
     {
-      "show_time": "2025-11-26T21:05:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "78731",
-      "presentation_slug": "zootopia-2",
+      "show_time": "2025-11-27T19:45:00",
+      "movie": "Eternity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118449",
+      "presentation_slug": "eternity",
       "open_caption": false
     }
   ]
