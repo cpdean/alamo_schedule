@@ -163,7 +163,10 @@ function displaySchedule() {
 // Load and display the schedule
 async function loadSchedule() {
     try {
-        const response = await fetch('current_schedule.json');
+        const cacheBuster = Date.now();
+        const response = await fetch(`current_schedule.json?v=${cacheBuster}`, {
+            cache: 'no-store',
+        });
         if (!response.ok) {
             throw new Error('Failed to load schedule');
         }
