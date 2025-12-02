@@ -17,7 +17,23 @@ struct Cli {
 }
 
 fn main() {
-    let _args = Cli::parse();
+    let args = Cli::parse();
 
-    println!("hello world");
+    let mut parts = Vec::new();
+
+    // URL first, wrapped in single quotes to match original curl command
+    parts.push(format!("'{}'", args.url));
+
+    // Headers as repeated -H 'Header: value'
+    for header in args.headers.iter() {
+        parts.push(format!("-H '{}'", header));
+    }
+
+    // Cookies as repeated -b 'cookie=value; ...'
+    for cookie in args.cookies.iter() {
+        parts.push(format!("-b '{}'", cookie));
+    }
+
+    let reconstructed = parts.join(" ");
+    println!("{}", reconstructed);
 }
