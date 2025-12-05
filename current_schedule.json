@@ -1,555 +1,609 @@
 {
   "time_range": {
-    "start": "2025-12-04T06:11:59.013805726-05:00",
-    "end": "2025-12-04T18:11:59.013805726-05:00"
+    "start": "2025-12-05T06:11:33.503965552-05:00",
+    "end": "2025-12-05T18:11:33.503965552-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2025-12-04T09:00:00",
+      "show_time": "2025-12-05T09:00:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119693",
+      "session_id": "119738",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T09:15:00",
+      "show_time": "2025-12-05T09:20:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119743",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T09:30:00",
       "movie": "Hamnet",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119722",
+      "session_id": "119773",
       "presentation_slug": "hamnet",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T09:30:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119699",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T09:45:00",
+      "show_time": "2025-12-05T09:45:00",
       "movie": "Now You See Me: Now You Don't",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119715",
+      "session_id": "119757",
       "presentation_slug": "now-you-see-me-now-you-dont",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T10:00:00",
+      "show_time": "2025-12-05T10:00:00",
       "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119731",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81232",
       "presentation_slug": "eternity",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T10:00:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "show_time": "2025-12-05T10:00:00",
+      "movie": "Eternity",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119737",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "session_id": "119772",
+      "presentation_slug": "eternity",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T10:30:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-05T10:00:00",
+      "movie": "Jujutsu Kaisen: Execution (Dubbed)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119709",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "118683",
+      "presentation_slug": "jujutsu-kaisen-execution-dubbed",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T10:40:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81184",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T10:40:00",
+      "show_time": "2025-12-05T10:05:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81215",
+      "session_id": "81259",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T10:55:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81190",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "show_time": "2025-12-05T10:15:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118045",
+      "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T11:00:00",
+      "show_time": "2025-12-05T10:15:00",
       "movie": "Rental Family",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119727",
+      "session_id": "119765",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T11:00:00",
+      "show_time": "2025-12-05T10:30:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "79442",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T10:45:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119703",
+      "session_id": "119748",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T11:20:00",
+      "show_time": "2025-12-05T10:50:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81220",
+      "session_id": "81260",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T11:35:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81496",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T11:45:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119721",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T11:50:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81198",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T11:50:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81186",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T12:00:00",
+      "show_time": "2025-12-05T10:55:00",
       "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119716",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81225",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:05:00",
+      "show_time": "2025-12-05T11:00:00",
+      "movie": "Jujutsu Kaisen: Execution (Dubbed)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "79813",
+      "presentation_slug": "jujutsu-kaisen-execution-dubbed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:00:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119752",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:15:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81247",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:30:00",
+      "movie": "Now You See Me: Now You Don't",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81502",
+      "presentation_slug": "now-you-see-me-now-you-dont",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:30:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119763",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:40:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81212",
+      "session_id": "81266",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:15:00",
+      "show_time": "2025-12-05T11:45:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119780",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T11:50:00",
+      "movie": "Zootopia 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81255",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T12:00:00",
       "movie": "Sentimental Value",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119694",
+      "session_id": "119739",
       "presentation_slug": "sentimental-value",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:25:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-05T12:00:00",
+      "movie": "Suburban Fury",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81194",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "80138",
+      "presentation_slug": "suburban-fury",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:30:00",
+      "show_time": "2025-12-05T12:05:00",
+      "movie": "Hamnet",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81228",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T12:15:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119701",
+      "session_id": "119744",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:40:00",
+      "show_time": "2025-12-05T12:40:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81493",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T12:45:00",
+      "movie": "Hamnet",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119774",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T12:45:00",
+      "movie": "Jujutsu Kaisen: Execution (Subtitled)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118682",
+      "presentation_slug": "jujutsu-kaisen-execution-subtitled",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T13:00:00",
+      "movie": "Now You See Me: Now You Don't",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119756",
+      "presentation_slug": "now-you-see-me-now-you-dont",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T13:10:00",
+      "movie": "Eternity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81250",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T13:10:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81243",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T13:15:00",
+      "movie": "Eternity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119768",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T13:15:00",
       "movie": "Kill Bill: The Whole Bloody Affair",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81490",
+      "session_id": "81488",
       "presentation_slug": "kill-bill-the-whole-bloody-affair",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:45:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119733",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T12:45:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119734",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T12:50:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-05T13:30:00",
+      "movie": "Five Nights at Freddy's 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81267",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "79438",
+      "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T12:55:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81205",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T13:00:00",
-      "movie": "Now You See Me: Now You Don't",
+      "show_time": "2025-12-05T13:30:00",
+      "movie": "Five Nights at Freddy's 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119714",
-      "presentation_slug": "now-you-see-me-now-you-dont",
+      "session_id": "118044",
+      "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T13:05:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "show_time": "2025-12-05T13:45:00",
+      "movie": "Jujutsu Kaisen: Execution (Subtitled)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81471",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "session_id": "79812",
+      "presentation_slug": "jujutsu-kaisen-execution-subtitled",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T13:15:00",
-      "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119729",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T13:30:00",
-      "movie": "Now You See Me: Now You Don't",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81183",
-      "presentation_slug": "now-you-see-me-now-you-dont",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T13:30:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119736",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T13:35:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81216",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T14:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119707",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T14:00:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81185",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T14:15:00",
+      "show_time": "2025-12-05T13:45:00",
       "movie": "The Running Man (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119726",
+      "session_id": "119766",
       "presentation_slug": "the-running-man-2025",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T14:30:00",
+      "show_time": "2025-12-05T14:15:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119705",
+      "session_id": "119749",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T14:35:00",
+      "show_time": "2025-12-05T14:20:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81226",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T14:30:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81191",
+      "session_id": "81261",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T14:40:00",
+      "show_time": "2025-12-05T14:30:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119753",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T14:40:00",
       "movie": "Rental Family",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81209",
+      "session_id": "81237",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T14:55:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81188",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:00:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81219",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:10:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81199",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:15:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119720",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:30:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119702",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:45:00",
-      "movie": "Sentimental Value",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119697",
-      "presentation_slug": "sentimental-value",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:45:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119717",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T15:50:00",
+      "show_time": "2025-12-05T14:50:00",
       "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81211",
+      "session_id": "81248",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:00:00",
-      "movie": "Five Nights at Freddy's 2",
+      "show_time": "2025-12-05T14:55:00",
+      "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "79435",
-      "presentation_slug": "five-nights-at-freddys-2",
+      "session_id": "81256",
+      "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:00:00",
+      "show_time": "2025-12-05T15:00:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119762",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T15:15:00",
+      "movie": "Suburban Fury",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80139",
+      "presentation_slug": "suburban-fury",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T15:15:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119779",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T15:15:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119745",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T15:25:00",
+      "movie": "Hamnet",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81229",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T15:30:00",
       "movie": "Jujutsu Kaisen: Execution (Dubbed)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "118680",
+      "session_id": "118681",
       "presentation_slug": "jujutsu-kaisen-execution-dubbed",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:05:00",
-      "movie": "Eternity",
+      "show_time": "2025-12-05T15:30:00",
+      "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81202",
-      "presentation_slug": "eternity",
+      "session_id": "81265",
+      "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:15:00",
+      "show_time": "2025-12-05T15:45:00",
+      "movie": "Sentimental Value",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119740",
+      "presentation_slug": "sentimental-value",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T16:00:00",
+      "movie": "Hamnet",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119775",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T16:15:00",
       "movie": "Now You See Me: Now You Don't",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119712",
+      "session_id": "119758",
       "presentation_slug": "now-you-see-me-now-you-dont",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:30:00",
-      "movie": "Eternity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119732",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T16:30:00",
-      "movie": "Five Nights at Freddy's 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118038",
-      "presentation_slug": "five-nights-at-freddys-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T16:30:00",
-      "movie": "Jujutsu Kaisen: Execution (Dubbed)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "79809",
-      "presentation_slug": "jujutsu-kaisen-execution-dubbed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-04T16:45:00",
+      "show_time": "2025-12-05T16:15:00",
       "movie": "Wake Up Dead Man: A Knives Out Mystery",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81180",
+      "session_id": "81271",
       "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T16:45:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-05T16:20:00",
+      "movie": "Eternity",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81222",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "81233",
+      "presentation_slug": "eternity",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T17:00:00",
+      "show_time": "2025-12-05T16:30:00",
+      "movie": "Eternity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119770",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T16:30:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118043",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2025-12-05T16:30:00",
       "movie": "Five Nights at Freddy's 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81214",
+      "session_id": "79439",
       "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T17:45:00",
-      "movie": "Sentimental Value",
+      "show_time": "2025-12-05T16:30:00",
+      "movie": "Jujutsu Kaisen: Execution (Dubbed)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81208",
-      "presentation_slug": "sentimental-value",
+      "session_id": "79814",
+      "presentation_slug": "jujutsu-kaisen-execution-dubbed",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T18:00:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119718",
-      "presentation_slug": "hamnet",
+      "show_time": "2025-12-05T16:55:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81244",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T18:00:00",
+      "show_time": "2025-12-05T17:15:00",
       "movie": "Wicked: For Good",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119708",
+      "session_id": "119767",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-04T18:00:00",
+      "show_time": "2025-12-05T17:45:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81227",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T17:50:00",
+      "movie": "Sentimental Value",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81238",
+      "presentation_slug": "sentimental-value",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T18:00:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119754",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-05T18:00:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "81187",
+      "session_id": "81257",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     }
