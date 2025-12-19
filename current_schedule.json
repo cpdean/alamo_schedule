@@ -1,574 +1,610 @@
 {
   "time_range": {
-    "start": "2025-12-18T06:11:49.774549562-05:00",
-    "end": "2025-12-18T18:11:49.774549562-05:00"
+    "start": "2025-12-19T06:11:18.734205916-05:00",
+    "end": "2025-12-19T18:11:18.734205916-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2025-12-18T09:00:00",
+      "show_time": "2025-12-19T09:00:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118720",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:00:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80185",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:00:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118852",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:00:00",
       "movie": "Rental Family",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120866",
+      "session_id": "120869",
       "presentation_slug": "rental-family",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T09:15:00",
-      "movie": "Kill Bill: The Whole Bloody Affair",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120675",
-      "presentation_slug": "kill-bill-the-whole-bloody-affair",
+      "show_time": "2025-12-19T09:05:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80576",
+      "presentation_slug": "the-housemaid-2025",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T09:15:00",
+      "show_time": "2025-12-19T09:10:00",
       "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120660",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82161",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T09:30:00",
-      "movie": "Eternity",
+      "show_time": "2025-12-19T09:15:00",
+      "movie": "The Housemaid (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120647",
+      "session_id": "119176",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:15:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120688",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:30:00",
+      "movie": "Hamnet",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120699",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T09:45:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118071",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T10:00:00",
+      "movie": "Eternity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82169",
       "presentation_slug": "eternity",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T09:45:00",
-      "movie": "Now You See Me: Now You Don't",
+      "show_time": "2025-12-19T10:00:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120677",
-      "presentation_slug": "now-you-see-me-now-you-dont",
+      "session_id": "119347",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T10:00:00",
-      "movie": "Jujutsu Kaisen: Execution (Dubbed)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120679",
-      "presentation_slug": "jujutsu-kaisen-execution-dubbed",
+      "show_time": "2025-12-19T10:00:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80296",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T10:00:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120671",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T10:15:00",
-      "movie": "Wicked: For Good",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120673",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T10:30:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120676",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T10:45:00",
+      "show_time": "2025-12-19T10:10:00",
       "movie": "Five Nights at Freddy's 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120666",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82173",
       "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T10:45:00",
+      "show_time": "2025-12-19T10:30:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80190",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T10:40:00",
       "movie": "The Secret Agent",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120653",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81578",
       "presentation_slug": "the-secret-agent",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T11:00:00",
+      "show_time": "2025-12-19T10:45:00",
       "movie": "Five Nights at Freddy's 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82111",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120689",
       "presentation_slug": "five-nights-at-freddys-2",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T11:00:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-19T10:45:00",
+      "movie": "The Secret Agent",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120670",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "120680",
+      "presentation_slug": "the-secret-agent",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T11:05:00",
-      "movie": "Wicked: For Good",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82122",
-      "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T11:15:00",
+      "show_time": "2025-12-19T10:55:00",
       "movie": "Ella McCay",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82137",
+      "session_id": "82153",
       "presentation_slug": "ella-mccay",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T11:20:00",
-      "movie": "Dr. Seuss' How the Grinch Stole Christmas (2000): 25th Anniversary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82152",
-      "presentation_slug": "dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T11:45:00",
-      "movie": "Jujutsu Kaisen: Execution (Subtitled)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82143",
-      "presentation_slug": "jujutsu-kaisen-execution-subtitled",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T11:50:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82121",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:00:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82116",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:15:00",
-      "movie": "Dr. Seuss' How the Grinch Stole Christmas (2000): 25th Anniversary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82144",
-      "presentation_slug": "dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:15:00",
-      "movie": "Hamnet",
+      "show_time": "2025-12-19T11:00:00",
+      "movie": "Wicked: For Good",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120649",
+      "session_id": "120691",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T11:05:00",
+      "movie": "Hamnet",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82165",
       "presentation_slug": "hamnet",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T12:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120661",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:20:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82129",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:30:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118435",
-      "presentation_slug": "dead-mans-wire",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:30:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82142",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:40:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82148",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:45:00",
-      "movie": "Jujutsu Kaisen: Execution (Subtitled)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120678",
-      "presentation_slug": "jujutsu-kaisen-execution-subtitled",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T12:55:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82133",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T13:00:00",
+      "show_time": "2025-12-19T11:15:00",
       "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119238",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T13:00:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120672",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T13:30:00",
-      "movie": "Five Nights at Freddy's 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120665",
-      "presentation_slug": "five-nights-at-freddys-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T13:45:00",
-      "movie": "Love Actually",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82150",
-      "presentation_slug": "love-actually",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T13:50:00",
-      "movie": "Five Nights at Freddy's 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82112",
-      "presentation_slug": "five-nights-at-freddys-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T14:00:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118717",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T14:00:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119286",
+      "session_id": "118075",
       "presentation_slug": "special-event-marty-supreme-70mm-special-engagement",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:25:00",
+      "show_time": "2025-12-19T11:20:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82190",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T11:35:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82178",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T11:50:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82157",
+      "presentation_slug": "wicked-for-good",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:05:00",
+      "movie": "Zootopia 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82162",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:15:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120684",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:25:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119175",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:30:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118851",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:30:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80580",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:45:00",
+      "movie": "Hamnet",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120700",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T12:50:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80297",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:00:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119349",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:10:00",
+      "movie": "Eternity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82181",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:15:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82174",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:15:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118072",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:30:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80382",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:30:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118719",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T13:30:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120690",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T14:10:00",
       "movie": "Dust Bunny",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82138",
+      "session_id": "82154",
       "presentation_slug": "dust-bunny",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:25:00",
-      "movie": "Sense and Sensibility",
+      "show_time": "2025-12-19T14:10:00",
+      "movie": "National Lampoon's Christmas Vacation",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82151",
-      "presentation_slug": "special-event-sense-and-sensibility-30th-anniversary",
+      "session_id": "82186",
+      "presentation_slug": "national-lampoons-christmas-vacation",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:30:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80184",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T14:30:00",
+      "show_time": "2025-12-19T14:30:00",
       "movie": "The Secret Agent",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120656",
+      "session_id": "120681",
       "presentation_slug": "the-secret-agent",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:30:00",
+      "show_time": "2025-12-19T14:30:00",
       "movie": "Wicked: For Good",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120669",
+      "session_id": "120692",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:40:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-19T14:35:00",
+      "movie": "The Secret Agent",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82123",
-      "presentation_slug": "wicked-for-good",
+      "session_id": "81579",
+      "presentation_slug": "the-secret-agent",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T14:55:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82126",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:00:00",
+      "show_time": "2025-12-19T14:45:00",
       "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "119241",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:15:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80573",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120659",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:30:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "118434",
-      "presentation_slug": "dead-mans-wire",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:30:00",
-      "movie": "Wake Up Dead Man: A Knives Out Mystery",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82117",
-      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:40:00",
-      "movie": "Hamnet",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82130",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:45:00",
-      "movie": "Hamnet",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120652",
-      "presentation_slug": "hamnet",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T15:45:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119171",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:00:00",
-      "movie": "The SpongeBob Movie: Search For SquarePants",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80293",
-      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:00:00",
-      "movie": "The SpongeBob Movie: Search For SquarePants",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119087",
-      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:10:00",
-      "movie": "Eternity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82134",
-      "presentation_slug": "eternity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:25:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80181",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:30:00",
-      "movie": "Five Nights at Freddy's 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120662",
-      "presentation_slug": "five-nights-at-freddys-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:30:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119237",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T16:40:00",
-      "movie": "Five Nights at Freddy's 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82113",
-      "presentation_slug": "five-nights-at-freddys-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T17:20:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82145",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T17:20:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82139",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2025-12-18T17:30:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "119285",
+      "session_id": "118076",
       "presentation_slug": "special-event-marty-supreme-70mm-special-engagement",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T17:55:00",
-      "movie": "The Housemaid (2025)",
+      "show_time": "2025-12-19T15:05:00",
+      "movie": "Avatar: Fire and Ash",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82149",
-      "presentation_slug": "the-housemaid-2025",
+      "session_id": "80189",
+      "presentation_slug": "avatar-fire-and-ash",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T18:00:00",
-      "movie": "Wicked: For Good",
+      "show_time": "2025-12-19T15:10:00",
+      "movie": "Zootopia 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82163",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T15:15:00",
+      "movie": "Wake Up Dead Man: A Knives Out Mystery",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82179",
+      "presentation_slug": "wake-up-dead-man-a-knives-out-mystery",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T15:15:00",
+      "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120667",
+      "session_id": "120685",
+      "presentation_slug": "zootopia-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2025-12-19T15:30:00",
+      "movie": "Wicked: For Good",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82158",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2025-12-18T18:00:00",
-      "movie": "Zootopia 2",
+      "show_time": "2025-12-19T15:40:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82127",
-      "presentation_slug": "zootopia-2",
+      "session_id": "80298",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T15:45:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119174",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T15:55:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80577",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:00:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82189",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:00:00",
+      "movie": "Hamnet",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120698",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:00:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118854",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:15:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82175",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:15:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "119348",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:20:00",
+      "movie": "Eternity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82170",
+      "presentation_slug": "eternity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T16:30:00",
+      "movie": "Five Nights at Freddy's 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120693",
+      "presentation_slug": "five-nights-at-freddys-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2025-12-19T17:00:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118073",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T17:05:00",
+      "movie": "Elf",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82185",
+      "presentation_slug": "elf",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T17:15:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82155",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T18:00:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80186",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T18:00:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "118721",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T18:00:00",
+      "movie": "Hamnet",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82167",
+      "presentation_slug": "hamnet",
+      "open_caption": false
+    },
+    {
+      "show_time": "2025-12-19T18:00:00",
+      "movie": "Wicked: For Good",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120694",
+      "presentation_slug": "wicked-for-good",
       "open_caption": false
     }
   ]
