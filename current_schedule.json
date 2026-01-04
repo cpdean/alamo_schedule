@@ -1,564 +1,546 @@
 {
   "time_range": {
-    "start": "2026-01-03T06:09:26.086044841-05:00",
-    "end": "2026-01-03T18:09:26.086044841-05:00"
+    "start": "2026-01-04T06:09:37.344504167-05:00",
+    "end": "2026-01-04T18:09:37.344504167-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-01-03T10:00:00",
+      "show_time": "2026-01-04T10:00:00",
       "movie": "Avatar: Fire and Ash",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121435",
+      "session_id": "121469",
       "presentation_slug": "avatar-fire-and-ash",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T10:00:00",
+      "show_time": "2026-01-04T10:00:00",
       "movie": "The Plague",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120822",
+      "session_id": "120827",
       "presentation_slug": "the-plague",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T10:15:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121421",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T10:30:00",
+      "show_time": "2026-01-04T10:30:00",
       "movie": "Anaconda (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121412",
+      "session_id": "121454",
       "presentation_slug": "anaconda-2025",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T10:30:00",
-      "movie": "Twin Peaks",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120847",
-      "presentation_slug": "greetings-from-twin-peaks-twin-peaks-episodes-1-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T10:45:00",
+      "show_time": "2026-01-04T10:45:00",
       "movie": "Song Sung Blue (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121430",
+      "session_id": "121472",
       "presentation_slug": "song-sung-blue-2025",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T11:00:00",
-      "movie": "Twin Peaks",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82007",
-      "presentation_slug": "greetings-from-twin-peaks-twin-peaks-episodes-1-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:00:00",
+      "show_time": "2026-01-04T11:00:00",
       "movie": "Song Sung Blue (2025)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82835",
+      "session_id": "82864",
       "presentation_slug": "song-sung-blue-2025",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T11:00:00",
+      "show_time": "2026-01-04T11:00:00",
       "movie": "The Plague",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82023",
+      "session_id": "82028",
       "presentation_slug": "the-plague",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T11:00:00",
+      "show_time": "2026-01-04T11:00:00",
       "movie": "The SpongeBob Movie: Search For SquarePants",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121401",
+      "session_id": "121446",
       "presentation_slug": "the-spongebob-movie-search-for-squarepants",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T11:00:00",
-      "movie": "We Bury the Dead",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82400",
-      "presentation_slug": "we-bury-the-dead",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:05:00",
+      "show_time": "2026-01-04T11:00:00",
       "movie": "Wicked: For Good",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82837",
+      "session_id": "83056",
       "presentation_slug": "wicked-for-good",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:15:00",
-      "movie": "We Bury the Dead",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120934",
-      "presentation_slug": "we-bury-the-dead",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:30:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81558",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:30:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121428",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T11:45:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80291",
-      "presentation_slug": "avatar-fire-and-ash",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-03T12:00:00",
-      "movie": "No Other Choice",
+      "show_time": "2026-01-04T11:15:00",
+      "movie": "We Bury the Dead",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121414",
+      "session_id": "120943",
+      "presentation_slug": "we-bury-the-dead",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T11:30:00",
+      "movie": "No Other Choice",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81562",
       "presentation_slug": "no-other-choice",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T12:00:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82831",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
+      "show_time": "2026-01-04T11:30:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121458",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": true
     },
     {
-      "show_time": "2026-01-03T12:05:00",
+      "show_time": "2026-01-04T11:30:00",
       "movie": "The Secret Agent",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83053",
+      "session_id": "82878",
       "presentation_slug": "the-secret-agent",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-03T12:10:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82843",
-      "presentation_slug": "marty-supreme",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T12:10:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82828",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T12:15:00",
-      "movie": "Is This Thing On?",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121405",
-      "presentation_slug": "is-this-thing-on",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T12:15:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121422",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T12:30:00",
-      "movie": "Anaconda (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82839",
-      "presentation_slug": "anaconda-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:00:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83023",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:00:00",
-      "movie": "The Plague",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120823",
-      "presentation_slug": "the-plague",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:10:00",
-      "movie": "We Bury the Dead",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82399",
-      "presentation_slug": "we-bury-the-dead",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-03T13:15:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82846",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:30:00",
-      "movie": "Anaconda (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121402",
-      "presentation_slug": "anaconda-2025",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-03T13:35:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80274",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:45:00",
-      "movie": "The SpongeBob Movie: Search For SquarePants",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121404",
-      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T13:55:00",
-      "movie": "The Plague",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82024",
-      "presentation_slug": "the-plague",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-03T14:00:00",
-      "movie": "We Bury the Dead",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120936",
-      "presentation_slug": "we-bury-the-dead",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T14:15:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121419",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T14:30:00",
-      "movie": "Song Sung Blue (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121431",
-      "presentation_slug": "song-sung-blue-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T14:45:00",
+      "show_time": "2026-01-04T11:30:00",
       "movie": "Wicked: For Good",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121437",
+      "session_id": "121476",
       "presentation_slug": "wicked-for-good",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T14:45:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82836",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T15:00:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121434",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T15:00:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121427",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T15:05:00",
-      "movie": "Song Sung Blue (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83045",
-      "presentation_slug": "song-sung-blue-2025",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-03T15:10:00",
+      "show_time": "2026-01-04T11:45:00",
       "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "81559",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121452",
       "presentation_slug": "no-other-choice",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T15:15:00",
+      "show_time": "2026-01-04T11:50:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80279",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T12:00:00",
       "movie": "Is This Thing On?",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121403",
+      "session_id": "121442",
       "presentation_slug": "is-this-thing-on",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T15:15:00",
+      "show_time": "2026-01-04T12:00:00",
+      "movie": "Real Genius",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82008",
+      "presentation_slug": "real-genius",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T12:15:00",
+      "movie": "We Bury the Dead",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82404",
+      "presentation_slug": "we-bury-the-dead",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T12:15:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121423",
+      "session_id": "121464",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T15:25:00",
-      "movie": "Anaconda (2025)",
+      "show_time": "2026-01-04T12:15:00",
+      "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82840",
-      "presentation_slug": "anaconda-2025",
+      "session_id": "82860",
+      "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T15:30:00",
-      "movie": "No Other Choice",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121415",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T15:30:00",
-      "movie": "Reservoir Dogs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82051",
-      "presentation_slug": "reservoir-dogs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T15:40:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82829",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T16:00:00",
+      "show_time": "2026-01-04T12:25:00",
       "movie": "Marty Supreme",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82844",
+      "session_id": "82872",
       "presentation_slug": "marty-supreme",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T16:00:00",
-      "movie": "The Plague",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120824",
-      "presentation_slug": "the-plague",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T16:05:00",
-      "movie": "No Other Choice",
+      "show_time": "2026-01-04T12:40:00",
+      "movie": "Twin Peaks",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82854",
-      "presentation_slug": "no-other-choice",
+      "session_id": "82827",
+      "presentation_slug": "greetings-from-twin-peaks-twin-peaks-episodes-1-3",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T16:10:00",
-      "movie": "We Bury the Dead",
+      "show_time": "2026-01-04T12:40:00",
+      "movie": "The Housemaid (2025)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82401",
-      "presentation_slug": "we-bury-the-dead",
-      "open_caption": false
+      "session_id": "83050",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": true
     },
     {
-      "show_time": "2026-01-03T16:25:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80271",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T16:30:00",
+      "show_time": "2026-01-04T12:45:00",
       "movie": "Anaconda (2025)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121400",
-      "presentation_slug": "anaconda-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T16:45:00",
-      "movie": "The Plague",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82025",
+      "session_id": "83034",
+      "presentation_slug": "anaconda-2025",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T13:00:00",
+      "movie": "The Plague",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120828",
       "presentation_slug": "the-plague",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-01-03T16:45:00",
-      "movie": "The SpongeBob Movie: Search For SquarePants",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121410",
-      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T16:45:00",
+      "show_time": "2026-01-04T13:10:00",
       "movie": "We Bury the Dead",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120935",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82405",
       "presentation_slug": "we-bury-the-dead",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-03T16:50:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "82850",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-03T17:05:00",
+      "show_time": "2026-01-04T13:20:00",
       "movie": "Marty Supreme",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82847",
+      "session_id": "82875",
       "presentation_slug": "marty-supreme",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T18:00:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "80275",
-      "presentation_slug": "avatar-fire-and-ash",
+      "show_time": "2026-01-04T13:30:00",
+      "movie": "Anaconda (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121445",
+      "presentation_slug": "anaconda-2025",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T18:00:00",
+      "show_time": "2026-01-04T13:45:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121443",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T13:50:00",
+      "movie": "The Plague",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82031",
+      "presentation_slug": "the-plague",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T14:00:00",
+      "movie": "We Bury the Dead",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120941",
+      "presentation_slug": "we-bury-the-dead",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T14:15:00",
       "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121418",
+      "session_id": "121467",
       "presentation_slug": "marty-supreme",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T18:00:00",
+      "show_time": "2026-01-04T14:30:00",
       "movie": "Song Sung Blue (2025)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "121432",
+      "session_id": "121473",
       "presentation_slug": "song-sung-blue-2025",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-03T18:00:00",
+      "show_time": "2026-01-04T14:35:00",
+      "movie": "Song Sung Blue (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82861",
+      "presentation_slug": "song-sung-blue-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T14:45:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121470",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T14:55:00",
+      "movie": "LUPIN THE IIIRD: The Movie - The Immortal Bloodline (Subtitled)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82054",
+      "presentation_slug": "lupin-the-iiird-the-movie-the-immortal-bloodline-subtitled",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:00:00",
+      "movie": "Is This Thing On?",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121444",
+      "presentation_slug": "is-this-thing-on",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:00:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121459",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:05:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "80277",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:10:00",
+      "movie": "No Other Choice",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "81564",
+      "presentation_slug": "no-other-choice",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T15:15:00",
+      "movie": "Real Genius",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120849",
+      "presentation_slug": "real-genius",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:15:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121463",
+      "presentation_slug": "zootopia-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:25:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82833",
+      "session_id": "83060",
+      "presentation_slug": "zootopia-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T15:30:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83042",
+      "presentation_slug": "marty-supreme",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T15:30:00",
+      "movie": "No Other Choice",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121451",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T15:40:00",
+      "movie": "Anaconda (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82869",
+      "presentation_slug": "anaconda-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:00:00",
+      "movie": "The Plague",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120829",
+      "presentation_slug": "the-plague",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:05:00",
+      "movie": "We Bury the Dead",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82406",
+      "presentation_slug": "we-bury-the-dead",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:15:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82873",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:20:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82858",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:30:00",
+      "movie": "Anaconda (2025)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121447",
+      "presentation_slug": "anaconda-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:30:00",
+      "movie": "Avatar: Fire and Ash",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83038",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-04T16:45:00",
+      "movie": "The Plague",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82029",
+      "presentation_slug": "the-plague",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:45:00",
+      "movie": "The SpongeBob Movie: Search For SquarePants",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121456",
+      "presentation_slug": "the-spongebob-movie-search-for-squarepants",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T16:45:00",
+      "movie": "We Bury the Dead",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120942",
+      "presentation_slug": "we-bury-the-dead",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T17:05:00",
+      "movie": "No Other Choice",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82879",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T17:10:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82876",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T17:45:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82882",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T18:00:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121448",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-04T18:05:00",
+      "movie": "Zootopia 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82862",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     }
