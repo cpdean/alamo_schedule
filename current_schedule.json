@@ -1,503 +1,413 @@
 {
   "time_range": {
-    "start": "2026-01-19T06:14:35.390399255-05:00",
-    "end": "2026-01-19T18:14:35.390399255-05:00"
+    "start": "2026-01-20T06:16:22.680231934-05:00",
+    "end": "2026-01-20T18:16:22.680231934-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-01-19T11:00:00",
+      "show_time": "2026-01-20T11:00:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123199",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T11:00:00",
       "movie": "The Testament of Ann Lee",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120980",
+      "session_id": "120983",
       "presentation_slug": "the-testament-of-ann-lee",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T11:15:00",
+      "show_time": "2026-01-20T11:15:00",
       "movie": "Avatar: Fire and Ash",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123157",
+      "session_id": "123190",
       "presentation_slug": "avatar-fire-and-ash",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T11:15:00",
+      "show_time": "2026-01-20T11:15:00",
       "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123133",
+      "session_id": "123168",
       "presentation_slug": "marty-supreme",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-01-19T11:30:00",
+      "show_time": "2026-01-20T11:30:00",
       "movie": "No Other Choice",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123134",
+      "session_id": "123167",
       "presentation_slug": "no-other-choice",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T11:45:00",
+      "show_time": "2026-01-20T11:45:00",
       "movie": "The Chronology of Water",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123135",
+      "session_id": "123166",
       "presentation_slug": "the-chronology-of-water",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T12:00:00",
-      "movie": "The Secret Agent",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83650",
-      "presentation_slug": "the-secret-agent",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T12:00:00",
+      "show_time": "2026-01-20T12:00:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123151",
+      "session_id": "123186",
       "presentation_slug": "zootopia-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-19T12:05:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83780",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-19T12:10:00",
-      "movie": "Is This Thing On?",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83673",
-      "presentation_slug": "is-this-thing-on",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T12:15:00",
+      "show_time": "2026-01-20T12:15:00",
       "movie": "Father Mother Sister Brother",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123141",
+      "session_id": "123177",
       "presentation_slug": "father-mother-sister-brother",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T12:15:00",
+      "show_time": "2026-01-20T12:30:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "121275",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T12:45:00",
+      "movie": "Dead Man's Wire",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123182",
+      "presentation_slug": "dead-mans-wire",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-20T13:00:00",
+      "movie": "Greenland 2: Migration",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123178",
+      "presentation_slug": "greenland-2-migration",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T13:15:00",
+      "movie": "Primate",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123172",
+      "presentation_slug": "primate",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T14:15:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123198",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T14:30:00",
+      "movie": "The Testament of Ann Lee",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "120984",
+      "presentation_slug": "the-testament-of-ann-lee",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T14:45:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123171",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T15:00:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83748",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T15:00:00",
+      "movie": "No Other Choice",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123170",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T15:00:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83641",
+      "session_id": "83787",
+      "presentation_slug": "zootopia-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-20T15:05:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83680",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T15:05:00",
+      "movie": "Zootopia 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123187",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T12:20:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83657",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T12:30:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121271",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T12:30:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83767",
-      "presentation_slug": "marty-supreme",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-19T12:45:00",
-      "movie": "9 to 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123160",
-      "presentation_slug": "9-to-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T12:45:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123147",
-      "presentation_slug": "dead-mans-wire",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:00:00",
-      "movie": "Greenland 2: Migration",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123143",
-      "presentation_slug": "greenland-2-migration",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-01-19T13:05:00",
-      "movie": "Greenland 2: Migration",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83668",
-      "presentation_slug": "greenland-2-migration",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:10:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83662",
-      "presentation_slug": "dead-mans-wire",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:15:00",
+      "show_time": "2026-01-20T15:10:00",
       "movie": "Anaconda (2025)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83741",
+      "session_id": "83752",
       "presentation_slug": "anaconda-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:15:00",
-      "movie": "Primate",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123129",
-      "presentation_slug": "primate",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-19T13:30:00",
-      "movie": "Avatar: Fire and Ash",
+      "show_time": "2026-01-20T15:10:00",
+      "movie": "Is This Thing On?",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83635",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:35:00",
-      "movie": "Primate",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83645",
-      "presentation_slug": "primate",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T13:40:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83772",
-      "presentation_slug": "no-other-choice",
+      "session_id": "83764",
+      "presentation_slug": "is-this-thing-on",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-19T13:50:00",
-      "movie": "The Best Little Whorehouse in Texas",
+      "show_time": "2026-01-20T15:15:00",
+      "movie": "Twin Peaks",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83651",
-      "presentation_slug": "the-best-little-whorehouse-in-texas",
+      "session_id": "83751",
+      "presentation_slug": "greetings-from-twin-peaks-twin-peaks-episode-7-9",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T14:30:00",
-      "movie": "The Testament of Ann Lee",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "120979",
-      "presentation_slug": "the-testament-of-ann-lee",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T14:45:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83678",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T14:45:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123130",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:00:00",
-      "movie": "No Other Choice",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123131",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:05:00",
-      "movie": "Zootopia 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123150",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:10:00",
-      "movie": "Zootopia 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83653",
-      "presentation_slug": "zootopia-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:15:00",
+      "show_time": "2026-01-20T15:15:00",
       "movie": "The Chronology of Water",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123132",
+      "session_id": "123169",
       "presentation_slug": "the-chronology-of-water",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T15:20:00",
-      "movie": "Is This Thing On?",
+      "show_time": "2026-01-20T15:25:00",
+      "movie": "Avatar: Fire and Ash",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83674",
-      "presentation_slug": "is-this-thing-on",
+      "session_id": "83685",
+      "presentation_slug": "avatar-fire-and-ash",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T15:25:00",
+      "show_time": "2026-01-20T15:30:00",
       "movie": "28 Years Later: The Bone Temple",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "82977",
+      "session_id": "82982",
       "presentation_slug": "28-years-later-the-bone-temple",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-19T15:30:00",
+      "show_time": "2026-01-20T15:30:00",
       "movie": "Father Mother Sister Brother",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123142",
+      "session_id": "123179",
       "presentation_slug": "father-mother-sister-brother",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T15:35:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83656",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:45:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "121272",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:55:00",
-      "movie": "Avatar: Fire and Ash",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123159",
-      "presentation_slug": "avatar-fire-and-ash",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T15:55:00",
+      "show_time": "2026-01-20T15:30:00",
       "movie": "The Secret Agent",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83654",
+      "session_id": "83694",
       "presentation_slug": "the-secret-agent",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T16:00:00",
-      "movie": "9 to 5",
+      "show_time": "2026-01-20T15:45:00",
+      "movie": "28 Years Later: The Bone Temple",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120877",
-      "presentation_slug": "9-to-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T16:00:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123146",
-      "presentation_slug": "dead-mans-wire",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T16:00:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83677",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T16:05:00",
-      "movie": "Greenland 2: Migration",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83669",
-      "presentation_slug": "greenland-2-migration",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T16:10:00",
-      "movie": "Dead Man's Wire",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83805",
-      "presentation_slug": "dead-mans-wire",
+      "session_id": "121276",
+      "presentation_slug": "28-years-later-the-bone-temple",
       "open_caption": true
     },
     {
-      "show_time": "2026-01-19T16:15:00",
-      "movie": "Primate",
+      "show_time": "2026-01-20T15:55:00",
+      "movie": "Avatar: Fire and Ash",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123125",
-      "presentation_slug": "primate",
-      "open_caption": false
+      "session_id": "123188",
+      "presentation_slug": "avatar-fire-and-ash",
+      "open_caption": true
     },
     {
-      "show_time": "2026-01-19T16:20:00",
-      "movie": "Marty Supreme",
+      "show_time": "2026-01-20T16:00:00",
+      "movie": "Dead Man's Wire",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83664",
-      "presentation_slug": "marty-supreme",
+      "session_id": "83085",
+      "presentation_slug": "dead-mans-wire",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T16:20:00",
-      "movie": "Primate",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83655",
-      "presentation_slug": "primate",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T16:30:00",
-      "movie": "Greenland 2: Migration",
+      "show_time": "2026-01-20T16:00:00",
+      "movie": "Dead Man's Wire",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123144",
-      "presentation_slug": "greenland-2-migration",
+      "session_id": "123183",
+      "presentation_slug": "dead-mans-wire",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T17:00:00",
-      "movie": "9 to 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83652",
-      "presentation_slug": "9-to-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T17:20:00",
+      "show_time": "2026-01-20T16:15:00",
       "movie": "No Other Choice",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83659",
+      "session_id": "83701",
       "presentation_slug": "no-other-choice",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T18:00:00",
+      "show_time": "2026-01-20T16:15:00",
+      "movie": "Primate",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123176",
+      "presentation_slug": "primate",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T16:20:00",
+      "movie": "Greenland 2: Migration",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83696",
+      "presentation_slug": "greenland-2-migration",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T16:30:00",
+      "movie": "Greenland 2: Migration",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123185",
+      "presentation_slug": "greenland-2-migration",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T16:35:00",
+      "movie": "Night Stage",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "82388",
+      "presentation_slug": "night-stage",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T16:45:00",
+      "movie": "Primate",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83777",
+      "presentation_slug": "primate",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-01-20T17:15:00",
+      "movie": "Twin Peaks",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123197",
+      "presentation_slug": "greetings-from-twin-peaks-twin-peaks-episode-7-9",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T18:00:00",
       "movie": "Avatar: Fire and Ash",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83642",
+      "session_id": "83690",
       "presentation_slug": "avatar-fire-and-ash",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T18:00:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83665",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-01-19T18:00:00",
+      "show_time": "2026-01-20T18:00:00",
       "movie": "The Testament of Ann Lee",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "120978",
+      "session_id": "120985",
       "presentation_slug": "the-testament-of-ann-lee",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T18:00:00",
+      "show_time": "2026-01-20T18:00:00",
       "movie": "Zootopia 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123155",
+      "session_id": "123192",
       "presentation_slug": "zootopia-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-01-19T18:10:00",
+      "show_time": "2026-01-20T18:00:00",
       "movie": "Zootopia 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83786",
+      "session_id": "83688",
       "presentation_slug": "zootopia-2",
-      "open_caption": true
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T18:15:00",
+      "movie": "Is This Thing On?",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83705",
+      "presentation_slug": "is-this-thing-on",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-01-20T18:15:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123175",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
     }
   ]
 }
