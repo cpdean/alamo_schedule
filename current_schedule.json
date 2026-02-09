@@ -1,520 +1,430 @@
 {
   "time_range": {
-    "start": "2026-02-08T06:14:50.747705606-05:00",
-    "end": "2026-02-08T18:14:50.747705606-05:00"
+    "start": "2026-02-09T06:38:23.520602661-05:00",
+    "end": "2026-02-09T18:38:23.520602661-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-02-08T11:00:00",
-      "movie": "Dracula (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83907",
-      "presentation_slug": "dracula-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T11:00:00",
+      "show_time": "2026-02-09T11:00:00",
       "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124472",
+      "session_id": "124512",
       "presentation_slug": "marty-supreme",
       "open_caption": true
     },
     {
-      "show_time": "2026-02-08T11:10:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84853",
-      "presentation_slug": "marty-supreme",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T11:15:00",
+      "show_time": "2026-02-09T11:15:00",
       "movie": "No Other Choice",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124446",
+      "session_id": "124485",
       "presentation_slug": "no-other-choice",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T11:15:00",
-      "movie": "The Moment",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124469",
-      "presentation_slug": "the-moment",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T11:20:00",
-      "movie": "The Strangers: Chapter 3",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84239",
-      "presentation_slug": "the-strangers-chapter-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T11:25:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84755",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T11:30:00",
-      "movie": "The Phantom of the Opera (2004)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123946",
-      "presentation_slug": "alamo-crafthouse-the-phantom-of-the-opera-2004",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T11:30:00",
+      "show_time": "2026-02-09T11:30:00",
       "movie": "Send Help",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124462",
+      "session_id": "124505",
       "presentation_slug": "send-help",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-02-08T11:40:00",
-      "movie": "Shelter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84743",
-      "presentation_slug": "shelter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T11:45:00",
+      "show_time": "2026-02-09T11:45:00",
       "movie": "Dracula (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124447",
+      "session_id": "124484",
       "presentation_slug": "dracula-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T12:00:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124442",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:00:00",
-      "movie": "The Phantom of the Opera (2004)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84472",
-      "presentation_slug": "alamo-crafthouse-the-phantom-of-the-opera-2004",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:10:00",
-      "movie": "Melania",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84763",
-      "presentation_slug": "melania",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:15:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84737",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:15:00",
-      "movie": "The Moment",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84548",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:15:00",
-      "movie": "The Strangers: Chapter 3",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123600",
-      "presentation_slug": "the-strangers-chapter-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:15:00",
+      "show_time": "2026-02-09T11:45:00",
       "movie": "The Testament of Ann Lee",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124474",
+      "session_id": "124509",
       "presentation_slug": "the-testament-of-ann-lee",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T12:30:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84751",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:45:00",
-      "movie": "Arco",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84717",
-      "presentation_slug": "arco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:45:00",
-      "movie": "Melania",
+      "show_time": "2026-02-09T12:00:00",
+      "movie": "28 Years Later: The Bone Temple",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124448",
-      "presentation_slug": "melania",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T12:50:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84759",
+      "session_id": "124489",
       "presentation_slug": "28-years-later-the-bone-temple",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T13:00:00",
+      "show_time": "2026-02-09T12:00:00",
+      "movie": "The Strangers: Chapter 3",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123604",
+      "presentation_slug": "the-strangers-chapter-3",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T12:15:00",
       "movie": "The Moment",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124166",
+      "session_id": "124515",
       "presentation_slug": "the-moment",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T13:15:00",
-      "movie": "Arco",
+      "show_time": "2026-02-09T12:30:00",
+      "movie": "Melania",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124443",
-      "presentation_slug": "arco",
+      "session_id": "124483",
+      "presentation_slug": "melania",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T13:30:00",
+      "show_time": "2026-02-09T12:45:00",
+      "movie": "The Voice of Hind Rajab",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124520",
+      "presentation_slug": "the-voice-of-hind-rajab",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T13:00:00",
+      "movie": "The Moment",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124168",
+      "presentation_slug": "the-moment",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T13:15:00",
+      "movie": "Arco",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124488",
+      "presentation_slug": "arco",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T14:35:00",
+      "movie": "No Other Choice",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124487",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T14:45:00",
+      "movie": "Send Help",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124502",
+      "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T14:50:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124513",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:00:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124493",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:00:00",
       "movie": "Iron Lung",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84744",
+      "session_id": "84781",
       "presentation_slug": "iron-lung",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T13:50:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84773",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:05:00",
+      "show_time": "2026-02-09T15:00:00",
       "movie": "The Strangers: Chapter 3",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84236",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123605",
       "presentation_slug": "the-strangers-chapter-3",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T14:15:00",
-      "movie": "The Moment",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124468",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:30:00",
-      "movie": "Dracula (2026)",
+      "show_time": "2026-02-09T15:05:00",
+      "movie": "Repo Man",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83909",
-      "presentation_slug": "dracula-2026",
+      "session_id": "84778",
+      "presentation_slug": "guest-selects-repo-man",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T14:35:00",
-      "movie": "No Other Choice",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124444",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:45:00",
-      "movie": "Marty Supreme",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84748",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:45:00",
-      "movie": "Send Help",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124465",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:50:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124471",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T14:50:00",
-      "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84756",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:00:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124456",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:00:00",
-      "movie": "The Strangers: Chapter 3",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123601",
-      "presentation_slug": "the-strangers-chapter-3",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T15:10:00",
-      "movie": "Melania",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84764",
-      "presentation_slug": "melania",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:15:00",
-      "movie": "Brief Encounter (1945)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123947",
-      "presentation_slug": "brief-encounter",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:15:00",
-      "movie": "Dracula (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124445",
-      "presentation_slug": "dracula-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:15:00",
-      "movie": "The Moment",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84550",
-      "presentation_slug": "the-moment",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T15:25:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84738",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:30:00",
-      "movie": "Arco",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84849",
-      "presentation_slug": "arco",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T15:30:00",
-      "movie": "Melania",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124455",
-      "presentation_slug": "melania",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:30:00",
-      "movie": "The Testament of Ann Lee",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124473",
-      "presentation_slug": "the-testament-of-ann-lee",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:50:00",
-      "movie": "Brief Encounter (1945)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84473",
-      "presentation_slug": "brief-encounter",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T15:50:00",
+      "show_time": "2026-02-09T15:05:00",
       "movie": "The Housemaid (2025)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84871",
+      "session_id": "84872",
       "presentation_slug": "the-housemaid-2025",
       "open_caption": true
     },
     {
-      "show_time": "2026-02-08T16:00:00",
+      "show_time": "2026-02-09T15:15:00",
+      "movie": "Dracula (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124486",
+      "presentation_slug": "dracula-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T15:15:00",
+      "movie": "No Other Choice",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84786",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:20:00",
+      "movie": "Send Help",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84866",
+      "presentation_slug": "send-help",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T15:30:00",
+      "movie": "Melania",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124494",
+      "presentation_slug": "melania",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:30:00",
+      "movie": "The Testament of Ann Lee",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124511",
+      "presentation_slug": "the-testament-of-ann-lee",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:45:00",
+      "movie": "Ciao! Manhattan",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124480",
+      "presentation_slug": "guest-selects-ciao-manhattan",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:45:00",
+      "movie": "Ciao! Manhattan",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84640",
+      "presentation_slug": "guest-selects-ciao-manhattan",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T15:45:00",
+      "movie": "The Moment",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84552",
+      "presentation_slug": "the-moment",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T15:45:00",
       "movie": "The Moment",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124167",
+      "session_id": "124516",
       "presentation_slug": "the-moment",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T16:05:00",
-      "movie": "28 Years Later: The Bone Temple",
+      "show_time": "2026-02-09T16:00:00",
+      "movie": "Dracula (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84752",
-      "presentation_slug": "28-years-later-the-bone-temple",
+      "session_id": "83911",
+      "presentation_slug": "dracula-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T16:30:00",
+      "show_time": "2026-02-09T16:10:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84784",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T16:15:00",
       "movie": "Arco",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124457",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84774",
       "presentation_slug": "arco",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T16:50:00",
-      "movie": "The Strangers: Chapter 3",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84240",
-      "presentation_slug": "the-strangers-chapter-3",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-02-08T17:00:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84745",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T17:10:00",
-      "movie": "Dracula (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84769",
-      "presentation_slug": "dracula-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T17:15:00",
+      "show_time": "2026-02-09T16:15:00",
       "movie": "The Moment",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124467",
+      "session_id": "124171",
       "presentation_slug": "the-moment",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-08T17:25:00",
+      "show_time": "2026-02-09T16:25:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84788",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T16:30:00",
+      "movie": "Arco",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124492",
+      "presentation_slug": "arco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T16:50:00",
+      "movie": "Melania",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84792",
+      "presentation_slug": "melania",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T17:00:00",
       "movie": "The Testament of Ann Lee",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84874",
+      "session_id": "84875",
       "presentation_slug": "the-testament-of-ann-lee",
       "open_caption": true
     },
     {
-      "show_time": "2026-02-08T17:45:00",
-      "movie": "Send Help",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124478",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-08T18:00:00",
-      "movie": "Dracula (2026)",
+      "show_time": "2026-02-09T17:05:00",
+      "movie": "The Strangers: Chapter 3",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "83908",
-      "presentation_slug": "dracula-2026",
-      "open_caption": false
+      "session_id": "84241",
+      "presentation_slug": "the-strangers-chapter-3",
+      "open_caption": true
     },
     {
-      "show_time": "2026-02-08T18:00:00",
+      "show_time": "2026-02-09T18:00:00",
+      "movie": "Arco",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84850",
+      "presentation_slug": "arco",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T18:00:00",
       "movie": "Send Help",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124464",
+      "session_id": "124503",
       "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:15:00",
+      "movie": "No Other Choice",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124491",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:15:00",
+      "movie": "Send Help",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84794",
+      "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:15:00",
+      "movie": "The Strangers: Chapter 3",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123606",
+      "presentation_slug": "the-strangers-chapter-3",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:25:00",
+      "movie": "The Housemaid (2025)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84791",
+      "presentation_slug": "the-housemaid-2025",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:30:00",
+      "movie": "28 Years Later: The Bone Temple",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124497",
+      "presentation_slug": "28-years-later-the-bone-temple",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-02-09T18:30:00",
+      "movie": "Stray Kids : The dominATE Experience",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "122011",
+      "presentation_slug": "stray-kids-the-dominate-experience",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-09T18:30:00",
+      "movie": "Stray Kids : The dominATE Experience",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83336",
+      "presentation_slug": "stray-kids-the-dominate-experience",
       "open_caption": false
     }
   ]
