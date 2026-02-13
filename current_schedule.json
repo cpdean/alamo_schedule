@@ -1,447 +1,438 @@
 {
   "time_range": {
-    "start": "2026-02-12T06:32:46.595434866-05:00",
-    "end": "2026-02-12T18:32:46.595434866-05:00"
+    "start": "2026-02-13T06:23:28.186454660-05:00",
+    "end": "2026-02-13T18:23:28.186454660-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-02-12T11:00:00",
-      "movie": "No Other Choice",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124712",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T11:15:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124725",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T11:30:00",
-      "movie": "Iron Lung",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124726",
-      "presentation_slug": "iron-lung",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T11:45:00",
-      "movie": "Marty Supreme",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124721",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T12:00:00",
-      "movie": "Send Help",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124708",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T12:15:00",
-      "movie": "The Testament of Ann Lee",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124723",
-      "presentation_slug": "the-testament-of-ann-lee",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T12:30:00",
-      "movie": "The Moment",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124699",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T12:45:00",
-      "movie": "Iron Lung",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124722",
-      "presentation_slug": "iron-lung",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T12:45:00",
-      "movie": "Send Help",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124724",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T13:00:00",
-      "movie": "Arco",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124703",
-      "presentation_slug": "arco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T13:00:00",
-      "movie": "No Other Choice",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124727",
-      "presentation_slug": "no-other-choice",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T13:30:00",
-      "movie": "The Moment",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124718",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T14:30:00",
-      "movie": "The Strangers: Chapter 3",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124713",
-      "presentation_slug": "the-strangers-chapter-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T14:45:00",
-      "movie": "Goat",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123479",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Dracula (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85039",
-      "presentation_slug": "dracula-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Melania",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85047",
-      "presentation_slug": "melania",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Send Help",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124709",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85031",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "122018",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:00:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83414",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:15:00",
-      "movie": "Goat",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83877",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:15:00",
-      "movie": "The Moment",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124700",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:20:00",
-      "movie": "The Housemaid (2025)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85048",
-      "presentation_slug": "the-housemaid-2025",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:25:00",
-      "movie": "The Moment",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85034",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:25:00",
-      "movie": "The Testament of Ann Lee",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85050",
-      "presentation_slug": "the-testament-of-ann-lee",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:30:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124618",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:40:00",
-      "movie": "Arco",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85049",
-      "presentation_slug": "arco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:45:00",
-      "movie": "Goat",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124719",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T15:45:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124704",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:00:00",
-      "movie": "Crime 101",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84131",
-      "presentation_slug": "crime-101",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:00:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123559",
-      "presentation_slug": "good-luck-have-fun-dont-die",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:00:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124720",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:20:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84204",
-      "presentation_slug": "good-luck-have-fun-dont-die",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:30:00",
+      "show_time": "2026-02-13T10:30:00",
       "movie": "Pillion",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124648",
+      "session_id": "124671",
       "presentation_slug": "pillion",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T16:30:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84194",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:35:00",
-      "movie": "28 Years Later: The Bone Temple",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85043",
-      "presentation_slug": "28-years-later-the-bone-temple",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T16:45:00",
-      "movie": "Wuthering Heights (2026)",
+      "show_time": "2026-02-13T11:00:00",
+      "movie": "Crime 101",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124716",
-      "presentation_slug": "wuthering-heights-2026",
+      "session_id": "123536",
+      "presentation_slug": "crime-101",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T17:00:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84629",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T17:30:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124714",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T17:45:00",
+      "show_time": "2026-02-13T11:00:00",
       "movie": "No Other Choice",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85040",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124740",
       "presentation_slug": "no-other-choice",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:00:00",
-      "movie": "Goat",
+      "show_time": "2026-02-13T11:15:00",
+      "movie": "Marty Supreme",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "123480",
-      "presentation_slug": "goat",
+      "session_id": "124873",
+      "presentation_slug": "marty-supreme",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:00:00",
-      "movie": "Goat",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "83880",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T18:10:00",
-      "movie": "The Moment",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85035",
-      "presentation_slug": "the-moment",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-02-12T18:10:00",
+      "show_time": "2026-02-13T11:30:00",
       "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85045",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "122024",
       "presentation_slug": "wuthering-heights-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:15:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85032",
-      "presentation_slug": "send-help",
+      "show_time": "2026-02-13T11:45:00",
+      "movie": "Goat",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123485",
+      "presentation_slug": "goat",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:15:00",
+      "show_time": "2026-02-13T12:15:00",
       "movie": "Send Help",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124710",
+      "session_id": "124731",
       "presentation_slug": "send-help",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:15:00",
+      "show_time": "2026-02-13T12:30:00",
+      "movie": "Arco",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124733",
+      "presentation_slug": "arco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T12:30:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124621",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T12:45:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123586",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T13:15:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123622",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T13:30:00",
+      "movie": "Pillion",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124668",
+      "presentation_slug": "pillion",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T13:30:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124746",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:30:00",
+      "movie": "Crime 101",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123535",
+      "presentation_slug": "crime-101",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:30:00",
+      "movie": "The Strangers: Chapter 3",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124741",
+      "presentation_slug": "the-strangers-chapter-3",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:40:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84197",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:45:00",
+      "movie": "Cold Storage",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85062",
+      "presentation_slug": "cold-storage",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:45:00",
+      "movie": "Goat",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123484",
+      "presentation_slug": "goat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T14:45:00",
       "movie": "The Moment",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124701",
+      "session_id": "124737",
       "presentation_slug": "the-moment",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:25:00",
+      "show_time": "2026-02-13T15:00:00",
+      "movie": "Goat",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83883",
+      "presentation_slug": "goat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:00:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "122023",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:05:00",
       "movie": "Dracula (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "85037",
+      "session_id": "85061",
       "presentation_slug": "dracula-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-02-12T18:30:00",
+      "show_time": "2026-02-13T15:10:00",
+      "movie": "Arco",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85139",
+      "presentation_slug": "arco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:15:00",
+      "movie": "Crime 101",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84133",
+      "presentation_slug": "crime-101",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:15:00",
+      "movie": "The Testament of Ann Lee",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124732",
+      "presentation_slug": "the-testament-of-ann-lee",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:20:00",
+      "movie": "Send Help",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85051",
+      "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:25:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83416",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:40:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84206",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:40:00",
+      "movie": "The Moment",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85058",
+      "presentation_slug": "the-moment",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T15:45:00",
+      "movie": "Send Help",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124730",
+      "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:00:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123587",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:00:00",
       "movie": "Wuthering Heights (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "122019",
+      "session_id": "124622",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:05:00",
+      "movie": "Scarlet (Subtitled)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85170",
+      "presentation_slug": "scarlet-subtitled",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:20:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84499",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:30:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123621",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T16:30:00",
+      "movie": "Pillion",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124670",
+      "presentation_slug": "pillion",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:00:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124742",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:00:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84632",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:10:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85054",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:25:00",
+      "movie": "No Other Choice",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85066",
+      "presentation_slug": "no-other-choice",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:30:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124743",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T17:50:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85067",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:00:00",
+      "movie": "Goat",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123483",
+      "presentation_slug": "goat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:05:00",
+      "movie": "Goat",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83884",
+      "presentation_slug": "goat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:15:00",
+      "movie": "Crime 101",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123537",
+      "presentation_slug": "crime-101",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:15:00",
+      "movie": "Dracula (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85060",
+      "presentation_slug": "dracula-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:15:00",
+      "movie": "The Moment",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124738",
+      "presentation_slug": "the-moment",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-02-13T18:15:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "83417",
       "presentation_slug": "wuthering-heights-2026",
       "open_caption": false
     }
