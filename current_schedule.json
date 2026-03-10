@@ -1,485 +1,494 @@
 {
   "time_range": {
-    "start": "2026-03-09T07:27:55.390702882-04:00",
-    "end": "2026-03-09T19:27:55.390702882-04:00"
+    "start": "2026-03-10T07:24:54.231438337-04:00",
+    "end": "2026-03-10T19:24:54.231438337-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-03-09T11:40:00",
+      "show_time": "2026-03-10T11:30:00",
       "movie": "Scream 7",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125882",
+      "session_id": "125953",
       "presentation_slug": "scream-7",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-03-09T11:45:00",
+      "show_time": "2026-03-10T11:30:00",
       "movie": "Wuthering Heights (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125896",
+      "session_id": "125934",
       "presentation_slug": "wuthering-heights-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T12:00:00",
+      "show_time": "2026-03-10T11:45:00",
       "movie": "Good Luck, Have Fun, Don't Die",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125878",
+      "session_id": "125921",
       "presentation_slug": "good-luck-have-fun-dont-die",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T12:00:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123657",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T12:15:00",
+      "show_time": "2026-03-10T12:00:00",
       "movie": "EPiC: Elvis Presley in Concert",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125877",
+      "session_id": "125929",
       "presentation_slug": "epic-elvis-presley-in-concert",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T12:15:00",
+      "show_time": "2026-03-10T12:00:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123661",
+      "presentation_slug": "hoppers",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-10T12:00:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125933",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T12:15:00",
       "movie": "Goat",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125893",
+      "session_id": "125937",
       "presentation_slug": "goat",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T12:15:00",
-      "movie": "Nirvanna The Band The Show The Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125895",
-      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T12:30:00",
-      "movie": "Pillion",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125894",
-      "presentation_slug": "pillion",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T12:45:00",
+      "show_time": "2026-03-10T12:15:00",
       "movie": "The Bride! (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125917",
+      "session_id": "125918",
       "presentation_slug": "the-bride-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T13:00:00",
-      "movie": "Marty Supreme",
+      "show_time": "2026-03-10T12:45:00",
+      "movie": "How to Make a Killing",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125901",
-      "presentation_slug": "marty-supreme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T13:30:00",
-      "movie": "2026 Oscar-Nominated Short Films: Animation",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125914",
-      "presentation_slug": "2026-oscar-nominated-short-films-animation",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T14:50:00",
-      "movie": "Scream 7",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125884",
-      "presentation_slug": "scream-7",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:00:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86263",
-      "presentation_slug": "good-luck-have-fun-dont-die",
+      "session_id": "125936",
+      "presentation_slug": "how-to-make-a-killing",
       "open_caption": true
     },
     {
-      "show_time": "2026-03-09T15:00:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123658",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:00:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84623",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:00:00",
-      "movie": "The Lord of the Rings: The Fellowship of the Ring: Extended Edition",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125748",
-      "presentation_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:15:00",
-      "movie": "Goat",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125897",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:15:00",
-      "movie": "Nirvanna The Band The Show The Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125900",
-      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:15:00",
-      "movie": "The Lord of the Rings: The Fellowship of the Ring: Extended Edition",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85842",
-      "presentation_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:15:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125899",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:25:00",
-      "movie": "Heel",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86253",
-      "presentation_slug": "heel",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:25:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86290",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-03-09T15:30:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125879",
-      "presentation_slug": "good-luck-have-fun-dont-die",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:35:00",
-      "movie": "Sirāt",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86190",
-      "presentation_slug": "sirat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T15:45:00",
-      "movie": "Nirvanna The Band The Show The Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86269",
-      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-03-09T15:45:00",
+      "show_time": "2026-03-10T13:00:00",
       "movie": "Pillion",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125898",
+      "session_id": "125938",
       "presentation_slug": "pillion",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T16:00:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86179",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:00:00",
-      "movie": "Pillion",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86194",
-      "presentation_slug": "pillion",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:00:00",
-      "movie": "The Bride! (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125993",
-      "presentation_slug": "the-bride-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:05:00",
-      "movie": "The Bride! (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85531",
-      "presentation_slug": "the-bride-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-03-09T16:15:00",
+      "show_time": "2026-03-10T13:15:00",
       "movie": "2026 Oscar-Nominated Short Films: Live Action",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125915",
+      "session_id": "125923",
       "presentation_slug": "2026-oscar-nominated-short-films-live-action",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T16:20:00",
-      "movie": "Send Help",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86195",
-      "presentation_slug": "send-help",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:30:00",
-      "movie": "Peaky Blinders: The Immortal Man",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85808",
-      "presentation_slug": "peaky-blinders-the-immortal-man",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:45:00",
-      "movie": "How to Make a Killing",
+      "show_time": "2026-03-10T14:40:00",
+      "movie": "Scream 7",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125905",
-      "presentation_slug": "how-to-make-a-killing",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T16:50:00",
-      "movie": "EPiC: Elvis Presley in Concert",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86192",
-      "presentation_slug": "epic-elvis-presley-in-concert",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T17:00:00",
-      "movie": "Scream 7",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86187",
+      "session_id": "125954",
       "presentation_slug": "scream-7",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:00:00",
+      "show_time": "2026-03-10T15:00:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86207",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T15:00:00",
       "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "123659",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84625",
       "presentation_slug": "hoppers",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:00:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84624",
-      "presentation_slug": "hoppers",
-      "open_caption": true
+      "show_time": "2026-03-10T15:00:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125935",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:00:00",
+      "show_time": "2026-03-10T15:00:00",
       "movie": "Scream 7",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125886",
+      "session_id": "125930",
       "presentation_slug": "scream-7",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:15:00",
+      "show_time": "2026-03-10T15:00:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125943",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T15:15:00",
       "movie": "Goat",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125903",
+      "session_id": "125941",
       "presentation_slug": "goat",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:15:00",
-      "movie": "Nirvanna The Band The Show The Movie",
+      "show_time": "2026-03-10T15:15:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125904",
-      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-09T18:20:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86189",
+      "session_id": "125922",
       "presentation_slug": "good-luck-have-fun-dont-die",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:35:00",
+      "show_time": "2026-03-10T15:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123662",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T15:25:00",
       "movie": "Heel",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86254",
+      "session_id": "86255",
       "presentation_slug": "heel",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:40:00",
-      "movie": "Nirvanna The Band The Show The Movie",
+      "show_time": "2026-03-10T15:25:00",
+      "movie": "Jurassic Park",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86185",
-      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "session_id": "85992",
+      "presentation_slug": "jurassic-park",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:45:00",
+      "show_time": "2026-03-10T15:25:00",
       "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125902",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86201",
       "presentation_slug": "wuthering-heights-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T18:55:00",
+      "show_time": "2026-03-10T15:30:00",
+      "movie": "The Bride! (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125919",
+      "presentation_slug": "the-bride-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T15:40:00",
       "movie": "Sirāt",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86284",
+      "session_id": "86285",
       "presentation_slug": "sirat",
       "open_caption": true
     },
     {
-      "show_time": "2026-03-09T18:55:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86183",
-      "presentation_slug": "wuthering-heights-2026",
+      "show_time": "2026-03-10T15:45:00",
+      "movie": "How to Make a Killing",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125940",
+      "presentation_slug": "how-to-make-a-killing",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T19:00:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
+      "show_time": "2026-03-10T16:00:00",
+      "movie": "The Bride! (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85533",
+      "presentation_slug": "the-bride-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:10:00",
+      "movie": "How to Make a Killing",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86239",
+      "presentation_slug": "how-to-make-a-killing",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:15:00",
+      "movie": "Pillion",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "125887",
+      "session_id": "125942",
+      "presentation_slug": "pillion",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:20:00",
+      "movie": "Send Help",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86214",
+      "presentation_slug": "send-help",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:25:00",
+      "movie": "Peaky Blinders: The Immortal Man",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85812",
+      "presentation_slug": "peaky-blinders-the-immortal-man",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-10T16:30:00",
+      "movie": "2026 Oscar-Nominated Short Films: Animation",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125924",
+      "presentation_slug": "2026-oscar-nominated-short-films-animation",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:50:00",
+      "movie": "EPiC: Elvis Presley in Concert",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86211",
+      "presentation_slug": "epic-elvis-presley-in-concert",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T16:50:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86203",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T17:00:00",
+      "movie": "Scream 7",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86205",
+      "presentation_slug": "scream-7",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T17:00:00",
+      "movie": "The Lord of the Rings: The Fellowship of the Ring: Extended Edition",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85542",
+      "presentation_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:00:00",
+      "movie": "Hoppers",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84626",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:00:00",
+      "movie": "Nirvanna The Band The Show The Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125939",
+      "presentation_slug": "nirvanna-the-band-the-show-the-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:00:00",
+      "movie": "One Piece: Into the Grand Line - Fan Event",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125300",
+      "presentation_slug": "one-piece-into-the-grand-line",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:15:00",
+      "movie": "Goat",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125947",
+      "presentation_slug": "goat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "123663",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:15:00",
+      "movie": "Scream 7",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125931",
+      "presentation_slug": "scream-7",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-10T18:20:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86208",
       "presentation_slug": "good-luck-have-fun-dont-die",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T19:00:00",
-      "movie": "Mystery Machine (3/9/2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85025",
-      "presentation_slug": "mystery-machine-3-9-2026",
+      "show_time": "2026-03-10T18:30:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125946",
+      "presentation_slug": "wuthering-heights-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T19:00:00",
+      "show_time": "2026-03-10T18:35:00",
+      "movie": "Heel",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86256",
+      "presentation_slug": "heel",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:45:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125926",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:45:00",
+      "movie": "Marty Supreme",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125944",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:45:00",
+      "movie": "The Bride! (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125920",
+      "presentation_slug": "the-bride-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:50:00",
+      "movie": "Marty Supreme",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86198",
+      "presentation_slug": "marty-supreme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:50:00",
+      "movie": "Sirāt",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86210",
+      "presentation_slug": "sirat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T18:55:00",
+      "movie": "Wuthering Heights (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86202",
+      "presentation_slug": "wuthering-heights-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T19:15:00",
+      "movie": "2026 Oscar-Nominated Short Films: Live Action",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125925",
+      "presentation_slug": "2026-oscar-nominated-short-films-live-action",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-10T19:15:00",
       "movie": "Pillion",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125909",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86213",
       "presentation_slug": "pillion",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-03-09T19:05:00",
-      "movie": "How to Make a Killing",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86266",
-      "presentation_slug": "how-to-make-a-killing",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-03-09T19:15:00",
-      "movie": "The Bride! (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "125992",
-      "presentation_slug": "the-bride-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-09T19:25:00",
+      "show_time": "2026-03-10T19:20:00",
       "movie": "The Bride! (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "85532",
+      "session_id": "85534",
       "presentation_slug": "the-bride-2026",
-      "open_caption": false
+      "open_caption": true
     }
   ]
 }
