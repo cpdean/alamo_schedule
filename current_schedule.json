@@ -1,493 +1,520 @@
 {
   "time_range": {
-    "start": "2026-03-26T07:41:23.948564157-04:00",
-    "end": "2026-03-26T19:41:23.948564157-04:00"
+    "start": "2026-03-27T07:34:37.975699584-04:00",
+    "end": "2026-03-27T19:34:37.975699584-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-03-26T11:00:00",
+      "show_time": "2026-03-27T11:00:00",
       "movie": "Project Hail Mary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126230",
+      "session_id": "126234",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-26T11:15:00",
-      "movie": "Reminders of Him",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127046",
-      "presentation_slug": "reminders-of-him",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T11:45:00",
-      "movie": "Goat",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127040",
-      "presentation_slug": "goat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T12:00:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127032",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T12:15:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127025",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T12:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127022",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T12:45:00",
-      "movie": "2026 Oscar-Nominated Short Films: Animation",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127042",
-      "presentation_slug": "2026-oscar-nominated-short-films-animation",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T12:45:00",
-      "movie": "Wuthering Heights (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127045",
-      "presentation_slug": "wuthering-heights-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T13:00:00",
-      "movie": "Pillion",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127044",
-      "presentation_slug": "pillion",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T13:00:00",
-      "movie": "Undertone",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127036",
-      "presentation_slug": "undertone",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T13:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127041",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T13:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127030",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T14:30:00",
-      "movie": "The Bride! (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127047",
-      "presentation_slug": "the-bride-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T14:45:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126229",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:00:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87163",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:00:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127033",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:00:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87158",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:00:00",
-      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126176",
-      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:05:00",
-      "movie": "Reminders of Him",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87167",
-      "presentation_slug": "reminders-of-him",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:10:00",
-      "movie": "They Will Kill You",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86334",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:15:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127026",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:20:00",
-      "movie": "Sirāt",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87166",
-      "presentation_slug": "sirat",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:30:00",
-      "movie": "2026 Oscar-Nominated Short Films: Live Action",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127043",
-      "presentation_slug": "2026-oscar-nominated-short-films-live-action",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:35:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87173",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T15:40:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87161",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:00:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86405",
-      "presentation_slug": "forbidden-fruits",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:00:00",
-      "movie": "Marc by Sofia",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126149",
-      "presentation_slug": "marc-by-sofia",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:00:00",
-      "movie": "Undertone",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127037",
-      "presentation_slug": "undertone",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:05:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87160",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:15:00",
-      "movie": "Good Luck, Have Fun, Don't Die",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87168",
-      "presentation_slug": "good-luck-have-fun-dont-die",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127023",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:30:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126629",
-      "presentation_slug": "forbidden-fruits",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T16:30:00",
-      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86306",
-      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:00:00",
-      "movie": "Peaky Blinders: The Immortal Man",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87170",
-      "presentation_slug": "peaky-blinders-the-immortal-man",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:00:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87172",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:00:00",
-      "movie": "They Will Kill You",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126262",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127029",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:40:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87156",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T17:45:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127048",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:00:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127034",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:00:00",
-      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126177",
-      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:05:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87164",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:15:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127027",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:15:00",
-      "movie": "They Will Kill You",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86335",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87165",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126232",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:45:00",
-      "movie": "Marc by Sofia",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126150",
-      "presentation_slug": "marc-by-sofia",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:45:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87162",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T18:55:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87157",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-03-26T19:00:00",
+      "show_time": "2026-03-27T11:15:00",
       "movie": "Alpha (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126646",
+      "session_id": "126649",
       "presentation_slug": "alpha-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-26T19:00:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86407",
-      "presentation_slug": "forbidden-fruits",
+      "show_time": "2026-03-27T11:30:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126267",
+      "presentation_slug": "they-will-kill-you",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-26T19:00:00",
+      "show_time": "2026-03-27T12:00:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127051",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T12:00:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126202",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T12:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127058",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T12:15:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127052",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T12:30:00",
       "movie": "Undertone",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127038",
+      "session_id": "127060",
       "presentation_slug": "undertone",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-26T19:30:00",
-      "movie": "Forbidden Fruits",
+      "show_time": "2026-03-27T12:45:00",
+      "movie": "Reminders of Him",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126603",
+      "session_id": "126990",
+      "presentation_slug": "reminders-of-him",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T13:00:00",
+      "movie": "Stand By Me",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126207",
+      "presentation_slug": "stand-by-me-1986",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T13:15:00",
+      "movie": "Marc by Sofia",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126155",
+      "presentation_slug": "marc-by-sofia",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T14:15:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126266",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-27T14:30:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127056",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T14:45:00",
+      "movie": "Alpha (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126648",
+      "presentation_slug": "alpha-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T14:45:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126233",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:00:00",
+      "movie": "Hoppers",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87190",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:00:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126181",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:05:00",
+      "movie": "They Will Kill You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87201",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:10:00",
+      "movie": "Alpha (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86681",
+      "presentation_slug": "alpha-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127059",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127053",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87182",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:15:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87188",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:30:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86408",
       "presentation_slug": "forbidden-fruits",
       "open_caption": false
     },
     {
-      "show_time": "2026-03-26T19:30:00",
+      "show_time": "2026-03-27T15:30:00",
+      "movie": "Undertone",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127061",
+      "presentation_slug": "undertone",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-27T15:40:00",
+      "movie": "Stand By Me",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87200",
+      "presentation_slug": "stand-by-me-1986",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:45:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126989",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:45:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127054",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T15:50:00",
+      "movie": "They Will Kill You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86336",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:00:00",
+      "movie": "Decorado",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125277",
+      "presentation_slug": "decorado",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:00:00",
+      "movie": "Good Luck, Have Fun, Don't Die",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87194",
+      "presentation_slug": "good-luck-have-fun-dont-die",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:00:00",
+      "movie": "Marc by Sofia",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126154",
+      "presentation_slug": "marc-by-sofia",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:05:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87179",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:15:00",
       "movie": "The AI Doc: Or How I Became an Apocaloptimist",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86307",
+      "session_id": "86308",
       "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T16:35:00",
+      "movie": "Peaky Blinders: The Immortal Man",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87196",
+      "presentation_slug": "peaky-blinders-the-immortal-man",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T17:00:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87184",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T17:00:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126263",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T17:05:00",
+      "movie": "Sirāt",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87192",
+      "presentation_slug": "sirat",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:00:00",
+      "movie": "Hoppers",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87191",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:00:00",
+      "movie": "Stand By Me",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85996",
+      "presentation_slug": "stand-by-me-1986",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:00:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126180",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:15:00",
+      "movie": "Alpha (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126670",
+      "presentation_slug": "alpha-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127062",
+      "presentation_slug": "hoppers",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-03-27T18:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87186",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:20:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87189",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:30:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86409",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:30:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126236",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:30:00",
+      "movie": "Undertone",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127063",
+      "presentation_slug": "undertone",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:35:00",
+      "movie": "Alpha (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86680",
+      "presentation_slug": "alpha-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:45:00",
+      "movie": "Marc by Sofia",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126153",
+      "presentation_slug": "marc-by-sofia",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:45:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127055",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T18:45:00",
+      "movie": "They Will Kill You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86337",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T19:00:00",
+      "movie": "The Serpent's Skin",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "125278",
+      "presentation_slug": "live-qa-the-serpents-skin",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T19:10:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87183",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T19:15:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126606",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T19:15:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86309",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-03-27T19:30:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87195",
+      "presentation_slug": "forbidden-fruits",
       "open_caption": false
     }
   ]
