@@ -1,745 +1,799 @@
 {
   "time_range": {
-    "start": "2026-04-06T07:40:29.740721739-04:00",
-    "end": "2026-04-06T19:40:29.740721739-04:00"
+    "start": "2026-04-07T07:44:22.506716590-04:00",
+    "end": "2026-04-07T19:44:22.506716590-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-04-06T09:00:00",
+      "show_time": "2026-04-07T09:00:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126213",
+      "session_id": "126214",
       "presentation_slug": "special-event-the-super-mario-galaxy-movie-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T09:15:00",
+      "show_time": "2026-04-07T09:15:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127614",
+      "session_id": "127648",
       "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-04-06T09:30:00",
+      "show_time": "2026-04-07T09:30:00",
       "movie": "Project Hail Mary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127642",
+      "session_id": "127656",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T09:30:00",
+      "show_time": "2026-04-07T09:30:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127622",
+      "session_id": "127661",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T09:50:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127645",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T10:00:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127608",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T10:00:00",
+      "show_time": "2026-04-07T09:45:00",
       "movie": "The Drama",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126720",
+      "session_id": "126725",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T10:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127629",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T10:15:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127640",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T10:30:00",
-      "movie": "They Will Kill You",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127618",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T11:00:00",
+      "show_time": "2026-04-07T10:00:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "85921",
+      "session_id": "85935",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T11:15:00",
+      "show_time": "2026-04-07T10:00:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127684",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:10:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87921",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:15:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127669",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:15:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86982",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:15:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127680",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:30:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87907",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T10:30:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127659",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:00:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85931",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:10:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87853",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:15:00",
       "movie": "Hoppers",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127631",
+      "session_id": "127673",
       "presentation_slug": "hoppers",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T11:20:00",
-      "movie": "They Will Kill You",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87797",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T11:25:00",
+      "show_time": "2026-04-07T11:20:00",
       "movie": "The Drama",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87774",
+      "session_id": "87814",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T11:30:00",
+      "show_time": "2026-04-07T11:20:00",
+      "movie": "They Will Kill You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87837",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:30:00",
       "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87786",
+      "session_id": "87826",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T11:55:00",
+      "show_time": "2026-04-07T11:30:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127654",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-07T11:45:00",
       "movie": "The AI Doc: Or How I Became an Apocaloptimist",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87807",
+      "session_id": "87847",
       "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:00:00",
+      "show_time": "2026-04-07T11:45:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87852",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:45:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126212",
+      "session_id": "127688",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T11:55:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87818",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T12:00:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126215",
       "presentation_slug": "special-event-the-super-mario-galaxy-movie-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:00:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87778",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T12:10:00",
+      "show_time": "2026-04-07T12:10:00",
       "movie": "Hoppers",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87782",
+      "session_id": "87822",
       "presentation_slug": "hoppers",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:15:00",
+      "show_time": "2026-04-07T12:15:00",
       "movie": "The AI Doc: Or How I Became an Apocaloptimist",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127613",
+      "session_id": "127649",
       "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:30:00",
+      "show_time": "2026-04-07T12:30:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127615",
+      "session_id": "127660",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:30:00",
+      "show_time": "2026-04-07T12:45:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127623",
+      "session_id": "127686",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:45:00",
+      "show_time": "2026-04-07T12:55:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85936",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T13:00:00",
       "movie": "Project Hail Mary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126986",
+      "session_id": "126987",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T12:45:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127646",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T12:55:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85922",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T13:00:00",
+      "show_time": "2026-04-07T13:00:00",
       "movie": "The Drama",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127625",
+      "session_id": "127667",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:00:00",
+      "show_time": "2026-04-07T13:00:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127639",
+      "session_id": "127681",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:05:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87812",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T13:10:00",
+      "show_time": "2026-04-07T13:10:00",
       "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87949",
+      "session_id": "87829",
       "presentation_slug": "project-hail-mary",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T13:15:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86980",
-      "presentation_slug": "the-drama",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T13:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126721",
-      "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:15:00",
+      "show_time": "2026-04-07T13:10:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87920",
+      "session_id": "87922",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:15:00",
+      "show_time": "2026-04-07T13:15:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86986",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T13:15:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126726",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T13:15:00",
       "movie": "They Will Kill You",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127619",
+      "session_id": "127662",
       "presentation_slug": "they-will-kill-you",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:35:00",
+      "show_time": "2026-04-07T13:30:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87905",
+      "session_id": "87906",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T13:45:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127643",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T13:45:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87811",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T13:55:00",
+      "show_time": "2026-04-07T13:55:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88088",
-      "presentation_slug": "movie-party-the-super-mario-galaxy-movie-star-party",
+      "session_id": "85932",
+      "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T14:15:00",
+      "show_time": "2026-04-07T14:10:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87851",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T14:15:00",
       "movie": "They Will Kill You",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87798",
+      "session_id": "87838",
       "presentation_slug": "they-will-kill-you",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T14:25:00",
+      "show_time": "2026-04-07T14:20:00",
       "movie": "The Drama",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87775",
+      "session_id": "87815",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T14:30:00",
+      "show_time": "2026-04-07T14:30:00",
       "movie": "Hoppers",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127632",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T14:55:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87779",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:00:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126211",
-      "presentation_slug": "special-event-the-super-mario-galaxy-movie-hdr-by-barco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:00:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87933",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:10:00",
-      "movie": "Hoppers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87945",
+      "session_id": "127672",
       "presentation_slug": "hoppers",
       "open_caption": true
     },
     {
-      "show_time": "2026-04-06T15:15:00",
+      "show_time": "2026-04-07T14:45:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127616",
+      "session_id": "127687",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T15:25:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87787",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:30:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127621",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:30:00",
-      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127610",
-      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:45:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127644",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T15:50:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85930",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T16:00:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127641",
-      "presentation_slug": "forbidden-fruits",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:00:00",
-      "movie": "They Will Kill You",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127620",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:15:00",
-      "movie": "Fantasy Life",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87937",
-      "presentation_slug": "fantasy-life",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T16:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87810",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127606",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:15:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86978",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127624",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:30:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126722",
-      "presentation_slug": "the-drama",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T16:35:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87794",
-      "presentation_slug": "forbidden-fruits",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T16:50:00",
+      "show_time": "2026-04-07T14:50:00",
       "movie": "Sirāt",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87689",
+      "session_id": "87690",
       "presentation_slug": "sirat",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T16:50:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85925",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T17:05:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87790",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T17:05:00",
-      "movie": "They Will Kill You",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87799",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T17:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127607",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T17:30:00",
+      "show_time": "2026-04-07T14:50:00",
       "movie": "The Drama",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87776",
+      "session_id": "87934",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T17:50:00",
+      "show_time": "2026-04-07T14:50:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87780",
+      "session_id": "87819",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T18:00:00",
+      "show_time": "2026-04-07T15:00:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126210",
+      "session_id": "126216",
       "presentation_slug": "special-event-the-super-mario-galaxy-movie-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T18:05:00",
-      "movie": "Fantasy Life",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87809",
-      "presentation_slug": "fantasy-life",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T18:10:00",
+      "show_time": "2026-04-07T15:10:00",
       "movie": "Hoppers",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87784",
+      "session_id": "87823",
       "presentation_slug": "hoppers",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T18:15:00",
-      "movie": "Hoppers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127633",
-      "presentation_slug": "hoppers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T18:30:00",
-      "movie": "Ready or Not 2: Here I Come",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127626",
-      "presentation_slug": "ready-or-not-2-here-i-come",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T18:30:00",
-      "movie": "The Killer - Hong Kong Cinema Classics",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126956",
-      "presentation_slug": "the-killer-hong-kong-cinema-classics",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T18:45:00",
-      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127611",
-      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T18:45:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "85926",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T19:00:00",
-      "movie": "Forbidden Fruits",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127637",
-      "presentation_slug": "forbidden-fruits",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-06T19:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127732",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T19:15:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86979",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T19:15:00",
-      "movie": "They Will Kill You",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127627",
-      "presentation_slug": "they-will-kill-you",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-06T19:20:00",
+      "show_time": "2026-04-07T15:15:00",
       "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87788",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127655",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T19:20:00",
-      "movie": "Ready or Not 2: Here I Come",
+      "show_time": "2026-04-07T15:25:00",
+      "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87805",
+      "session_id": "87827",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T15:30:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127663",
       "presentation_slug": "ready-or-not-2-here-i-come",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T19:30:00",
+      "show_time": "2026-04-07T15:30:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127652",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T15:45:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127683",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T15:50:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85939",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T16:00:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127679",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-07T16:00:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127664",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T16:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127657",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T16:15:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86983",
+      "presentation_slug": "the-drama",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-07T16:15:00",
       "movie": "The Drama",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126723",
+      "session_id": "127668",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-06T19:35:00",
+      "show_time": "2026-04-07T16:20:00",
+      "movie": "Fantasy Life",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87848",
+      "presentation_slug": "fantasy-life",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T16:25:00",
       "movie": "Forbidden Fruits",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87941",
+      "session_id": "87942",
       "presentation_slug": "forbidden-fruits",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-07T16:45:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126727",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T16:50:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85933",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T17:05:00",
+      "movie": "$POSITIONS",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87099",
+      "presentation_slug": "positions",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T17:05:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87950",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-07T17:05:00",
+      "movie": "They Will Kill You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87839",
+      "presentation_slug": "they-will-kill-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T17:25:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87816",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T17:50:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87820",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:00:00",
+      "movie": "Castration Movie Anthology i. traps",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86932",
+      "presentation_slug": "castration-movie-anthology-i-traps",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:00:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126217",
+      "presentation_slug": "special-event-the-super-mario-galaxy-movie-hdr-by-barco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:10:00",
+      "movie": "Fantasy Life",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87849",
+      "presentation_slug": "fantasy-life",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:10:00",
+      "movie": "Hoppers",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87824",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:15:00",
+      "movie": "Hoppers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127671",
+      "presentation_slug": "hoppers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:15:00",
+      "movie": "The Killer - Hong Kong Cinema Classics",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126958",
+      "presentation_slug": "the-killer-hong-kong-cinema-classics",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:30:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127666",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:30:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127685",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:45:00",
+      "movie": "The AI Doc: Or How I Became an Apocaloptimist",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127651",
+      "presentation_slug": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T18:45:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85937",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:00:00",
+      "movie": "Castration Movie Anthology i. traps",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126957",
+      "presentation_slug": "castration-movie-anthology-i-traps",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:00:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127676",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:15:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127670",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:15:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86984",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:20:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87828",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:25:00",
+      "movie": "Forbidden Fruits",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87835",
+      "presentation_slug": "forbidden-fruits",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:25:00",
+      "movie": "Ready or Not 2: Here I Come",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87845",
+      "presentation_slug": "ready-or-not-2-here-i-come",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-07T19:30:00",
+      "movie": "They Will Kill You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127665",
+      "presentation_slug": "they-will-kill-you",
       "open_caption": true
     }
   ]
