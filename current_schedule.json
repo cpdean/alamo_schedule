@@ -1,673 +1,718 @@
 {
   "time_range": {
-    "start": "2026-04-25T07:31:29.413509505-04:00",
-    "end": "2026-04-25T19:31:29.413509505-04:00"
+    "start": "2026-04-26T07:31:58.304315473-04:00",
+    "end": "2026-04-26T19:31:58.304315473-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-04-25T11:00:00",
+      "show_time": "2026-04-26T11:00:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128697",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:00:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128713",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:15:00",
-      "movie": "Lee Cronin's The Mummy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88843",
-      "presentation_slug": "lee-cronins-the-mummy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:30:00",
-      "movie": "Lee Cronin's The Mummy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128701",
-      "presentation_slug": "lee-cronins-the-mummy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87013",
+      "session_id": "128730",
       "presentation_slug": "michael-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-04-25T11:30:00",
-      "movie": "Mile End Kicks",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88833",
-      "presentation_slug": "mile-end-kicks",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:45:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128150",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:45:00",
-      "movie": "You, Me & Tuscany",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128707",
-      "presentation_slug": "you-me-tuscany",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T11:45:00",
-      "movie": "You, Me & Tuscany",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88856",
-      "presentation_slug": "you-me-tuscany",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:00:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126746",
-      "presentation_slug": "special-event-michael-2026-hdr-by-barco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:00:00",
-      "movie": "The Christophers",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88847",
-      "presentation_slug": "the-christophers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:00:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88832",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:15:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87006",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:15:00",
+      "show_time": "2026-04-26T11:00:00",
       "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88840",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128749",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T12:30:00",
-      "movie": "I Swear",
+      "show_time": "2026-04-26T11:00:00",
+      "movie": "Terror of Mechagodzilla",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87528",
-      "presentation_slug": "i-swear",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:30:00",
-      "movie": "Terror of Mechagodzilla",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127201",
+      "session_id": "86668",
       "presentation_slug": "terror-of-mechagodzilla",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T12:35:00",
-      "movie": "Miss Congeniality",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86950",
-      "presentation_slug": "movie-party-miss-congeniality",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:45:00",
-      "movie": "Over Your Dead Body (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87495",
-      "presentation_slug": "over-your-dead-body-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T12:45:00",
-      "movie": "Over Your Dead Body (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127787",
-      "presentation_slug": "over-your-dead-body-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T12:45:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88851",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T13:00:00",
-      "movie": "I Swear",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127818",
-      "presentation_slug": "i-swear",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T13:00:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88857",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T13:15:00",
-      "movie": "Mother Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88299",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T13:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128693",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T13:15:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128702",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T14:15:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128698",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T14:40:00",
-      "movie": "Lee Cronin's The Mummy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88844",
-      "presentation_slug": "lee-cronins-the-mummy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T14:40:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128714",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T14:45:00",
-      "movie": "Lee Cronin's The Mummy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128703",
-      "presentation_slug": "lee-cronins-the-mummy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T14:45:00",
-      "movie": "Mile End Kicks",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88835",
-      "presentation_slug": "mile-end-kicks",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T14:50:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87009",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:00:00",
-      "movie": "Buffet Infinity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88848",
-      "presentation_slug": "buffet-infinity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:00:00",
-      "movie": "Miss Congeniality",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126973",
-      "presentation_slug": "movie-party-miss-congeniality",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:00:00",
-      "movie": "Normal",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128709",
-      "presentation_slug": "normal",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:15:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128151",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:15:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88834",
-      "presentation_slug": "the-drama",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T15:20:00",
-      "movie": "Erupcja",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87971",
-      "presentation_slug": "erupcja",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87007",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126745",
-      "presentation_slug": "special-event-michael-2026-hdr-by-barco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:30:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88852",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:45:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88855",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T15:45:00",
-      "movie": "Over Your Dead Body (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127788",
-      "presentation_slug": "over-your-dead-body-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T15:45:00",
-      "movie": "Over Your Dead Body (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87496",
-      "presentation_slug": "over-your-dead-body-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:00:00",
-      "movie": "I Swear",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87529",
-      "presentation_slug": "i-swear",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T16:00:00",
-      "movie": "I Swear",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127817",
-      "presentation_slug": "i-swear",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T16:00:00",
-      "movie": "Miss Congeniality",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86951",
-      "presentation_slug": "movie-party-miss-congeniality",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:00:00",
-      "movie": "The Christophers",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128719",
-      "presentation_slug": "the-christophers",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:15:00",
-      "movie": "Mother Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88300",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88841",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:15:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128704",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T16:30:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128694",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T17:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128699",
-      "presentation_slug": "michael-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-04-25T17:45:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88836",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T18:00:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127853",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T18:00:00",
-      "movie": "Normal",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88849",
-      "presentation_slug": "normal",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T18:00:00",
+      "show_time": "2026-04-26T11:00:00",
       "movie": "You, Me & Tuscany",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128708",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88881",
       "presentation_slug": "you-me-tuscany",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:15:00",
+      "show_time": "2026-04-26T11:15:00",
       "movie": "Lee Cronin's The Mummy",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88845",
+      "session_id": "88869",
       "presentation_slug": "lee-cronins-the-mummy",
       "open_caption": true
     },
     {
-      "show_time": "2026-04-25T18:15:00",
+      "show_time": "2026-04-26T11:15:00",
       "movie": "Lee Cronin's The Mummy",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128706",
+      "session_id": "128734",
       "presentation_slug": "lee-cronins-the-mummy",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:15:00",
+      "show_time": "2026-04-26T11:15:00",
       "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87010",
+      "session_id": "87018",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:20:00",
-      "movie": "Project Hail Mary",
+      "show_time": "2026-04-26T11:30:00",
+      "movie": "Lorne",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128715",
-      "presentation_slug": "project-hail-mary",
+      "session_id": "128750",
+      "presentation_slug": "lorne",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:30:00",
-      "movie": "Erupcja",
+      "show_time": "2026-04-26T11:30:00",
+      "movie": "Mile End Kicks",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87970",
-      "presentation_slug": "erupcja",
-      "open_caption": true
+      "session_id": "88862",
+      "presentation_slug": "mile-end-kicks",
+      "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:30:00",
+      "show_time": "2026-04-26T11:45:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88885",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T11:45:00",
       "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128152",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88303",
       "presentation_slug": "mother-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:30:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88837",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T18:45:00",
+      "show_time": "2026-04-26T11:45:00",
       "movie": "Over Your Dead Body (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127789",
+      "session_id": "127791",
       "presentation_slug": "over-your-dead-body-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T18:45:00",
-      "movie": "Over Your Dead Body (2026)",
+      "show_time": "2026-04-26T11:45:00",
+      "movie": "You, Me & Tuscany",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128743",
+      "presentation_slug": "you-me-tuscany",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T12:00:00",
+      "movie": "Terror of Mechagodzilla",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126597",
+      "presentation_slug": "terror-of-mechagodzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T12:00:00",
+      "movie": "The Christophers",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87497",
-      "presentation_slug": "over-your-dead-body-2026",
+      "session_id": "88873",
+      "presentation_slug": "the-christophers",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:00:00",
+      "show_time": "2026-04-26T12:10:00",
       "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87008",
+      "session_id": "87014",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:00:00",
-      "movie": "Normal",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128720",
-      "presentation_slug": "normal",
-      "open_caption": false
+      "show_time": "2026-04-26T12:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88866",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": true
     },
     {
-      "show_time": "2026-04-25T19:00:00",
+      "show_time": "2026-04-26T12:15:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126744",
+      "session_id": "126750",
       "presentation_slug": "special-event-michael-2026-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:15:00",
-      "movie": "I Swear",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127816",
-      "presentation_slug": "i-swear",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-04-25T19:15:00",
+      "show_time": "2026-04-26T12:30:00",
       "movie": "I Swear",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87530",
+      "session_id": "87532",
       "presentation_slug": "i-swear",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:15:00",
+      "show_time": "2026-04-26T12:30:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128726",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T12:40:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87500",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T12:45:00",
+      "movie": "Mother Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128154",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T12:45:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88853",
+      "session_id": "88877",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:30:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-04-26T13:00:00",
+      "movie": "I Swear",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127819",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T13:00:00",
+      "movie": "The Drama",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88955",
+      "session_id": "88863",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T13:15:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128735",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T13:40:00",
+      "movie": "Erupcja",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87974",
+      "presentation_slug": "erupcja",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T13:40:00",
+      "movie": "Terror of Mechagodzilla",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86669",
+      "presentation_slug": "terror-of-mechagodzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128731",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-04-25T19:30:00",
+      "show_time": "2026-04-26T14:15:00",
+      "movie": "The Christophers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128722",
+      "presentation_slug": "the-christophers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:30:00",
+      "movie": "Terror of Mechagodzilla",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126767",
+      "presentation_slug": "terror-of-mechagodzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:40:00",
+      "movie": "Lee Cronin's The Mummy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88870",
+      "presentation_slug": "lee-cronins-the-mummy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:40:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87017",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:40:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128746",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:45:00",
+      "movie": "Lee Cronin's The Mummy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128736",
+      "presentation_slug": "lee-cronins-the-mummy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:45:00",
+      "movie": "Mile End Kicks",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88860",
+      "presentation_slug": "mile-end-kicks",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:45:00",
       "movie": "Mother Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88301",
+      "session_id": "88304",
       "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T14:45:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127792",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:00:00",
+      "movie": "Normal",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128740",
+      "presentation_slug": "normal",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:00:00",
+      "movie": "Normal",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88876",
+      "presentation_slug": "normal",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88883",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126749",
+      "presentation_slug": "special-event-michael-2026-hdr-by-barco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:30:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88878",
+      "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": true
     },
     {
-      "show_time": "2026-04-25T19:30:00",
+      "show_time": "2026-04-26T15:35:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87015",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:45:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87499",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T15:45:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128727",
+      "presentation_slug": "the-drama",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-26T15:50:00",
+      "movie": "I Swear",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87534",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:00:00",
+      "movie": "Erupcja",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87975",
+      "presentation_slug": "erupcja",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-26T16:00:00",
+      "movie": "I Swear",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127820",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:00:00",
+      "movie": "Mother Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128155",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:00:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88861",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88867",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:15:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128705",
+      "session_id": "128737",
       "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T16:20:00",
+      "movie": "The School Duel",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87340",
+      "presentation_slug": "the-school-duel",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T17:00:00",
+      "movie": "Terror of Mechagodzilla",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128595",
+      "presentation_slug": "terror-of-mechagodzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T17:15:00",
+      "movie": "The Christophers",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128723",
+      "presentation_slug": "the-christophers",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T17:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128732",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T17:45:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88859",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:00:00",
+      "movie": "Normal",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88875",
+      "presentation_slug": "normal",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:00:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127793",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-26T18:00:00",
+      "movie": "You, Me & Tuscany",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128741",
+      "presentation_slug": "you-me-tuscany",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:05:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87020",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:15:00",
+      "movie": "Lee Cronin's The Mummy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128738",
+      "presentation_slug": "lee-cronins-the-mummy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:15:00",
+      "movie": "Lee Cronin's The Mummy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88871",
+      "presentation_slug": "lee-cronins-the-mummy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:15:00",
+      "movie": "Mother Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88305",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:20:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128747",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-26T18:30:00",
+      "movie": "Erupcja",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87973",
+      "presentation_slug": "erupcja",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88884",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:45:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128728",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:45:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88879",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T18:50:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87502",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-04-26T19:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87016",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126748",
+      "presentation_slug": "special-event-michael-2026-hdr-by-barco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:00:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88858",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:00:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128739",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:15:00",
+      "movie": "I Swear",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127821",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:15:00",
+      "movie": "I Swear",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87533",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:15:00",
+      "movie": "Mother Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128156",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-04-26T19:30:00",
+      "movie": "Terror of Mechagodzilla",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88829",
+      "presentation_slug": "terror-of-mechagodzilla",
       "open_caption": false
     }
   ]
