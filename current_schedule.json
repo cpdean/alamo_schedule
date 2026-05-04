@@ -1,772 +1,691 @@
 {
   "time_range": {
-    "start": "2026-05-03T07:34:46.754618677-04:00",
-    "end": "2026-05-03T19:34:46.754618677-04:00"
+    "start": "2026-05-04T08:17:26.334069811-04:00",
+    "end": "2026-05-04T20:17:26.334069811-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-05-03T09:00:00",
-      "movie": "Hokum",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129325",
-      "presentation_slug": "hokum",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T09:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129308",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T09:30:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129324",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T09:45:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129321",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:00:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129326",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89305",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:15:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129323",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129164",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-03T10:30:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129322",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:45:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89167",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T10:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88032",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T11:00:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89175",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T11:15:00",
+      "show_time": "2026-05-04T11:15:00",
       "movie": "I Swear",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129180",
+      "session_id": "129214",
       "presentation_slug": "i-swear",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T11:15:00",
+      "show_time": "2026-05-04T11:15:00",
       "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129173",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89228",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T11:15:00",
+      "show_time": "2026-05-04T11:15:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129195",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T11:15:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89163",
+      "session_id": "89197",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T11:30:00",
+      "show_time": "2026-05-04T11:30:00",
+      "movie": "Erupcja",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89225",
+      "presentation_slug": "erupcja",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T11:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126561",
+      "session_id": "126565",
       "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T11:35:00",
+      "show_time": "2026-05-04T11:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86376",
+      "session_id": "89205",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T11:45:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-05-04T11:45:00",
+      "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89159",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T11:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129175",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:00:00",
-      "movie": "Hokum",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88383",
-      "presentation_slug": "hokum",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:00:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89155",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:15:00",
-      "movie": "Hokum",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128233",
-      "presentation_slug": "hokum",
+      "session_id": "89211",
+      "presentation_slug": "project-hail-mary",
       "open_caption": true
     },
     {
-      "show_time": "2026-05-03T12:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89181",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:30:00",
-      "movie": "Mother Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89165",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:30:00",
+      "show_time": "2026-05-04T11:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127413",
+      "session_id": "129211",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T12:30:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86374",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T12:45:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129177",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T13:00:00",
+      "show_time": "2026-05-04T12:00:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129167",
+      "session_id": "129203",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T13:00:00",
-      "movie": "Power to the People: John & Yoko Live in NYC",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "126764",
-      "presentation_slug": "power-to-the-people-john-yoko-live-in-nyc",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T13:00:00",
-      "movie": "Power to the People: John & Yoko Live in NYC",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86956",
-      "presentation_slug": "power-to-the-people-john-yoko-live-in-nyc",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T13:00:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89151",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T13:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89185",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T13:15:00",
+      "show_time": "2026-05-04T12:00:00",
       "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129187",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89215",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": true
     },
     {
-      "show_time": "2026-05-03T13:30:00",
+      "show_time": "2026-05-04T12:05:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86387",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T12:15:00",
+      "movie": "Hokum",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128237",
+      "presentation_slug": "hokum",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T12:15:00",
+      "movie": "Hokum",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88390",
+      "presentation_slug": "hokum",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T12:15:00",
+      "movie": "I Swear",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89219",
+      "presentation_slug": "i-swear",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T12:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129232",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T12:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89203",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T12:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129207",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T12:45:00",
+      "movie": "Mother Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129213",
+      "presentation_slug": "mother-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T12:45:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89193",
+      "presentation_slug": "the-drama",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T13:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129199",
+      "presentation_slug": "michael-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T13:00:00",
+      "movie": "Mother Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89210",
+      "presentation_slug": "mother-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T13:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89192",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T13:15:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129221",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T13:30:00",
       "movie": "The Drama",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129189",
+      "session_id": "129228",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T14:00:00",
+      "show_time": "2026-05-04T13:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88035",
+      "session_id": "86383",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T14:00:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89174",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-03T14:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129165",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T14:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129172",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T14:30:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89170",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T14:30:00",
+      "show_time": "2026-05-04T14:00:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89164",
+      "session_id": "89226",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T14:45:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-05-04T14:30:00",
+      "movie": "Over Your Dead Body (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129179",
+      "session_id": "129215",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T14:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89198",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T14:45:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89227",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T14:45:00",
+      "show_time": "2026-05-04T14:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126560",
+      "session_id": "126564",
       "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T14:55:00",
+      "show_time": "2026-05-04T14:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "86377",
+      "session_id": "89206",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T15:00:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129176",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:00:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89156",
-      "presentation_slug": "the-drama",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-03T15:15:00",
-      "movie": "Hokum",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88384",
-      "presentation_slug": "hokum",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:15:00",
-      "movie": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (Dubbed)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89179",
-      "presentation_slug": "that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-dubbed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:30:00",
-      "movie": "Hokum",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128234",
-      "presentation_slug": "hokum",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89160",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:30:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129193",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T15:45:00",
-      "movie": "Mother Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89166",
-      "presentation_slug": "mother-mary",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-03T15:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127414",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-03T15:50:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86379",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:00:00",
-      "movie": "Mishima: A Life in Four Chapters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88963",
-      "presentation_slug": "guest-selects-mishima-a-life-in-four-chapters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:00:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129178",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:05:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129186",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:15:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129168",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89152",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:30:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89186",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:30:00",
-      "movie": "The Drama",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129192",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T16:45:00",
-      "movie": "The Super Mario Galaxy Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89173",
-      "presentation_slug": "the-super-mario-galaxy-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T17:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88034",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T17:45:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129170",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:00:00",
+      "show_time": "2026-05-04T14:50:00",
       "movie": "Project Hail Mary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129166",
+      "session_id": "129198",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T18:00:00",
-      "movie": "RZA's One Spoon of Chocolate",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "88977",
-      "presentation_slug": "rzas-one-spoon-of-chocolate",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:00:00",
+      "show_time": "2026-05-04T15:00:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "126559",
-      "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:00:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89157",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89169",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:15:00",
-      "movie": "RZA's One Spoon of Chocolate",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128857",
-      "presentation_slug": "rzas-one-spoon-of-chocolate",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T18:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86378",
+      "session_id": "129212",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T18:30:00",
-      "movie": "Hokum",
+      "show_time": "2026-05-04T15:00:00",
+      "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88385",
-      "presentation_slug": "hokum",
-      "open_caption": true
+      "session_id": "89216",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
     },
     {
-      "show_time": "2026-05-03T18:30:00",
+      "show_time": "2026-05-04T15:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129204",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T15:15:00",
       "movie": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (Subtitled)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89178",
+      "session_id": "89222",
       "presentation_slug": "that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-subtitled",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T18:30:00",
+      "show_time": "2026-05-04T15:20:00",
       "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129333",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86386",
       "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-05-03T18:45:00",
+      "show_time": "2026-05-04T15:30:00",
       "movie": "Hokum",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128235",
+      "session_id": "128238",
       "presentation_slug": "hokum",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T18:45:00",
+      "show_time": "2026-05-04T15:30:00",
+      "movie": "Hokum",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88389",
+      "presentation_slug": "hokum",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T15:30:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89212",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T15:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129230",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T15:45:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129229",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T15:45:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89194",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T16:00:00",
       "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89161",
+      "session_id": "89202",
       "presentation_slug": "michael-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-05-03T18:45:00",
+      "show_time": "2026-05-04T16:00:00",
       "movie": "Mother Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89168",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129218",
       "presentation_slug": "mother-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T19:00:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127415",
-      "presentation_slug": "the-devil-wears-prada-2",
+      "show_time": "2026-05-04T16:00:00",
+      "movie": "Mother Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89209",
+      "presentation_slug": "mother-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T19:00:00",
+      "show_time": "2026-05-04T16:05:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129185",
+      "session_id": "129222",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T19:05:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "86375",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T19:15:00",
-      "movie": "Mother Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129181",
-      "presentation_slug": "mother-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T19:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89188",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T19:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129194",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-03T19:30:00",
+      "show_time": "2026-05-04T16:15:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129169",
+      "session_id": "129200",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T19:30:00",
+      "show_time": "2026-05-04T16:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89314",
+      "session_id": "89191",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-03T19:30:00",
+      "show_time": "2026-05-04T16:30:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129225",
+      "presentation_slug": "the-drama",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T17:10:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86384",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T17:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89224",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T17:45:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89199",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:00:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129216",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:00:00",
+      "movie": "RZA's One Spoon of Chocolate",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88979",
+      "presentation_slug": "rzas-one-spoon-of-chocolate",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:00:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "126563",
+      "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:15:00",
+      "movie": "RZA's One Spoon of Chocolate",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128859",
+      "presentation_slug": "rzas-one-spoon-of-chocolate",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:15:00",
+      "movie": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (Dubbed)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89221",
+      "presentation_slug": "that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-dubbed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:15:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89172",
+      "session_id": "89217",
       "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:25:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129197",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-04T18:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129206",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:35:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "86389",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:45:00",
+      "movie": "Hokum",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88388",
+      "presentation_slug": "hokum",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:45:00",
+      "movie": "The Drama",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89195",
+      "presentation_slug": "the-drama",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T18:45:00",
+      "movie": "The Super Mario Galaxy Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129223",
+      "presentation_slug": "the-super-mario-galaxy-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:00:00",
+      "movie": "Hokum",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128239",
+      "presentation_slug": "hokum",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:00:00",
+      "movie": "Mother Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89208",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:00:00",
+      "movie": "Sweet Smell of Success",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127855",
+      "presentation_slug": "sweet-smell-of-success",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89201",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:15:00",
+      "movie": "Mother Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129217",
+      "presentation_slug": "mother-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129209",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129201",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:30:00",
+      "movie": "Over Your Dead Body (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89190",
+      "presentation_slug": "over-your-dead-body-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:30:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89213",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-04T19:45:00",
+      "movie": "The Drama",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129226",
+      "presentation_slug": "the-drama",
       "open_caption": false
     }
   ]
