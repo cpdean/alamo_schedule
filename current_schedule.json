@@ -1,665 +1,755 @@
 {
   "time_range": {
-    "start": "2026-05-15T08:27:08.656708086-04:00",
-    "end": "2026-05-15T20:27:08.656708086-04:00"
+    "start": "2026-05-16T07:42:11.125388056-04:00",
+    "end": "2026-05-16T19:42:11.125388056-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-05-15T11:00:00",
+      "show_time": "2026-05-16T09:00:00",
+      "movie": "Billie Eilish - Hit Me Hard and Soft: The Tour",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129868",
+      "presentation_slug": "billie-eilish-hit-me-hard-and-soft-the-tour",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T09:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129869",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T09:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129874",
+      "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T09:45:00",
+      "movie": "Shrek: 25th Anniversary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129935",
+      "presentation_slug": "shrek-25th-anniversary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T10:00:00",
+      "movie": "Hokum",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129879",
+      "presentation_slug": "hokum",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T10:00:00",
+      "movie": "The Sheep Detectives",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129891",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T10:15:00",
+      "movie": "Is God Is",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129009",
+      "presentation_slug": "is-god-is",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T10:30:00",
+      "movie": "In The Grey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129035",
+      "presentation_slug": "in-the-grey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T11:00:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129837",
+      "session_id": "129864",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T11:00:00",
+      "show_time": "2026-05-16T11:00:00",
+      "movie": "Project Hail Mary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89754",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T11:00:00",
       "movie": "The Wizard of the Kremlin",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89715",
+      "session_id": "89745",
       "presentation_slug": "the-wizard-of-the-kremlin",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T11:15:00",
+      "show_time": "2026-05-16T11:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89750",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T11:15:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128934",
+      "session_id": "129875",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T11:15:00",
-      "movie": "The Drama",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89718",
-      "presentation_slug": "the-drama",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T11:15:00",
+      "show_time": "2026-05-16T11:15:00",
       "movie": "The Super Mario Galaxy Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129853",
+      "session_id": "129889",
       "presentation_slug": "the-super-mario-galaxy-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T11:30:00",
+      "show_time": "2026-05-16T11:30:00",
       "movie": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129833",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89552",
       "presentation_slug": "billie-eilish-hit-me-hard-and-soft-the-tour",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T11:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89721",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T11:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89711",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T11:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129841",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T12:00:00",
+      "show_time": "2026-05-16T11:45:00",
       "movie": "Mortal Kombat II",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89712",
+      "session_id": "89732",
       "presentation_slug": "mortal-kombat-ii",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:00:00",
+      "show_time": "2026-05-16T12:00:00",
       "movie": "Mortal Kombat II",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129850",
+      "session_id": "129881",
       "presentation_slug": "mortal-kombat-ii",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:15:00",
+      "show_time": "2026-05-16T12:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88757",
+      "presentation_slug": "obsession-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T12:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129930",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T12:15:00",
       "movie": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89550",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129867",
       "presentation_slug": "billie-eilish-hit-me-hard-and-soft-the-tour",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:15:00",
+      "show_time": "2026-05-16T12:15:00",
       "movie": "In The Grey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89717",
+      "session_id": "89046",
       "presentation_slug": "in-the-grey",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:15:00",
-      "movie": "Is God Is",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129008",
-      "presentation_slug": "is-god-is",
+      "show_time": "2026-05-16T12:30:00",
+      "movie": "Shrek: 25th Anniversary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87392",
+      "presentation_slug": "movie-party-shrek-25th-anniversary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:30:00",
+      "show_time": "2026-05-16T12:30:00",
+      "movie": "Shrek: 25th Anniversary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "127330",
+      "presentation_slug": "shrek-25th-anniversary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T12:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128939",
+      "session_id": "129931",
       "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:30:00",
+      "show_time": "2026-05-16T12:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89709",
+      "session_id": "89726",
       "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-05-15T12:30:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89714",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T12:45:00",
+      "show_time": "2026-05-16T12:45:00",
       "movie": "Hokum",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89713",
+      "session_id": "89737",
       "presentation_slug": "hokum",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129861",
-      "presentation_slug": "the-devil-wears-prada-2",
+      "show_time": "2026-05-16T13:00:00",
+      "movie": "Sorry to Bother You",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88965",
+      "presentation_slug": "sorry-to-bother-you",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T12:45:00",
+      "show_time": "2026-05-16T13:00:00",
       "movie": "The Sheep Detectives",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129860",
+      "session_id": "129934",
       "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T13:00:00",
+      "show_time": "2026-05-16T13:15:00",
       "movie": "Hokum",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129847",
+      "session_id": "129933",
       "presentation_slug": "hokum",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T13:00:00",
+      "show_time": "2026-05-16T13:15:00",
       "movie": "Is God Is",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89710",
+      "session_id": "89023",
       "presentation_slug": "is-god-is",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T13:15:00",
+      "show_time": "2026-05-16T13:15:00",
+      "movie": "Is God Is",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129929",
+      "presentation_slug": "is-god-is",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T13:15:00",
+      "movie": "The Sheep Detectives",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89741",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T13:30:00",
       "movie": "In The Grey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129034",
+      "session_id": "129932",
       "presentation_slug": "in-the-grey",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T13:15:00",
+      "show_time": "2026-05-16T14:15:00",
       "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89716",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-15T14:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89706",
+      "session_id": "89748",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T14:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89691",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T14:15:00",
+      "show_time": "2026-05-16T14:15:00",
       "movie": "The Drama",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129854",
+      "session_id": "129888",
       "presentation_slug": "the-drama",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T14:30:00",
+      "show_time": "2026-05-16T14:30:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129838",
+      "session_id": "129863",
       "presentation_slug": "michael-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-05-15T14:30:00",
+      "show_time": "2026-05-16T14:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128935",
+      "session_id": "129876",
       "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-05-15T14:30:00",
+      "show_time": "2026-05-16T14:30:00",
       "movie": "The Wizard of the Kremlin",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89703",
+      "session_id": "89744",
       "presentation_slug": "the-wizard-of-the-kremlin",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T14:45:00",
-      "movie": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129834",
-      "presentation_slug": "billie-eilish-hit-me-hard-and-soft-the-tour",
+      "show_time": "2026-05-16T14:45:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89727",
+      "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T14:45:00",
+      "show_time": "2026-05-16T14:45:00",
+      "movie": "Top Gun: Maverick",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89551",
+      "presentation_slug": "top-gun-maverick",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T15:00:00",
       "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89720",
+      "session_id": "89751",
       "presentation_slug": "michael-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-15T15:00:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129842",
-      "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:00:00",
+      "show_time": "2026-05-16T15:00:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88753",
+      "session_id": "88758",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:15:00",
+      "show_time": "2026-05-16T15:15:00",
       "movie": "In The Grey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89041",
+      "session_id": "89045",
       "presentation_slug": "in-the-grey",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:15:00",
-      "movie": "Is God Is",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129007",
-      "presentation_slug": "is-god-is",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T15:15:00",
+      "show_time": "2026-05-16T15:15:00",
       "movie": "Mortal Kombat II",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89694",
+      "session_id": "89731",
       "presentation_slug": "mortal-kombat-ii",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:30:00",
-      "movie": "Mortal Kombat II",
+      "show_time": "2026-05-16T15:15:00",
+      "movie": "Obsession (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129849",
-      "presentation_slug": "mortal-kombat-ii",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T15:30:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89700",
-      "presentation_slug": "the-sheep-detectives",
+      "session_id": "129870",
+      "presentation_slug": "obsession-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-05-15T15:30:00",
-      "movie": "Top Gun 40th Anniversary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89549",
-      "presentation_slug": "top-gun-40th-anniversary",
+      "show_time": "2026-05-16T15:15:00",
+      "movie": "Top Gun: Maverick",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130128",
+      "presentation_slug": "top-gun-maverick",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:45:00",
+      "show_time": "2026-05-16T15:30:00",
+      "movie": "Mortal Kombat II",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129882",
+      "presentation_slug": "mortal-kombat-ii",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T15:30:00",
+      "movie": "Shrek: 25th Anniversary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89761",
+      "presentation_slug": "shrek-25th-anniversary",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T15:30:00",
+      "movie": "Sorry to Bother You",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128584",
+      "presentation_slug": "sorry-to-bother-you",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T15:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128940",
+      "session_id": "129873",
       "presentation_slug": "special-event-the-devil-wears-prada-2-hdr-by-barco",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:45:00",
+      "show_time": "2026-05-16T15:45:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89688",
+      "session_id": "89725",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T15:45:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129859",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-15T16:00:00",
+      "show_time": "2026-05-16T16:00:00",
       "movie": "Hokum",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89696",
+      "session_id": "89736",
       "presentation_slug": "hokum",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T16:00:00",
+      "show_time": "2026-05-16T16:00:00",
       "movie": "Is God Is",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89021",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129010",
       "presentation_slug": "is-god-is",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T16:00:00",
-      "movie": "Shrek: 25th Anniversary",
+      "show_time": "2026-05-16T16:05:00",
+      "movie": "The Sheep Detectives",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127329",
-      "presentation_slug": "shrek-25th-anniversary",
+      "session_id": "129892",
+      "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T16:15:00",
+      "show_time": "2026-05-16T16:15:00",
       "movie": "Hokum",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129846",
+      "session_id": "129880",
       "presentation_slug": "hokum",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T16:15:00",
+      "movie": "Is God Is",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89022",
+      "presentation_slug": "is-god-is",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T16:15:00",
+      "movie": "The Sheep Detectives",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89740",
+      "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T16:30:00",
+      "show_time": "2026-05-16T16:30:00",
       "movie": "In The Grey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129031",
+      "session_id": "129038",
       "presentation_slug": "in-the-grey",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-05-15T17:00:00",
-      "movie": "Shrek: 25th Anniversary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87387",
-      "presentation_slug": "shrek-25th-anniversary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T17:30:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129855",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T17:30:00",
+      "show_time": "2026-05-16T16:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89692",
+      "session_id": "89759",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:00:00",
+      "show_time": "2026-05-16T17:30:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129887",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T17:45:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89728",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T18:00:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88752",
+      "session_id": "88759",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:00:00",
+      "show_time": "2026-05-16T18:00:00",
       "movie": "Project Hail Mary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89707",
+      "session_id": "89747",
       "presentation_slug": "project-hail-mary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:00:00",
+      "show_time": "2026-05-16T18:00:00",
+      "movie": "Project Hail Mary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129862",
+      "presentation_slug": "project-hail-mary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T18:00:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128941",
+      "session_id": "129877",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:00:00",
-      "movie": "Top Gun: Maverick",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129835",
-      "presentation_slug": "top-gun-maverick",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T18:15:00",
+      "show_time": "2026-05-16T18:15:00",
       "movie": "In The Grey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89042",
+      "session_id": "89044",
       "presentation_slug": "in-the-grey",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:15:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89719",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T18:15:00",
+      "show_time": "2026-05-16T18:15:00",
       "movie": "Mortal Kombat II",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129843",
-      "presentation_slug": "mortal-kombat-ii",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-05-15T18:15:00",
-      "movie": "Project Hail Mary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129839",
-      "presentation_slug": "project-hail-mary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T18:30:00",
-      "movie": "Is God Is",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129006",
-      "presentation_slug": "is-god-is",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T18:30:00",
-      "movie": "Mortal Kombat II",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89695",
+      "session_id": "129871",
       "presentation_slug": "mortal-kombat-ii",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:30:00",
+      "show_time": "2026-05-16T18:15:00",
       "movie": "The Wizard of the Kremlin",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89704",
+      "session_id": "89743",
       "presentation_slug": "the-wizard-of-the-kremlin",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T18:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "128278",
-      "presentation_slug": "movie-party-obsession-2026-one-wish-movie-party",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T18:45:00",
-      "movie": "Top Gun: Maverick",
+      "show_time": "2026-05-16T18:30:00",
+      "movie": "Mortal Kombat II",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89572",
-      "presentation_slug": "top-gun-maverick",
+      "session_id": "89730",
+      "presentation_slug": "mortal-kombat-ii",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:00:00",
-      "movie": "Obsession (2026)",
+      "show_time": "2026-05-16T18:30:00",
+      "movie": "Top Gun 40th Anniversary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "128936",
-      "presentation_slug": "hdr-by-barco-obsession-2026",
+      "session_id": "129866",
+      "presentation_slug": "top-gun-40th-anniversary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:00:00",
-      "movie": "Is God Is",
+      "show_time": "2026-05-16T18:30:00",
+      "movie": "Top Gun 40th Anniversary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89020",
-      "presentation_slug": "is-god-is",
+      "session_id": "89574",
+      "presentation_slug": "top-gun-40th-anniversary",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:00:00",
+      "show_time": "2026-05-16T18:45:00",
       "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129851",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89752",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:00:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89689",
-      "presentation_slug": "the-sheep-detectives",
+      "show_time": "2026-05-16T18:45:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129896",
+      "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:15:00",
+      "show_time": "2026-05-16T19:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128979",
+      "presentation_slug": "hdr-by-barco-obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T19:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129883",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T19:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89762",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T19:00:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89724",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T19:15:00",
       "movie": "Hokum",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89697",
+      "session_id": "89735",
       "presentation_slug": "hokum",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:15:00",
+      "show_time": "2026-05-16T19:15:00",
+      "movie": "Is God Is",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89024",
+      "presentation_slug": "is-god-is",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-05-16T19:15:00",
+      "movie": "Is God Is",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129011",
+      "presentation_slug": "is-god-is",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-05-16T19:15:00",
       "movie": "The Sheep Detectives",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129857",
+      "session_id": "129894",
       "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:30:00",
+      "show_time": "2026-05-16T19:30:00",
       "movie": "In The Grey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129033",
+      "session_id": "129036",
       "presentation_slug": "in-the-grey",
       "open_caption": false
     },
     {
-      "show_time": "2026-05-15T19:45:00",
-      "movie": "Hokum",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129845",
-      "presentation_slug": "hokum",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-05-15T19:45:00",
-      "movie": "Obsession (2026)",
+      "show_time": "2026-05-16T19:30:00",
+      "movie": "The Sheep Detectives",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "88452",
-      "presentation_slug": "movie-party-obsession-2026-one-wish-movie-party",
-      "open_caption": false
+      "session_id": "89739",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": true
     }
   ]
 }
