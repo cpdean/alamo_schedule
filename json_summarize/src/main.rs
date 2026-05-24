@@ -3,6 +3,7 @@ use colored::Colorize;
 use serde_json::Value;
 use std::fs;
 use std::path::PathBuf;
+use attohttpc::{RequestBuilder, header::HeaderName};
 
 /// Simple curl-like wrapper CLI.
 ///
@@ -106,30 +107,55 @@ fn main() {
         return;
     }
 
-    // Otherwise, echo the curl-style arguments derived from the
-    // parsed fields. If you invoke the binary as:
-    //   json_summarize 'url' -H 'h1' -b 'c1'
-    // it will print:
-    //   'url' -H 'h1' -b 'c1'
-    let mut parts: Vec<String> = Vec::new();
-
-    // URL first, wrapped in single quotes. URL must be present in
-    // this mode due to the clap `required_unless_present` rule.
+    // Otherwise, issue an HTTP request using the parsed URL, headers,
+    // and cookies, then pretty-print the JSON response.
     let url = cli
         .url
         .expect("url argument required unless --response-file is used");
-    parts.push(format!("'{}'", url));
 
-    // Then all headers in the order clap collected them.
-    for header in cli.headers {
-        parts.push(format!("-H '{}'", header));
+    // Start GET request builder.
+    let mut req: RequestBuilder = attohttpc::get(&url);
+
+    // Apply -H headers of form "Name: value".
+    for header in &cli.headers {
+        if let Some((name, value)) = header.split_once(':') {
+            let name_trimmed = name.trim();
+            let value_trimmed = value.trim_start().trim_end();
+            if !name_trimmed.is_empty() {
+                // Parse into an owned HeaderName so the request can
+                // keep it independent of cli.headers lifetime.
+                if let Ok(name_owned) = HeaderName::from_bytes(name_trimmed.as_bytes()) {
+                    req = req.header(name_owned, value_trimmed);
+                }
+            }
+        }
     }
 
-    // Then all cookies.
-    for cookie in cli.cookies {
-        parts.push(format!("-b '{}'", cookie));
+    // Apply cookies as a single Cookie header. If user supplied one
+    // long cookie string (like the curl command), it passes through.
+    if !cli.cookies.is_empty() {
+        let cookie_header = cli.cookies.join("; ");
+        req = req.header("cookie", cookie_header);
     }
 
-    let reconstructed = parts.join(" ");
-    println!("{}", reconstructed);
+    // Send request and handle response.
+    let resp = req.send().expect("HTTP request failed");
+
+    if !resp.is_success() {
+        eprintln!("HTTP error: {}", resp.status());
+        std::process::exit(1);
+    }
+
+    let body = resp.text().expect("failed to read response body");
+
+    match serde_json::from_str::<Value>(&body) {
+        Ok(json) => {
+            print_json_colored(&json, 0);
+            println!();
+        }
+        Err(_) => {
+            // Not valid JSON; just print raw body.
+            println!("{}", body);
+        }
+    }
 }

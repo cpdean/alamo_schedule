@@ -22,7 +22,7 @@ name = "alamo_schedule"
 version = "0.1.0"
 dependencies = [
  "anyhow",
- "attohttpc",
+ "attohttpc 0.24.1",
  "chrono",
  "chrono-tz",
  "serde",
@@ -107,7 +107,20 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8d9a9bf8b79a749ee0b911b91b671cc2b6c670bdbc7e3dfd537576ddc94bb2a2"
 dependencies = [
  "flate2",
- "http",
+ "http 0.2.12",
+ "log",
+ "native-tls",
+ "url",
+]
+
+[[package]]
+name = "attohttpc"
+version = "0.28.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "07a9b245ba0739fc90935094c29adbaee3f977218b5fb95e822e261cda7f56a3"
+dependencies = [
+ "flate2",
+ "http 1.4.0",
  "log",
  "native-tls",
  "url",
@@ -366,6 +379,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "http"
+version = "1.4.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e3ba2a386d7f85a81f119ad7498ebe444d2e22c2af0b86b069416ace48b3311a"
+dependencies = [
+ "bytes",
+ "itoa",
+]
+
+[[package]]
 name = "iana-time-zone"
 version = "0.1.63"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -522,6 +545,7 @@ dependencies = [
 name = "json_summarize"
 version = "0.1.0"
 dependencies = [
+ "attohttpc 0.28.5",
  "clap",
  "colored",
  "serde_json",
