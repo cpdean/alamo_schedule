@@ -1,942 +1,906 @@
 {
   "time_range": {
-    "start": "2026-06-02T10:40:21.596406843-04:00",
-    "end": "2026-06-02T22:40:21.596406843-04:00"
+    "start": "2026-06-03T11:23:53.208599557-04:00",
+    "end": "2026-06-03T23:23:53.208599557-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-06-02T11:00:00",
-      "movie": "Passenger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90626",
-      "presentation_slug": "passenger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:00:00",
-      "movie": "Power Ballad",
+      "show_time": "2026-06-03T11:30:00",
+      "movie": "I Love Boosters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129410",
-      "presentation_slug": "power-ballad",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T11:00:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90609",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
+      "session_id": "130699",
+      "presentation_slug": "i-love-boosters",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T11:15:00",
-      "movie": "Is God Is",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130904",
-      "presentation_slug": "is-god-is",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:15:00",
-      "movie": "Passenger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130845",
-      "presentation_slug": "passenger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:15:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90620",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:30:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127773",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:30:00",
+      "show_time": "2026-06-03T11:30:00",
       "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90596",
+      "session_id": "90632",
       "presentation_slug": "michael-2026",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-06-02T11:30:00",
+      "show_time": "2026-06-03T11:30:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130811",
+      "session_id": "130815",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T11:45:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130913",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T11:45:00",
+      "show_time": "2026-06-03T11:45:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90605",
+      "session_id": "90629",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T11:45:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-06-03T11:45:00",
+      "movie": "The Sheep Detectives",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130877",
-      "presentation_slug": "michael-2026",
-      "open_caption": true
+      "session_id": "130726",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:00:00",
+      "show_time": "2026-06-03T12:00:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130752",
+      "session_id": "130755",
       "presentation_slug": "hdr-by-barco-star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:00:00",
+      "show_time": "2026-06-03T12:00:00",
       "movie": "Pressure (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89640",
+      "session_id": "89644",
       "presentation_slug": "pressure-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:00:00",
+      "show_time": "2026-06-03T12:00:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90613",
+      "session_id": "90647",
       "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T12:15:00",
+      "movie": "I Love Boosters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90645",
+      "presentation_slug": "i-love-boosters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T12:15:00",
+      "movie": "Is God Is",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130901",
+      "presentation_slug": "is-god-is",
       "open_caption": true
     },
     {
-      "show_time": "2026-06-02T12:00:00",
-      "movie": "The Sheep Detectives",
+      "show_time": "2026-06-03T12:15:00",
+      "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130725",
-      "presentation_slug": "the-sheep-detectives",
+      "session_id": "130881",
+      "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:15:00",
-      "movie": "I Love Boosters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90612",
-      "presentation_slug": "i-love-boosters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T12:15:00",
-      "movie": "I Love Boosters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130696",
-      "presentation_slug": "i-love-boosters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T12:30:00",
+      "show_time": "2026-06-03T12:25:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87460",
+      "session_id": "87464",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:30:00",
+      "show_time": "2026-06-03T12:30:00",
       "movie": "The Breadwinner (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124926",
+      "session_id": "124930",
       "presentation_slug": "the-breadwinner-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:45:00",
+      "show_time": "2026-06-03T12:45:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130786",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T12:45:00",
+      "movie": "Tuner",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90019",
+      "presentation_slug": "tuner",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T13:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130917",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T13:00:00",
+      "movie": "The Breadwinner (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "84999",
+      "presentation_slug": "the-breadwinner-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T13:15:00",
       "movie": "Godzilla vs. Hedorah",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90665",
+      "session_id": "90666",
       "presentation_slug": "godzilla-vs-hedorah",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:45:00",
+      "show_time": "2026-06-03T13:15:00",
       "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130781",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90637",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T12:45:00",
-      "movie": "Tuner",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90015",
-      "presentation_slug": "tuner",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T13:00:00",
-      "movie": "The Breadwinner (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "84995",
-      "presentation_slug": "the-breadwinner-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T13:15:00",
-      "movie": "Is God Is",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90696",
-      "presentation_slug": "is-god-is",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T13:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90598",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T13:45:00",
+      "show_time": "2026-06-03T13:45:00",
       "movie": "Power Ballad",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129415",
+      "session_id": "129424",
       "presentation_slug": "power-ballad",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:00:00",
+      "show_time": "2026-06-03T14:00:00",
       "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130903",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90701",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:00:00",
+      "show_time": "2026-06-03T14:00:00",
       "movie": "Passenger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90623",
+      "session_id": "90658",
       "presentation_slug": "passenger",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:00:00",
+      "show_time": "2026-06-03T14:00:00",
       "movie": "Passenger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130847",
+      "session_id": "130848",
       "presentation_slug": "passenger",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:30:00",
+      "show_time": "2026-06-03T14:15:00",
       "movie": "Backrooms",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127774",
+      "session_id": "127778",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:30:00",
+      "show_time": "2026-06-03T14:30:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90610",
+      "session_id": "90635",
       "presentation_slug": "star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:45:00",
+      "show_time": "2026-06-03T14:45:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90602",
+      "session_id": "90641",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T14:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130914",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T14:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130812",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T14:45:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90619",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T15:00:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90607",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T15:00:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130722",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T15:15:00",
+      "show_time": "2026-06-03T14:45:00",
       "movie": "I Love Boosters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130695",
+      "session_id": "130700",
       "presentation_slug": "i-love-boosters",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:15:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-06-03T14:45:00",
+      "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130876",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T15:15:00",
-      "movie": "Pressure (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89641",
-      "presentation_slug": "pressure-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T15:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90615",
+      "session_id": "130816",
       "presentation_slug": "the-devil-wears-prada-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:30:00",
-      "movie": "Backrooms",
+      "show_time": "2026-06-03T14:45:00",
+      "movie": "The Sheep Detectives",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87462",
+      "session_id": "90656",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90631",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:00:00",
+      "movie": "Pressure (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89645",
+      "presentation_slug": "pressure-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:00:00",
+      "movie": "The Sheep Detectives",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130729",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:15:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130902",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:30:00",
+      "show_time": "2026-06-03T15:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90648",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:25:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87467",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T15:30:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130751",
+      "session_id": "130754",
       "presentation_slug": "hdr-by-barco-star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:30:00",
+      "show_time": "2026-06-03T15:30:00",
       "movie": "I Love Boosters",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90614",
+      "session_id": "90646",
       "presentation_slug": "i-love-boosters",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:30:00",
+      "show_time": "2026-06-03T15:30:00",
       "movie": "The Breadwinner (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124925",
+      "session_id": "124929",
       "presentation_slug": "the-breadwinner-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90687",
-      "presentation_slug": "obsession-2026",
+      "show_time": "2026-06-03T15:45:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130880",
+      "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T15:45:00",
+      "show_time": "2026-06-03T15:45:00",
       "movie": "Tuner",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90016",
+      "session_id": "90020",
       "presentation_slug": "tuner",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:00:00",
+      "show_time": "2026-06-03T16:00:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130918",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T16:00:00",
       "movie": "Obsession (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130782",
+      "session_id": "130785",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:00:00",
+      "show_time": "2026-06-03T16:00:00",
       "movie": "The Breadwinner (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84997",
+      "session_id": "85000",
       "presentation_slug": "the-breadwinner-2026",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:30:00",
+      "show_time": "2026-06-03T16:15:00",
+      "movie": "Mission: Impossible",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90668",
+      "presentation_slug": "mission-impossible",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T16:30:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90599",
+      "session_id": "90638",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:30:00",
+      "show_time": "2026-06-03T16:30:00",
       "movie": "Power Ballad",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129413",
+      "session_id": "129422",
       "presentation_slug": "power-ballad",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:45:00",
+      "show_time": "2026-06-03T16:45:00",
       "movie": "Passenger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90624",
+      "session_id": "90659",
       "presentation_slug": "passenger",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T16:45:00",
+      "show_time": "2026-06-03T16:45:00",
       "movie": "Passenger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130846",
+      "session_id": "130849",
       "presentation_slug": "passenger",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T17:00:00",
-      "movie": "Sony State of Play",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129797",
-      "presentation_slug": "free-fan-event-sony-state-of-play",
+      "show_time": "2026-06-03T17:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90691",
+      "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T17:45:00",
+      "show_time": "2026-06-03T17:45:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90603",
+      "session_id": "90642",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T17:45:00",
+      "show_time": "2026-06-03T18:00:00",
       "movie": "Backrooms",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130915",
+      "session_id": "127779",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:00:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "127775",
-      "presentation_slug": "backrooms",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T18:00:00",
+      "show_time": "2026-06-03T18:00:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90611",
+      "session_id": "90636",
       "presentation_slug": "star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:00:00",
+      "show_time": "2026-06-03T18:00:00",
       "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90618",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130728",
       "presentation_slug": "the-sheep-detectives",
       "open_caption": true
     },
     {
-      "show_time": "2026-06-02T18:15:00",
-      "movie": "Michael (2026)",
+      "show_time": "2026-06-03T18:00:00",
+      "movie": "The Sheep Detectives",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90597",
-      "presentation_slug": "michael-2026",
-      "open_caption": true
+      "session_id": "90655",
+      "presentation_slug": "the-sheep-detectives",
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:15:00",
+      "show_time": "2026-06-03T18:15:00",
+      "movie": "I Love Boosters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130701",
+      "presentation_slug": "i-love-boosters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T18:15:00",
       "movie": "Pressure (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89642",
+      "session_id": "89646",
       "presentation_slug": "pressure-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:15:00",
+      "show_time": "2026-06-03T18:15:00",
       "movie": "The Devil Wears Prada 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130813",
+      "session_id": "130817",
       "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T18:15:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130723",
-      "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:30:00",
+      "show_time": "2026-06-03T18:25:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "87461",
+      "session_id": "87465",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:30:00",
-      "movie": "The Devil Wears Prada 2",
+      "show_time": "2026-06-03T18:30:00",
+      "movie": "Michael (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90616",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T18:30:00",
-      "movie": "The Python Hunt",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129828",
-      "presentation_slug": "the-python-hunt",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T18:45:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130879",
+      "session_id": "90633",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:45:00",
+      "show_time": "2026-06-03T18:30:00",
       "movie": "The Breadwinner (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "124924",
+      "session_id": "124928",
       "presentation_slug": "the-breadwinner-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T18:45:00",
-      "movie": "The Python Hunt",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89611",
-      "presentation_slug": "the-python-hunt",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T18:45:00",
+      "show_time": "2026-06-03T18:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90649",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T18:45:00",
+      "movie": "Death Becomes Her",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "128593",
+      "presentation_slug": "movie-party-death-becomes-her",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T18:45:00",
       "movie": "Tuner",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90018",
+      "session_id": "90022",
       "presentation_slug": "tuner",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-06-02T19:00:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
+      "show_time": "2026-06-03T19:00:00",
+      "movie": "Masters of the Universe (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130750",
-      "presentation_slug": "hdr-by-barco-star-wars-the-mandalorian-and-grogu",
+      "session_id": "130906",
+      "presentation_slug": "advance-screening-masters-of-the-universe-2026-hdr-by-barco-early-access",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:00:00",
+      "show_time": "2026-06-03T19:00:00",
       "movie": "I Love Boosters",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90617",
+      "session_id": "90650",
       "presentation_slug": "i-love-boosters",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:15:00",
-      "movie": "Obsession (2026)",
+      "show_time": "2026-06-03T19:00:00",
+      "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130780",
-      "presentation_slug": "obsession-2026",
+      "session_id": "130883",
+      "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:15:00",
+      "show_time": "2026-06-03T19:15:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130787",
+      "presentation_slug": "obsession-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-06-03T19:15:00",
       "movie": "Power Ballad",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "129418",
+      "session_id": "129429",
       "presentation_slug": "power-ballad",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:15:00",
+      "show_time": "2026-06-03T19:15:00",
       "movie": "The Breadwinner (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84996",
+      "session_id": "85001",
       "presentation_slug": "the-breadwinner-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:30:00",
-      "movie": "I Love Boosters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130697",
-      "presentation_slug": "i-love-boosters",
-      "open_caption": true
+      "show_time": "2026-06-03T19:30:00",
+      "movie": "Death Becomes Her",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "88733",
+      "presentation_slug": "movie-party-death-becomes-her",
+      "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:30:00",
+      "show_time": "2026-06-03T19:30:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90601",
+      "session_id": "90640",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:45:00",
-      "movie": "Passenger",
+      "show_time": "2026-06-03T19:30:00",
+      "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130843",
+      "session_id": "129428",
+      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T19:45:00",
+      "movie": "Passenger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90661",
       "presentation_slug": "passenger",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T19:45:00",
+      "show_time": "2026-06-03T19:45:00",
       "movie": "Passenger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90625",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130852",
       "presentation_slug": "passenger",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T20:00:00",
+      "show_time": "2026-06-03T20:00:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90685",
+      "session_id": "90690",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T20:45:00",
+      "show_time": "2026-06-03T20:45:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90604",
+      "session_id": "90643",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T20:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130916",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:00:00",
+      "show_time": "2026-06-03T21:00:00",
       "movie": "Backrooms",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "127776",
+      "session_id": "127780",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T21:00:00",
-      "movie": "The Sheep Detectives",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90621",
-      "presentation_slug": "the-sheep-detectives",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:15:00",
+      "show_time": "2026-06-03T21:00:00",
       "movie": "Is God Is",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130724",
+      "session_id": "130727",
       "presentation_slug": "is-god-is",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T21:15:00",
-      "movie": "Pressure (2026)",
+      "show_time": "2026-06-03T21:00:00",
+      "movie": "The Sheep Detectives",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "89643",
-      "presentation_slug": "pressure-2026",
+      "session_id": "90654",
+      "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T21:30:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "87463",
-      "presentation_slug": "backrooms",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-02T21:30:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90608",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:30:00",
-      "movie": "Salem's Lot",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130613",
-      "presentation_slug": "terror-tuesday-salems-lot",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:30:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130814",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:45:00",
-      "movie": "The Breadwinner (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "124923",
-      "presentation_slug": "the-breadwinner-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90622",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T21:45:00",
-      "movie": "Tuner",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90017",
-      "presentation_slug": "tuner",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T22:00:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90686",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T22:00:00",
-      "movie": "Michael (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90606",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T22:00:00",
-      "movie": "Michael (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130878",
-      "presentation_slug": "michael-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T22:00:00",
-      "movie": "Power Ballad",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "129416",
-      "presentation_slug": "power-ballad",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-02T22:15:00",
+      "show_time": "2026-06-03T21:15:00",
       "movie": "I Love Boosters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90627",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130702",
       "presentation_slug": "i-love-boosters",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T22:15:00",
+      "show_time": "2026-06-03T21:15:00",
+      "movie": "Pressure (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "89647",
+      "presentation_slug": "pressure-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T21:25:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "87466",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T21:30:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130783",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90644",
       "presentation_slug": "star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T22:15:00",
-      "movie": "The Breadwinner (2026)",
+      "show_time": "2026-06-03T21:30:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130818",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T21:45:00",
+      "movie": "The Devil Wears Prada 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "84998",
+      "session_id": "90652",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T21:45:00",
+      "movie": "Tuner",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90021",
+      "presentation_slug": "tuner",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T21:45:00",
+      "movie": "The Queen",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130622",
+      "presentation_slug": "weird-wednesday-the-queen",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:00:00",
+      "movie": "Michael (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90630",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:00:00",
+      "movie": "Power Ballad",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "129427",
+      "presentation_slug": "power-ballad",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:00:00",
+      "movie": "The Breadwinner (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "124927",
       "presentation_slug": "the-breadwinner-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T22:30:00",
+      "show_time": "2026-06-03T22:00:00",
+      "movie": "The Breadwinner (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "85002",
+      "presentation_slug": "the-breadwinner-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:15:00",
+      "movie": "I Love Boosters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90653",
+      "presentation_slug": "i-love-boosters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:15:00",
+      "movie": "Michael (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130882",
+      "presentation_slug": "michael-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:15:00",
+      "movie": "Star Wars: The Mandalorian and Grogu",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130784",
+      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:30:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90689",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:30:00",
       "movie": "Obsession (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130753",
+      "session_id": "130756",
       "presentation_slug": "hdr-by-barco-obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-02T22:30:00",
+      "show_time": "2026-06-03T22:30:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90600",
+      "session_id": "90639",
       "presentation_slug": "obsession-2026",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-06-02T22:30:00",
+      "show_time": "2026-06-03T22:30:00",
       "movie": "Passenger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130844",
+      "session_id": "130851",
+      "presentation_slug": "passenger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:45:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130919",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-03T22:45:00",
+      "movie": "Passenger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90660",
       "presentation_slug": "passenger",
       "open_caption": false
     }
