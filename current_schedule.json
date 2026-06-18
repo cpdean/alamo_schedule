@@ -1,889 +1,826 @@
 {
   "time_range": {
-    "start": "2026-06-17T10:22:31.823996697-04:00",
-    "end": "2026-06-17T22:22:31.823996697-04:00"
+    "start": "2026-06-18T09:55:27.176275491-04:00",
+    "end": "2026-06-18T21:55:27.176275491-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-06-17T10:30:00",
+      "show_time": "2026-06-18T10:45:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132053",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:00:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132061",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:15:00",
+      "movie": "Disclosure Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132056",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:15:00",
+      "movie": "Star Wars: The Mandalorian and Grogu",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92084",
+      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:30:00",
+      "movie": "Disclosure Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92078",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:30:00",
       "movie": "Scary Movie (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "131866",
+      "session_id": "132074",
       "presentation_slug": "scary-movie-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T10:45:00",
-      "movie": "Tuner",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131885",
-      "presentation_slug": "tuner",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T11:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130653",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T11:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131871",
-      "presentation_slug": "hdr-by-barco-obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T11:15:00",
-      "movie": "Masters of the Universe (2026)",
+      "show_time": "2026-06-18T11:30:00",
+      "movie": "Scary Movie (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91740",
+      "session_id": "92108",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T11:45:00",
+      "movie": "Masters of the Universe (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132070",
       "presentation_slug": "masters-of-the-universe-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T11:15:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131876",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T11:30:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131886",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T11:45:00",
-      "movie": "Backrooms",
+      "show_time": "2026-06-18T11:45:00",
+      "movie": "The Sheep Detectives",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91745",
-      "presentation_slug": "backrooms",
+      "session_id": "92080",
+      "presentation_slug": "the-sheep-detectives",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T11:45:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90358",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T11:45:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131903",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:00:00",
-      "movie": "Boogie Nights",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91738",
-      "presentation_slug": "boogie-nights",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:00:00",
-      "movie": "Dressed to Kill (1980)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131906",
-      "presentation_slug": "dressed-to-kill-1980",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:00:00",
-      "movie": "Power Ballad",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91758",
-      "presentation_slug": "power-ballad",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:15:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131865",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:15:00",
-      "movie": "Power Ballad",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131894",
-      "presentation_slug": "power-ballad",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:15:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91766",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:15:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91780",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:30:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91748",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:30:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91367",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91776",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T12:45:00",
+      "show_time": "2026-06-18T11:45:00",
       "movie": "Tuner",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91772",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132089",
       "presentation_slug": "tuner",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T13:00:00",
-      "movie": "I Love Boosters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131896",
-      "presentation_slug": "i-love-boosters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T13:00:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91749",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T13:15:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91754",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T13:15:00",
+      "show_time": "2026-06-18T12:00:00",
       "movie": "Jinsei",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91761",
+      "session_id": "92119",
       "presentation_slug": "jinsei",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T13:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131872",
-      "presentation_slug": "obsession-2026",
+      "show_time": "2026-06-18T12:00:00",
+      "movie": "Masters of the Universe (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92079",
+      "presentation_slug": "masters-of-the-universe-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T13:30:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131867",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T13:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131887",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T14:15:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131868",
-      "presentation_slug": "hdr-by-barco-disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T14:30:00",
+      "show_time": "2026-06-18T12:00:00",
       "movie": "Star Wars: The Mandalorian and Grogu",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "131873",
+      "session_id": "132079",
       "presentation_slug": "star-wars-the-mandalorian-and-grogu",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T14:30:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131904",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T14:45:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131888",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T14:45:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91744",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T15:00:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91743",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:00:00",
+      "show_time": "2026-06-18T12:15:00",
       "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130652",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92114",
       "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T15:00:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91759",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:15:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90359",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:15:00",
-      "movie": "KPop Demon Hunters",
+      "show_time": "2026-06-18T12:15:00",
+      "movie": "Power Ballad",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130221",
-      "presentation_slug": "kids-camp-kpop-demon-hunters",
+      "session_id": "132088",
+      "presentation_slug": "power-ballad",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T15:15:00",
-      "movie": "Stop! That! Train!",
+      "show_time": "2026-06-18T12:15:00",
+      "movie": "Tuner",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91779",
-      "presentation_slug": "stop-that-train",
+      "session_id": "92081",
+      "presentation_slug": "tuner",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T15:15:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131893",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:30:00",
-      "movie": "Pressure (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91750",
-      "presentation_slug": "pressure-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:30:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89957",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:45:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131874",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91774",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T15:45:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91765",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:00:00",
-      "movie": "KPop Demon Hunters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90042",
-      "presentation_slug": "kids-camp-kpop-demon-hunters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:00:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91771",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131869",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:15:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91775",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:15:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131905",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T16:30:00",
+      "show_time": "2026-06-18T12:30:00",
       "movie": "I Love Boosters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131895",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92086",
       "presentation_slug": "i-love-boosters",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T16:30:00",
-      "movie": "Jinsei",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91760",
-      "presentation_slug": "jinsei",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T16:45:00",
+      "show_time": "2026-06-18T12:30:00",
       "movie": "Obsession (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "131889",
+      "session_id": "132069",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T17:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91753",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T17:15:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130194",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:00:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91741",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90360",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131881",
-      "presentation_slug": "hdr-by-barco-disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:00:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131870",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:15:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131892",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:15:00",
-      "movie": "Gregg Allman: The Music of my Soul",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130624",
-      "presentation_slug": "gregg-allman-the-music-of-my-soul",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:15:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91742",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:15:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89958",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:30:00",
-      "movie": "Pressure (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91751",
-      "presentation_slug": "pressure-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T18:30:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131891",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:30:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91762",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:45:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130651",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T18:45:00",
+      "show_time": "2026-06-18T12:30:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91773",
+      "session_id": "92091",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T18:45:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91764",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T19:00:00",
-      "movie": "Leviticus",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90881",
-      "presentation_slug": "fan-event-leviticus-desire-fan-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T19:00:00",
-      "movie": "Leviticus",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131045",
-      "presentation_slug": "fan-event-leviticus-desire-fan-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T19:15:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131880",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T19:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131882",
-      "presentation_slug": "obsession-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T19:15:00",
-      "movie": "The Furious",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91763",
-      "presentation_slug": "the-furious",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T19:15:00",
-      "movie": "The Devil Queen",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90028",
-      "presentation_slug": "weird-wednesday-the-devil-queen",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T19:30:00",
-      "movie": "I Love Boosters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131900",
-      "presentation_slug": "i-love-boosters",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T19:30:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91752",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T19:45:00",
-      "movie": "The Furious",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131890",
-      "presentation_slug": "the-furious",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T20:00:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130193",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T20:30:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91755",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:00:00",
+      "show_time": "2026-06-18T12:45:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91746",
+      "session_id": "92100",
       "presentation_slug": "backrooms",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T21:00:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "89956",
-      "presentation_slug": "stop-that-train",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:15:00",
-      "movie": "Backrooms",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131899",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91757",
-      "presentation_slug": "obsession-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-06-17T21:30:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91368",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:30:00",
-      "movie": "Star Wars: The Mandalorian and Grogu",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131883",
-      "presentation_slug": "star-wars-the-mandalorian-and-grogu",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:30:00",
-      "movie": "Remember My Name",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "130615",
-      "presentation_slug": "weird-wednesday-remember-my-name",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:35:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91778",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:45:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91770",
-      "presentation_slug": "backrooms",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:45:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131879",
-      "presentation_slug": "hdr-by-barco-obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:45:00",
-      "movie": "The Devil Wears Prada 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91768",
-      "presentation_slug": "the-devil-wears-prada-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T21:45:00",
-      "movie": "The Furious",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131898",
-      "presentation_slug": "the-furious",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T22:00:00",
-      "movie": "Masters of the Universe (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91747",
-      "presentation_slug": "masters-of-the-universe-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T22:00:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91769",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T22:00:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131884",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-06-17T22:15:00",
+      "show_time": "2026-06-18T12:45:00",
       "movie": "Michael (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "131878",
+      "session_id": "132087",
       "presentation_slug": "michael-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T22:15:00",
-      "movie": "Obsession (2026)",
+      "show_time": "2026-06-18T13:00:00",
+      "movie": "Pressure (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91777",
+      "session_id": "92082",
+      "presentation_slug": "pressure-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:00:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132086",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:15:00",
+      "movie": "Disclosure Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132091",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:15:00",
+      "movie": "Masters of the Universe (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92095",
+      "presentation_slug": "masters-of-the-universe-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:15:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92109",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:30:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132062",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T13:45:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132052",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T14:30:00",
+      "movie": "Scary Movie (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132075",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T14:30:00",
+      "movie": "Scary Movie (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92107",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T14:45:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132090",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-06-17T22:15:00",
+      "show_time": "2026-06-18T14:45:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92099",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:00:00",
+      "movie": "Disclosure Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132057",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130549",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90363",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:00:00",
+      "movie": "Power Ballad",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92120",
+      "presentation_slug": "power-ballad",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:15:00",
+      "movie": "Disclosure Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92096",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130576",
+      "presentation_slug": "hdr-by-barco-toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:15:00",
+      "movie": "Masters of the Universe (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132071",
+      "presentation_slug": "masters-of-the-universe-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92092",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132068",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90396",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:45:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92101",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T15:45:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92104",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:00:00",
+      "movie": "Disclosure Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92113",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:00:00",
+      "movie": "KPop Demon Hunters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130222",
+      "presentation_slug": "kids-camp-kpop-demon-hunters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:00:00",
+      "movie": "The Death of Robin Hood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90854",
+      "presentation_slug": "the-death-of-robin-hood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:15:00",
+      "movie": "KPop Demon Hunters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90043",
+      "presentation_slug": "kids-camp-kpop-demon-hunters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:15:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92110",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132084",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:30:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132058",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T16:45:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132049",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T17:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92093",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T17:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132063",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T17:15:00",
+      "movie": "Scary Movie (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132076",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T17:30:00",
       "movie": "Scary Movie (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "91756",
+      "session_id": "92106",
       "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130550",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90364",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:00:00",
+      "movie": "The Death of Robin Hood",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132082",
+      "presentation_slug": "the-death-of-robin-hood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130577",
+      "presentation_slug": "hdr-by-barco-toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:15:00",
+      "movie": "The Devil Wears Prada 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92117",
+      "presentation_slug": "the-devil-wears-prada-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90397",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132066",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92090",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:45:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92102",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T18:45:00",
+      "movie": "Masters of the Universe (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132072",
+      "presentation_slug": "masters-of-the-universe-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:00:00",
+      "movie": "Disclosure Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132054",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:00:00",
+      "movie": "Disclosure Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92097",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:00:00",
+      "movie": "Leviticus",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90882",
+      "presentation_slug": "leviticus",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:00:00",
+      "movie": "But I'm a Cheerleader",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130203",
+      "presentation_slug": "movie-party-but-im-a-cheerleader",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:15:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92111",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:15:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132059",
+      "presentation_slug": "stop-that-train",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:15:00",
+      "movie": "The Death of Robin Hood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90855",
+      "presentation_slug": "the-death-of-robin-hood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:30:00",
+      "movie": "Leviticus",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "131046",
+      "presentation_slug": "leviticus",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92087",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:45:00",
+      "movie": "Backrooms",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132051",
+      "presentation_slug": "backrooms",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T19:45:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92115",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T20:00:00",
+      "movie": "Scary Movie (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132077",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T20:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132064",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T20:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92094",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T20:30:00",
+      "movie": "Scary Movie (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92105",
+      "presentation_slug": "scary-movie-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90365",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:00:00",
+      "movie": "Girls Like Girls",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130551",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130578",
+      "presentation_slug": "hdr-by-barco-toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:15:00",
+      "movie": "The Death of Robin Hood",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132083",
+      "presentation_slug": "the-death-of-robin-hood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90398",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132067",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92089",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:30:00",
+      "movie": "The Furious",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92118",
+      "presentation_slug": "the-furious",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:45:00",
+      "movie": "Leviticus",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90883",
+      "presentation_slug": "leviticus",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-06-18T21:45:00",
+      "movie": "Showgirls",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130659",
+      "presentation_slug": "movie-party-showgirls",
       "open_caption": false
     }
   ]
