@@ -1,926 +1,863 @@
 {
   "time_range": {
-    "start": "2026-07-06T10:18:32.413604596-04:00",
-    "end": "2026-07-06T22:18:32.413604596-04:00"
+    "start": "2026-07-07T09:10:44.610323989-04:00",
+    "end": "2026-07-07T21:10:44.610323989-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-07-06T10:30:00",
-      "movie": "Disclosure Day",
+      "show_time": "2026-07-07T09:15:00",
+      "movie": "Maddie's Secret",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133082",
-      "presentation_slug": "disclosure-day",
+      "session_id": "133104",
+      "presentation_slug": "maddies-secret",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T10:30:00",
-      "movie": "The Invite",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133055",
-      "presentation_slug": "the-invite",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T10:45:00",
-      "movie": "Toy Story 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133035",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T11:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92799",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T11:15:00",
-      "movie": "jackass: best and last",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133066",
-      "presentation_slug": "jackass-best-and-last",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T11:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92800",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T11:15:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92795",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T11:30:00",
+      "show_time": "2026-07-07T09:30:00",
       "movie": "Minions & Monsters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133078",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T11:30:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92801",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T12:00:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92864",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T12:00:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133056",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T12:00:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92782",
-      "presentation_slug": "special-event-backrooms-everything-must-go-edition",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T12:15:00",
-      "movie": "Minions & Monsters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133087",
+      "session_id": "133135",
       "presentation_slug": "hdr-by-barco-minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T12:15:00",
-      "movie": "Maddie's Secret",
+      "show_time": "2026-07-07T09:45:00",
+      "movie": "Minions & Monsters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133039",
-      "presentation_slug": "maddies-secret",
+      "session_id": "133145",
+      "presentation_slug": "minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T12:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91428",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T12:30:00",
+      "show_time": "2026-07-07T09:45:00",
       "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92809",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133099",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T12:45:00",
+      "show_time": "2026-07-07T10:00:00",
       "movie": "Supergirl (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92793",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133114",
       "presentation_slug": "supergirl-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T12:45:00",
+      "show_time": "2026-07-07T10:00:00",
       "movie": "Toy Story 5",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133071",
+      "session_id": "133132",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T12:45:00",
-      "movie": "Toy Story 5",
+      "show_time": "2026-07-07T10:30:00",
+      "movie": "Disclosure Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133044",
-      "presentation_slug": "toy-story-5",
+      "session_id": "133141",
+      "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T13:00:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90723",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T13:00:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133049",
-      "presentation_slug": "supergirl-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T13:15:00",
-      "movie": "jackass: best and last",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92788",
-      "presentation_slug": "jackass-best-and-last",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T13:15:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92810",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T13:15:00",
-      "movie": "Minions & Monsters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133034",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T13:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92778",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T13:30:00",
+      "show_time": "2026-07-07T10:30:00",
       "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133058",
+      "session_id": "133109",
       "presentation_slug": "the-invite",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T13:30:00",
+      "show_time": "2026-07-07T10:45:00",
       "movie": "Toy Story 5",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133036",
+      "session_id": "133094",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T13:30:00",
-      "movie": "Toy Story 5",
+      "show_time": "2026-07-07T11:00:00",
+      "movie": "Disclosure Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92863",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T14:00:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133081",
+      "session_id": "92820",
       "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T14:00:00",
+      "show_time": "2026-07-07T11:00:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92872",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T11:15:00",
       "movie": "jackass: best and last",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133065",
+      "session_id": "133118",
       "presentation_slug": "jackass-best-and-last",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T14:15:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92811",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T14:15:00",
-      "movie": "Scary Movie (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133077",
-      "presentation_slug": "scary-movie-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T14:15:00",
+      "show_time": "2026-07-07T11:15:00",
       "movie": "Supergirl (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92797",
+      "session_id": "92821",
       "presentation_slug": "supergirl-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T14:15:00",
+      "show_time": "2026-07-07T11:15:00",
       "movie": "Toy Story 5",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92794",
+      "session_id": "92844",
       "presentation_slug": "toy-story-5",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T14:30:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92798",
-      "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T15:00:00",
+      "show_time": "2026-07-07T11:30:00",
       "movie": "Minions & Monsters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133086",
-      "presentation_slug": "hdr-by-barco-minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:00:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92862",
+      "session_id": "133126",
       "presentation_slug": "minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T15:00:00",
+      "show_time": "2026-07-07T11:30:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92822",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T12:00:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92871",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T12:00:00",
       "movie": "Obsession (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133059",
+      "session_id": "133108",
       "presentation_slug": "obsession-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T15:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91429",
-      "presentation_slug": "maddies-secret",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T15:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133038",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:30:00",
+      "show_time": "2026-07-07T12:00:00",
       "movie": "Backrooms",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92781",
+      "session_id": "92853",
       "presentation_slug": "special-event-backrooms-everything-must-go-edition",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T15:30:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92817",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:35:00",
-      "movie": "Toy Story 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133043",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:45:00",
+      "show_time": "2026-07-07T12:15:00",
       "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90724",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:45:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92792",
-      "presentation_slug": "supergirl-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T15:45:00",
-      "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133070",
-      "presentation_slug": "the-invite",
+      "session_id": "133136",
+      "presentation_slug": "hdr-by-barco-minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:00:00",
+      "show_time": "2026-07-07T12:15:00",
       "movie": "Maddie's Secret",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92802",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133090",
       "presentation_slug": "maddies-secret",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:00:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133048",
-      "presentation_slug": "supergirl-2026",
+      "show_time": "2026-07-07T12:15:00",
+      "movie": "Maddie's Secret",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "91432",
+      "presentation_slug": "maddies-secret",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:00:00",
-      "movie": "Toy Story 5",
+      "show_time": "2026-07-07T12:30:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90727",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T12:30:00",
+      "movie": "Minions & Monsters",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133089",
+      "session_id": "133146",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T12:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92830",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:15:00",
+      "show_time": "2026-07-07T12:45:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92846",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T12:45:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133133",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T12:45:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133100",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T13:00:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133095",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T13:15:00",
       "movie": "jackass: best and last",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92789",
+      "session_id": "92839",
       "presentation_slug": "jackass-best-and-last",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:15:00",
+      "show_time": "2026-07-07T13:15:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92831",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T13:15:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92857",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T13:30:00",
+      "movie": "The Invite",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133106",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T13:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133093",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:00:00",
+      "movie": "Disclosure Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133142",
+      "presentation_slug": "disclosure-day",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T14:00:00",
+      "movie": "jackass: best and last",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133119",
+      "presentation_slug": "jackass-best-and-last",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92870",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:15:00",
+      "movie": "Girls Like Girls",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133127",
+      "presentation_slug": "girls-like-girls",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:15:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92832",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:15:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92818",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92845",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T14:30:00",
+      "movie": "Disclosure Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92819",
+      "presentation_slug": "disclosure-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:00:00",
+      "movie": "Minions & Monsters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133137",
+      "presentation_slug": "hdr-by-barco-minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133105",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92868",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:15:00",
+      "movie": "Maddie's Secret",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133091",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:15:00",
+      "movie": "Maddie's Secret",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "91433",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:15:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90728",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:15:00",
+      "movie": "Minions & Monsters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133144",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T15:30:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92854",
+      "presentation_slug": "special-event-backrooms-everything-must-go-edition",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92838",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:35:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133101",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:45:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92847",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T15:45:00",
+      "movie": "The Invite",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133134",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T16:00:00",
+      "movie": "Maddie's Secret",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92823",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T16:00:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133096",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T16:15:00",
+      "movie": "jackass: best and last",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92850",
+      "presentation_slug": "jackass-best-and-last",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T16:15:00",
       "movie": "Leviticus",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133037",
+      "session_id": "133092",
       "presentation_slug": "leviticus",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-07-06T16:30:00",
+      "show_time": "2026-07-07T16:30:00",
       "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92777",
+      "session_id": "92858",
       "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:30:00",
+      "show_time": "2026-07-07T16:30:00",
       "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133060",
+      "session_id": "133124",
       "presentation_slug": "the-invite",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T16:30:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92861",
-      "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T16:45:00",
+      "show_time": "2026-07-07T16:45:00",
       "movie": "jackass: best and last",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133064",
+      "session_id": "133120",
       "presentation_slug": "jackass-best-and-last",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T17:00:00",
-      "movie": "Stop! That! Train!",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92803",
-      "presentation_slug": "stop-that-train",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T17:00:00",
-      "movie": "Stop! That! Train!",
+      "show_time": "2026-07-07T17:00:00",
+      "movie": "Maddie's Secret",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133076",
+      "session_id": "133125",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T17:00:00",
+      "movie": "Minions & Monsters",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92869",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T17:00:00",
+      "movie": "Stop! That! Train!",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92824",
       "presentation_slug": "stop-that-train",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T17:15:00",
-      "movie": "Obsession (2026)",
+      "show_time": "2026-07-07T17:15:00",
+      "movie": "Supergirl (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92804",
-      "presentation_slug": "obsession-2026",
+      "session_id": "92825",
+      "presentation_slug": "supergirl-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T17:15:00",
+      "show_time": "2026-07-07T17:15:00",
       "movie": "Toy Story 5",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92796",
+      "session_id": "92843",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:00:00",
+      "show_time": "2026-07-07T17:45:00",
+      "movie": "Minions & Monsters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133138",
+      "presentation_slug": "hdr-by-barco-minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T18:00:00",
       "movie": "Disclosure Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133080",
+      "session_id": "133143",
       "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:00:00",
+      "show_time": "2026-07-07T18:00:00",
       "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90433",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "130662",
       "presentation_slug": "family-party-minions-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:00:00",
-      "movie": "Minions & Monsters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133085",
-      "presentation_slug": "hdr-by-barco-minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T18:15:00",
-      "movie": "Disclosure Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92805",
-      "presentation_slug": "disclosure-day",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T18:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91430",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T18:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133041",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T18:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133062",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T18:30:00",
+      "show_time": "2026-07-07T18:00:00",
       "movie": "Minions & Monsters",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90725",
+      "session_id": "90729",
       "presentation_slug": "minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:30:00",
-      "movie": "Toy Story 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133042",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T18:30:00",
-      "movie": "Toy Story 5",
+      "show_time": "2026-07-07T18:00:00",
+      "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92806",
-      "presentation_slug": "toy-story-5",
+      "session_id": "92866",
+      "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:45:00",
-      "movie": "Supergirl (2026)",
+      "show_time": "2026-07-07T18:15:00",
+      "movie": "Disclosure Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92790",
-      "presentation_slug": "supergirl-2026",
+      "session_id": "92826",
+      "presentation_slug": "disclosure-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T18:45:00",
-      "movie": "The Invite",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133069",
-      "presentation_slug": "the-invite",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:00:00",
+      "show_time": "2026-07-07T18:15:00",
       "movie": "Maddie's Secret",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92807",
+      "session_id": "91434",
       "presentation_slug": "maddies-secret",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T19:00:00",
-      "movie": "Scarface (1983)",
+      "show_time": "2026-07-07T18:15:00",
+      "movie": "Maddie's Secret",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "130617",
+      "session_id": "133103",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T18:15:00",
+      "movie": "Obsession (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133122",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T18:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92827",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T18:30:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133102",
+      "presentation_slug": "toy-story-5",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T18:45:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92849",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T18:45:00",
+      "movie": "The Invite",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133115",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:00:00",
+      "movie": "Maddie's Secret",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92828",
+      "presentation_slug": "maddies-secret",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:00:00",
+      "movie": "Backrooms",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92856",
+      "presentation_slug": "special-event-backrooms-everything-must-go-edition",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:00:00",
+      "movie": "Supergirl (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133097",
+      "presentation_slug": "supergirl-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T19:15:00",
+      "movie": "jackass: best and last",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92840",
+      "presentation_slug": "jackass-best-and-last",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:15:00",
+      "movie": "Leviticus",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133098",
+      "presentation_slug": "leviticus",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:30:00",
+      "movie": "jackass: best and last",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133121",
+      "presentation_slug": "jackass-best-and-last",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:30:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92852",
+      "presentation_slug": "obsession-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:30:00",
+      "movie": "The Invite",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133123",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-07-07T19:45:00",
+      "movie": "Scarface (1983)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92865",
       "presentation_slug": "scarface-1983",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T19:00:00",
-      "movie": "Backrooms",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92779",
-      "presentation_slug": "special-event-backrooms-everything-must-go-edition",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:00:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133047",
-      "presentation_slug": "supergirl-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:15:00",
-      "movie": "jackass: best and last",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92787",
-      "presentation_slug": "jackass-best-and-last",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:15:00",
-      "movie": "Leviticus",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133046",
-      "presentation_slug": "leviticus",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-06T19:30:00",
-      "movie": "jackass: best and last",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133063",
-      "presentation_slug": "jackass-best-and-last",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:30:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92783",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:30:00",
-      "movie": "Once Upon a Time in China",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92859",
-      "presentation_slug": "once-upon-a-time-in-china",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:30:00",
-      "movie": "The Invite",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133061",
-      "presentation_slug": "the-invite",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:45:00",
-      "movie": "Maddie's Secret",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133079",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T19:45:00",
+      "show_time": "2026-07-07T19:45:00",
       "movie": "Stop! That! Train!",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92808",
+      "session_id": "92829",
       "presentation_slug": "stop-that-train",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T20:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92812",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T20:15:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92785",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:00:00",
-      "movie": "Minions & Monsters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133084",
-      "presentation_slug": "hdr-by-barco-minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:00:00",
-      "movie": "Obsession (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92860",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "91427",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:15:00",
-      "movie": "Maddie's Secret",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133051",
-      "presentation_slug": "maddies-secret",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:15:00",
-      "movie": "Minions & Monsters",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90726",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:15:00",
-      "movie": "Obsession (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133067",
-      "presentation_slug": "obsession-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:30:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92813",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:30:00",
-      "movie": "Toy Story 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133054",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:45:00",
-      "movie": "Disclosure Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133083",
-      "presentation_slug": "disclosure-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:45:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92791",
-      "presentation_slug": "supergirl-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T21:45:00",
+      "show_time": "2026-07-07T19:45:00",
       "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133068",
+      "session_id": "133128",
       "presentation_slug": "the-invite",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T22:00:00",
-      "movie": "Disclosure Day",
+      "show_time": "2026-07-07T20:15:00",
+      "movie": "Obsession (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92815",
-      "presentation_slug": "disclosure-day",
+      "session_id": "92833",
+      "presentation_slug": "obsession-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T22:00:00",
-      "movie": "Leviticus",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133053",
-      "presentation_slug": "leviticus",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T22:00:00",
-      "movie": "Backrooms",
+      "show_time": "2026-07-07T20:15:00",
+      "movie": "Toy Story 5",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92814",
-      "presentation_slug": "special-event-backrooms-everything-must-go-edition",
+      "session_id": "92842",
+      "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T22:00:00",
-      "movie": "Supergirl (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133052",
-      "presentation_slug": "supergirl-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-06T22:15:00",
-      "movie": "jackass: best and last",
+      "show_time": "2026-07-07T20:45:00",
+      "movie": "Minions & Monsters",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92786",
-      "presentation_slug": "jackass-best-and-last",
+      "session_id": "90730",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-07-07T21:00:00",
+      "movie": "Minions & Monsters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133139",
+      "presentation_slug": "hdr-by-barco-minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-06T22:15:00",
-      "movie": "jackass: best and last",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133073",
-      "presentation_slug": "jackass-best-and-last",
-      "open_caption": false
+      "show_time": "2026-07-07T21:00:00",
+      "movie": "Obsession (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92867",
+      "presentation_slug": "obsession-2026",
+      "open_caption": true
     }
   ]
 }
