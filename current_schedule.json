@@ -1,790 +1,763 @@
 {
   "time_range": {
-    "start": "2026-07-31T08:50:02.658504993-04:00",
-    "end": "2026-07-31T20:50:02.658504993-04:00"
+    "start": "2026-08-01T07:54:30.350173214-04:00",
+    "end": "2026-08-01T19:54:30.350173214-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-07-31T09:00:00",
+      "show_time": "2026-08-01T08:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133208",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94200",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:00:00",
-      "movie": "Toy Story 5",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135145",
-      "presentation_slug": "toy-story-5",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134974",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:15:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94313",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:30:00",
-      "movie": "Moana (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134978",
-      "presentation_slug": "moana-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94324",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:45:00",
-      "movie": "Minions & Monsters",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135203",
-      "presentation_slug": "minions-and-monsters",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "132333",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T09:45:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94320",
-      "presentation_slug": "the-odyssey",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-31T10:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94329",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T10:00:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "132332",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T10:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134966",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T10:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94335",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T10:45:00",
-      "movie": "Moana (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94331",
-      "presentation_slug": "moana-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T10:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134987",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T11:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90932",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T11:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131082",
+      "session_id": "135137",
       "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T11:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90930",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T11:30:00",
-      "movie": "The Invite",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94340",
-      "presentation_slug": "the-invite",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T11:30:00",
+      "show_time": "2026-08-01T08:15:00",
       "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94319",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135208",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T11:45:00",
+      "show_time": "2026-08-01T08:45:00",
+      "movie": "Minions & Monsters",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135018",
+      "presentation_slug": "minions-and-monsters",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T09:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94333",
+      "session_id": "94201",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:00:00",
+      "show_time": "2026-08-01T09:00:00",
       "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90933",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133215",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:00:00",
+      "show_time": "2026-08-01T09:00:00",
       "movie": "Toy Story 5",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135146",
+      "session_id": "134999",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:15:00",
-      "movie": "The Invite",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134967",
-      "presentation_slug": "the-invite",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T12:15:00",
+      "show_time": "2026-08-01T09:15:00",
       "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134980",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94350",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:15:00",
-      "movie": "Toy Story 5",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94339",
-      "presentation_slug": "toy-story-5",
+      "show_time": "2026-08-01T09:15:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135004",
+      "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:30:00",
+      "show_time": "2026-08-01T09:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92923",
+      "session_id": "94361",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:30:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-08-01T09:30:00",
+      "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135171",
+      "session_id": "135009",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T09:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132344",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T09:45:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94352",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:45:00",
+      "show_time": "2026-08-01T10:00:00",
+      "movie": "Moana (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135007",
+      "presentation_slug": "moana-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94360",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:00:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132345",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:15:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135012",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94376",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:45:00",
+      "movie": "Moana (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94380",
+      "presentation_slug": "moana-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T10:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134994",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90950",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132340",
+      "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90952",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:30:00",
+      "movie": "The Invite",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94374",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:30:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94351",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T11:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94417",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90949",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:00:00",
+      "movie": "Toy Story 5",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134998",
+      "presentation_slug": "toy-story-5",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-01T12:15:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135209",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:15:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135178",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:15:00",
+      "movie": "Toy Story 5",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94549",
+      "presentation_slug": "toy-story-5",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92926",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:30:00",
+      "movie": "The Invite",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135010",
+      "presentation_slug": "the-invite",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T12:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "133214",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-01T13:00:00",
       "movie": "Her Private Hell",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134977",
+      "session_id": "135008",
       "presentation_slug": "her-private-hell",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T12:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133209",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T13:00:00",
+      "show_time": "2026-08-01T13:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94323",
+      "session_id": "94362",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T13:00:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-08-01T13:15:00",
+      "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134973",
+      "session_id": "135003",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T13:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94363",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T13:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132343",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T13:30:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94355",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T13:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "132334",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T13:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94330",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T13:30:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94314",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T14:00:00",
+      "show_time": "2026-08-01T14:00:00",
       "movie": "Minions & Monsters",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94332",
+      "session_id": "94381",
       "presentation_slug": "minions-and-monsters",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T14:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94334",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T14:00:00",
+      "show_time": "2026-08-01T14:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134970",
+      "session_id": "135013",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T14:00:00",
+      "show_time": "2026-08-01T14:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94377",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T14:00:00",
       "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94321",
+      "session_id": "94354",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T14:00:00",
+      "show_time": "2026-08-01T14:00:00",
       "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "132331",
+      "session_id": "132346",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T14:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90931",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T14:30:00",
+      "show_time": "2026-08-01T14:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134988",
+      "session_id": "134993",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T14:45:00",
+      "show_time": "2026-08-01T14:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90951",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T14:45:00",
       "movie": "The Invite",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94342",
+      "session_id": "94372",
       "presentation_slug": "the-invite",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:00:00",
+      "show_time": "2026-08-01T15:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135139",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T15:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90929",
+      "session_id": "90953",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:00:00",
+      "show_time": "2026-08-01T15:15:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135144",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T15:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "131081",
+      "session_id": "132339",
       "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:15:00",
+      "show_time": "2026-08-01T15:15:00",
       "movie": "Toy Story 5",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94341",
+      "session_id": "94550",
       "presentation_slug": "toy-story-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:30:00",
+      "show_time": "2026-08-01T15:30:00",
       "movie": "Sheep in the Box",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "93285",
+      "session_id": "93292",
       "presentation_slug": "sheep-in-the-box",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:30:00",
+      "show_time": "2026-08-01T15:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90934",
+      "session_id": "90948",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:30:00",
+      "show_time": "2026-08-01T15:30:00",
       "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134968",
+      "session_id": "135011",
       "presentation_slug": "the-invite",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T15:45:00",
+      "show_time": "2026-08-01T15:45:00",
       "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94317",
+      "session_id": "94353",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:00:00",
+      "show_time": "2026-08-01T16:00:00",
       "movie": "Sheep in the Box",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133590",
+      "session_id": "133595",
       "presentation_slug": "sheep-in-the-box",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:00:00",
+      "show_time": "2026-08-01T16:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "92921",
+      "session_id": "92924",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:15:00",
+      "show_time": "2026-08-01T16:15:00",
       "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134981",
+      "session_id": "135210",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:30:00",
+      "show_time": "2026-08-01T16:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133210",
+      "session_id": "133213",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:30:00",
+      "show_time": "2026-08-01T16:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94325",
+      "session_id": "94365",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:45:00",
+      "show_time": "2026-08-01T16:45:00",
       "movie": "I Want Your Sex",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134034",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "93371",
       "presentation_slug": "i-want-your-sex",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T16:45:00",
+      "show_time": "2026-08-01T16:45:00",
       "movie": "I Want Your Sex",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93362",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134043",
       "presentation_slug": "i-want-your-sex",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T17:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134976",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T17:00:00",
+      "show_time": "2026-08-01T17:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94328",
+      "session_id": "94364",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T17:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "132335",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T17:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94336",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T17:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134972",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T17:45:00",
+      "show_time": "2026-08-01T17:00:00",
       "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94316",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135006",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:00:00",
+      "show_time": "2026-08-01T17:15:00",
       "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "90926",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132342",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:00:00",
+      "show_time": "2026-08-01T17:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94378",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T17:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135015",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T17:45:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94356",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T18:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "90956",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T18:00:00",
       "movie": "The Invite",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94343",
+      "session_id": "94371",
       "presentation_slug": "the-invite",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:00:00",
+      "show_time": "2026-08-01T18:00:00",
       "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "132330",
+      "session_id": "132347",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:15:00",
+      "show_time": "2026-08-01T18:15:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134989",
+      "session_id": "134992",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:15:00",
+      "show_time": "2026-08-01T18:15:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94548",
+      "session_id": "94551",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:15:00",
+      "show_time": "2026-08-01T18:15:00",
       "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94322",
+      "session_id": "94359",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:30:00",
+      "show_time": "2026-08-01T18:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90924",
+      "session_id": "90947",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:30:00",
+      "show_time": "2026-08-01T18:30:00",
       "movie": "The Invite",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134969",
+      "session_id": "135014",
       "presentation_slug": "the-invite",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-07-31T18:45:00",
+      "show_time": "2026-08-01T18:45:00",
       "movie": "Sheep in the Box",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "93287",
+      "session_id": "93290",
       "presentation_slug": "sheep-in-the-box",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T18:45:00",
+      "show_time": "2026-08-01T18:45:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135143",
+      "session_id": "135140",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T19:00:00",
+      "show_time": "2026-08-01T19:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "131080",
+      "session_id": "132338",
       "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T19:00:00",
+      "show_time": "2026-08-01T19:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "90925",
+      "session_id": "90946",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T19:15:00",
+      "show_time": "2026-08-01T19:15:00",
       "movie": "Sheep in the Box",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "133591",
+      "session_id": "133594",
       "presentation_slug": "sheep-in-the-box",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T19:30:00",
+      "show_time": "2026-08-01T19:30:00",
       "movie": "I Want Your Sex",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93365",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134040",
       "presentation_slug": "i-want-your-sex",
       "open_caption": false
     },
     {
-      "show_time": "2026-07-31T19:30:00",
+      "show_time": "2026-08-01T19:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "92925",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-01T19:45:00",
       "movie": "I Want Your Sex",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134037",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "93368",
       "presentation_slug": "i-want-your-sex",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T19:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92922",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T20:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94326",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T20:00:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94318",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T20:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133211",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-07-31T20:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94327",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T20:30:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135206",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-07-31T20:45:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134975",
-      "presentation_slug": "the-odyssey",
       "open_caption": false
     }
   ]
