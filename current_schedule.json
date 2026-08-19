@@ -1,674 +1,665 @@
 {
   "time_range": {
-    "start": "2026-08-18T07:14:33.452951558-04:00",
-    "end": "2026-08-18T19:14:33.452951558-04:00"
+    "start": "2026-08-19T07:14:40.359294842-04:00",
+    "end": "2026-08-19T19:14:40.359294842-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-08-18T10:15:00",
+      "show_time": "2026-08-19T10:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95426",
+      "session_id": "95474",
       "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-18T10:15:00",
+      "show_time": "2026-08-19T10:00:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95720",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T10:15:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95476",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T10:30:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95423",
+      "session_id": "95440",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T10:30:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95456",
-      "presentation_slug": "the-odyssey",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T10:45:00",
+      "show_time": "2026-08-19T10:45:00",
       "movie": "One Night Only",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95443",
+      "session_id": "95448",
       "presentation_slug": "one-night-only",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:00:00",
+      "show_time": "2026-08-19T11:00:00",
       "movie": "Paw Patrol: The Dino Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "93825",
+      "session_id": "93829",
       "presentation_slug": "paw-patrol-the-dino-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:00:00",
-      "movie": "Tony",
+      "show_time": "2026-08-19T11:00:00",
+      "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135897",
-      "presentation_slug": "tony",
-      "open_caption": true
+      "session_id": "135936",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:15:00",
+      "show_time": "2026-08-19T11:15:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135268",
+      "session_id": "135276",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:15:00",
+      "show_time": "2026-08-19T11:15:00",
       "movie": "The Rivals of Amziah King",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94248",
+      "session_id": "94252",
       "presentation_slug": "the-rivals-of-amziah-king",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T11:15:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95405",
-      "presentation_slug": "tony",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T11:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95430",
-      "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:30:00",
+      "show_time": "2026-08-19T11:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135902",
+      "session_id": "135930",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:30:00",
+      "show_time": "2026-08-19T11:30:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94625",
+      "session_id": "94621",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T11:45:00",
+      "show_time": "2026-08-19T11:30:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95409",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T11:45:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135894",
+      "session_id": "135928",
       "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T12:00:00",
-      "movie": "One Night Only",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135912",
-      "presentation_slug": "one-night-only",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:00:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134821",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:00:00",
-      "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93873",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:15:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95462",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:15:00",
-      "movie": "The Rivals of Amziah King",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135904",
-      "presentation_slug": "the-rivals-of-amziah-king",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:30:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95463",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T12:30:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135898",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T12:30:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135909",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:45:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134088",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:45:00",
-      "movie": "Super Troopers 3",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95452",
-      "presentation_slug": "super-troopers-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T12:45:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95386",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:00:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134347",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:15:00",
-      "movie": "Super Troopers 3",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135920",
-      "presentation_slug": "super-troopers-3",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:30:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95422",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:45:00",
-      "movie": "One Night Only",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95444",
-      "presentation_slug": "one-night-only",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:45:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93828",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T13:45:00",
+      "show_time": "2026-08-19T11:45:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95427",
+      "session_id": "95437",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T14:15:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95404",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T14:15:00",
-      "movie": "Tony",
+      "show_time": "2026-08-19T12:00:00",
+      "movie": "One Night Only",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135896",
-      "presentation_slug": "tony",
+      "session_id": "135940",
+      "presentation_slug": "one-night-only",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T14:30:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135267",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T14:30:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-08-19T12:00:00",
+      "movie": "The End of Oak Street",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95457",
-      "presentation_slug": "the-odyssey",
+      "session_id": "93877",
+      "presentation_slug": "the-end-of-oak-street",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T14:45:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94624",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T14:45:00",
+      "show_time": "2026-08-19T12:15:00",
       "movie": "The Rivals of Amziah King",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94247",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135932",
       "presentation_slug": "the-rivals-of-amziah-king",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:00:00",
-      "movie": "The Piano",
+      "show_time": "2026-08-19T12:30:00",
+      "movie": "Super Troopers 3",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95465",
+      "presentation_slug": "super-troopers-3",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T12:30:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134107",
+      "session_id": "135925",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-19T12:45:00",
+      "movie": "Paw Patrol: The Dino Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134092",
+      "presentation_slug": "paw-patrol-the-dino-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T12:45:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95389",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:00:00",
+      "movie": "The Piano",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95091",
       "presentation_slug": "sad-girl-cinema-club-the-piano",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95431",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T15:00:00",
-      "movie": "Spider-Man: Brand New Day",
+      "show_time": "2026-08-19T13:00:00",
+      "movie": "The End of Oak Street",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135905",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T15:00:00",
-      "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93874",
+      "session_id": "134350",
       "presentation_slug": "the-end-of-oak-street",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:15:00",
-      "movie": "One Night Only",
+      "show_time": "2026-08-19T13:00:00",
+      "movie": "Wet Hot American Summer: 25th Anniversary",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135911",
-      "presentation_slug": "one-night-only",
-      "open_caption": true
+      "session_id": "135948",
+      "presentation_slug": "wet-hot-american-summer-25th-anniversary",
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:15:00",
-      "movie": "Tony",
+      "show_time": "2026-08-19T13:15:00",
+      "movie": "Paw Patrol: The Dino Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95464",
+      "session_id": "95477",
+      "presentation_slug": "paw-patrol-the-dino-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:15:00",
+      "movie": "Super Troopers 3",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135942",
+      "presentation_slug": "super-troopers-3",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:15:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135926",
       "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:30:00",
+      "show_time": "2026-08-19T13:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95475",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:45:00",
+      "movie": "One Night Only",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95449",
+      "presentation_slug": "one-night-only",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:45:00",
+      "movie": "Paw Patrol: The Dino Movie",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "93832",
+      "presentation_slug": "paw-patrol-the-dino-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T13:45:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95441",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T14:15:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95721",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T14:30:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95408",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T14:45:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135275",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T14:45:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94620",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T14:45:00",
+      "movie": "The Rivals of Amziah King",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94251",
+      "presentation_slug": "the-rivals-of-amziah-king",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135893",
+      "session_id": "135931",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:00:00",
+      "movie": "The End of Oak Street",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "93878",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:00:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135937",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:15:00",
+      "movie": "One Night Only",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135941",
+      "presentation_slug": "one-night-only",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:15:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95436",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135929",
       "presentation_slug": "hdr-by-barco-spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:30:00",
+      "show_time": "2026-08-19T15:30:00",
       "movie": "Paw Patrol: The Dino Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134087",
+      "session_id": "134091",
       "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-08-18T15:30:00",
-      "movie": "The Piano",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95090",
-      "presentation_slug": "sad-girl-cinema-club-the-piano",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T15:45:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135899",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T15:45:00",
+      "show_time": "2026-08-19T15:30:00",
       "movie": "The Invite",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95453",
+      "session_id": "95466",
       "presentation_slug": "the-invite",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:45:00",
+      "show_time": "2026-08-19T15:45:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135924",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:45:00",
+      "movie": "The End of Oak Street",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134351",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T15:45:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95390",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T16:00:00",
       "movie": "The Rivals of Amziah King",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135903",
+      "session_id": "135933",
       "presentation_slug": "the-rivals-of-amziah-king",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T15:45:00",
-      "movie": "Tony",
+      "show_time": "2026-08-19T16:00:00",
+      "movie": "Wet Hot American Summer: 25th Anniversary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "132569",
+      "presentation_slug": "wet-hot-american-summer-25th-anniversary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T16:00:00",
+      "movie": "Wet Hot American Summer: 25th Anniversary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95387",
-      "presentation_slug": "tony",
+      "session_id": "92217",
+      "presentation_slug": "wet-hot-american-summer-25th-anniversary",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T16:00:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134346",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T16:15:00",
+      "show_time": "2026-08-19T16:15:00",
       "movie": "Tony",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135919",
+      "session_id": "135927",
       "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T16:30:00",
+      "show_time": "2026-08-19T16:15:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135943",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T16:30:00",
       "movie": "Paw Patrol: The Dino Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "93827",
+      "session_id": "93831",
       "presentation_slug": "paw-patrol-the-dino-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T16:30:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135908",
-      "presentation_slug": "the-odyssey",
+      "show_time": "2026-08-19T16:45:00",
+      "movie": "Memory of Princess Mumbi",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94573",
+      "presentation_slug": "memory-of-princess-mumbi",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T16:45:00",
+      "show_time": "2026-08-19T16:45:00",
       "movie": "One Night Only",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95445",
+      "session_id": "95450",
+      "presentation_slug": "one-night-only",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-19T17:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95438",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T17:30:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95407",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135277",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94618",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:00:00",
+      "movie": "The End of Oak Street",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "93879",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:15:00",
+      "movie": "One Night Only",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135939",
       "presentation_slug": "one-night-only",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T16:45:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95425",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "show_time": "2026-08-19T18:15:00",
+      "movie": "Paw Patrol: The Dino Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134090",
+      "presentation_slug": "paw-patrol-the-dino-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T17:15:00",
-      "movie": "Spider-Man: Brand New Day",
+      "show_time": "2026-08-19T18:15:00",
+      "movie": "The Rivals of Amziah King",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95428",
+      "session_id": "94249",
+      "presentation_slug": "the-rivals-of-amziah-king",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-19T18:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135934",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T17:15:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135895",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T17:15:00",
-      "movie": "Tony",
+      "show_time": "2026-08-19T18:30:00",
+      "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95403",
-      "presentation_slug": "tony",
+      "session_id": "95467",
+      "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T18:00:00",
+      "show_time": "2026-08-19T18:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95435",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:45:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135269",
+      "session_id": "135224",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T18:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94622",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:00:00",
+      "show_time": "2026-08-19T18:45:00",
       "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93875",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-18T18:15:00",
-      "movie": "Paw Patrol: The Dino Movie",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "134086",
-      "presentation_slug": "paw-patrol-the-dino-movie",
+      "session_id": "135947",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T18:45:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94783",
+      "presentation_slug": "tony",
       "open_caption": true
     },
     {
-      "show_time": "2026-08-18T18:15:00",
+      "show_time": "2026-08-19T19:00:00",
+      "movie": "The Magic Faraway Tree",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94210",
+      "presentation_slug": "advance-screening-the-magic-faraway-tree",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-19T19:00:00",
       "movie": "Six: The Musical Live!",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94572",
+      "session_id": "90421",
       "presentation_slug": "six-the-musical-live",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T18:15:00",
-      "movie": "The Rivals of Amziah King",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94245",
-      "presentation_slug": "the-rivals-of-amziah-king",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:30:00",
-      "movie": "One Night Only",
+      "show_time": "2026-08-19T19:00:00",
+      "movie": "Six: The Musical Live!",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135916",
-      "presentation_slug": "one-night-only",
+      "session_id": "130611",
+      "presentation_slug": "six-the-musical-live",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-18T18:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95432",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:30:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135223",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:30:00",
+      "show_time": "2026-08-19T19:00:00",
       "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95458",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135938",
       "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135906",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95454",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:45:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135900",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T18:45:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94779",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T19:00:00",
-      "movie": "A New Leaf",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134108",
-      "presentation_slug": "a-new-leaf",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-18T19:00:00",
-      "movie": "The Piano",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "93842",
-      "presentation_slug": "sad-girl-cinema-club-the-piano",
-      "open_caption": false
+      "open_caption": true
     }
   ]
 }
