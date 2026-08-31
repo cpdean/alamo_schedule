@@ -1,917 +1,701 @@
 {
   "time_range": {
-    "start": "2026-08-30T11:06:20.301334237-04:00",
-    "end": "2026-08-30T23:06:20.301334237-04:00"
+    "start": "2026-08-31T13:45:19.240658395-04:00",
+    "end": "2026-09-01T01:45:19.240658395-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-08-30T11:15:00",
+      "show_time": "2026-08-31T14:15:00",
       "movie": "It Ends",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136023",
+      "session_id": "136029",
       "presentation_slug": "it-ends",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T11:15:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96394",
-      "presentation_slug": "paw-patrol-the-dino-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T11:30:00",
-      "movie": "Finding Emily",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94261",
-      "presentation_slug": "finding-emily",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T11:30:00",
-      "movie": "Finding Emily",
+      "show_time": "2026-08-31T14:30:00",
+      "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135306",
-      "presentation_slug": "finding-emily",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T11:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96277",
+      "session_id": "136545",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T11:45:00",
+      "show_time": "2026-08-31T14:45:00",
+      "movie": "Finding Emily",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135311",
+      "presentation_slug": "finding-emily",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T14:45:00",
+      "movie": "Finding Emily",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94266",
+      "presentation_slug": "finding-emily",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T15:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96315",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T15:00:00",
       "movie": "The Dog Stars",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94671",
+      "session_id": "94676",
       "presentation_slug": "the-dog-stars",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T11:45:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-08-31T15:00:00",
+      "movie": "Tony",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136520",
+      "session_id": "136540",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T15:15:00",
+      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96402",
+      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T15:15:00",
+      "movie": "Coyote Vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94185",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T15:15:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96318",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T12:00:00",
-      "movie": "Coyote Vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94182",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T12:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
+      "show_time": "2026-08-31T15:20:00",
+      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136508",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "session_id": "134691",
+      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T12:15:00",
+      "show_time": "2026-08-31T15:30:00",
       "movie": "Mutiny",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136523",
+      "session_id": "136552",
       "presentation_slug": "mutiny",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T12:15:00",
-      "movie": "The Dog Stars",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135341",
-      "presentation_slug": "the-dog-stars",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T12:30:00",
-      "movie": "Mothra vs. Godzilla",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "92936",
-      "presentation_slug": "mothra-vs-godzilla",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T12:30:00",
-      "movie": "Mothra vs. Godzilla",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "133235",
-      "presentation_slug": "mothra-vs-godzilla",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T12:45:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136587",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96297",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:00:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96271",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:00:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136512",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:15:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96303",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:15:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136501",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:15:00",
+      "show_time": "2026-08-31T15:45:00",
       "movie": "Paw Patrol: The Dino Movie",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96386",
+      "session_id": "96397",
       "presentation_slug": "paw-patrol-the-dino-movie",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T13:30:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136506",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:45:00",
-      "movie": "Coyote Vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96470",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:45:00",
-      "movie": "It Ends",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95595",
-      "presentation_slug": "it-ends",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T13:45:00",
-      "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96307",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T14:00:00",
-      "movie": "It Ends",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136024",
-      "presentation_slug": "it-ends",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T14:15:00",
-      "movie": "Mothra vs. Godzilla",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96393",
-      "presentation_slug": "mothra-vs-godzilla",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T14:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136517",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T14:45:00",
-      "movie": "Finding Emily",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94262",
-      "presentation_slug": "finding-emily",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T14:45:00",
-      "movie": "Finding Emily",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135307",
-      "presentation_slug": "finding-emily",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:00:00",
-      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "134690",
-      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:00:00",
-      "movie": "Coyote Vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94181",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96278",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:00:00",
-      "movie": "The Dog Stars",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94672",
-      "presentation_slug": "the-dog-stars",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:15:00",
-      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94164",
-      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:15:00",
+      "show_time": "2026-08-31T15:45:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136509",
+      "session_id": "136533",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T15:15:00",
+      "show_time": "2026-08-31T15:45:00",
+      "movie": "The End of Oak Street",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136592",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:00:00",
+      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94165",
+      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96353",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:00:00",
+      "movie": "The Dog Stars",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135346",
+      "presentation_slug": "the-dog-stars",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96323",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:15:00",
+      "movie": "Insidious: Out of the Further",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96350",
+      "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:15:00",
+      "movie": "Paw Patrol: The Dino Movie",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136535",
+      "presentation_slug": "paw-patrol-the-dino-movie",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:30:00",
+      "movie": "Insidious: Out of the Further",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136528",
+      "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:30:00",
+      "movie": "It Ends",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95598",
+      "presentation_slug": "it-ends",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:45:00",
+      "movie": "Mothra vs. Godzilla",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96472",
+      "presentation_slug": "mothra-vs-godzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:45:00",
+      "movie": "The End of Oak Street",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96357",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T16:45:00",
       "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96275",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136549",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T15:30:00",
-      "movie": "Mutiny",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136524",
-      "presentation_slug": "mutiny",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T15:30:00",
-      "movie": "The Dog Stars",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135342",
-      "presentation_slug": "the-dog-stars",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T15:45:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136521",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:00:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96385",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:00:00",
-      "movie": "Paw Patrol: The Dino Movie",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136507",
-      "presentation_slug": "paw-patrol-the-dino-movie",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96298",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:00:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136513",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:00:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96270",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:15:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96301",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:15:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136588",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T16:30:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136502",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:30:00",
+      "show_time": "2026-08-31T17:00:00",
       "movie": "It Ends",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95593",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136030",
       "presentation_slug": "it-ends",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T16:45:00",
-      "movie": "Mothra vs. Godzilla",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96471",
-      "presentation_slug": "mothra-vs-godzilla",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T16:45:00",
-      "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96309",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T17:00:00",
-      "movie": "It Ends",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136025",
-      "presentation_slug": "it-ends",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T17:15:00",
-      "movie": "Coyote Vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96392",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T18:00:00",
-      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136527",
-      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T18:00:00",
-      "movie": "Coyote Vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94180",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T18:00:00",
+      "show_time": "2026-08-31T18:00:00",
       "movie": "Finding Emily",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135308",
+      "session_id": "135312",
       "presentation_slug": "finding-emily",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:00:00",
+      "show_time": "2026-08-31T18:00:00",
       "movie": "Finding Emily",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94263",
+      "session_id": "94267",
       "presentation_slug": "finding-emily",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:15:00",
-      "movie": "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96391",
-      "presentation_slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
+      "show_time": "2026-08-31T18:00:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136539",
+      "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:15:00",
+      "show_time": "2026-08-31T18:15:00",
+      "movie": "Amyl and The Sniffers Present Truth or Consequence",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96400",
+      "presentation_slug": "amyl-and-the-sniffers-present-truth-or-consequence",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T18:15:00",
+      "movie": "Coyote Vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94184",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T18:15:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136518",
+      "session_id": "136546",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:15:00",
+      "show_time": "2026-08-31T18:15:00",
       "movie": "The Dog Stars",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94673",
+      "session_id": "94677",
       "presentation_slug": "the-dog-stars",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:30:00",
-      "movie": "Idiots",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136378",
-      "presentation_slug": "idiots",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T18:30:00",
-      "movie": "Mutiny",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136525",
-      "presentation_slug": "mutiny",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T18:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96280",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T18:45:00",
+      "show_time": "2026-08-31T18:30:00",
       "movie": "Idiots",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96108",
+      "session_id": "96395",
       "presentation_slug": "idiots",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T18:45:00",
+      "show_time": "2026-08-31T18:30:00",
+      "movie": "Mutiny",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136553",
+      "presentation_slug": "mutiny",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T18:30:00",
+      "movie": "Little Shop of Horrors (1986)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134692",
+      "presentation_slug": "queer-film-theory-101-little-shop-of-horrors-1986",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T18:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96313",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-31T18:45:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136510",
+      "session_id": "136532",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:00:00",
+      "show_time": "2026-08-31T19:00:00",
+      "movie": "Idiots",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136543",
+      "presentation_slug": "idiots",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-31T19:00:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96300",
+      "session_id": "96351",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:00:00",
+      "show_time": "2026-08-31T19:00:00",
       "movie": "The End of Oak Street",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136585",
+      "session_id": "136589",
       "presentation_slug": "the-end-of-oak-street",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:00:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136514",
-      "presentation_slug": "tony",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T19:00:00",
+      "show_time": "2026-08-31T19:00:00",
       "movie": "Tony",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96273",
+      "session_id": "96320",
       "presentation_slug": "tony",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T19:15:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96302",
-      "presentation_slug": "insidious-out-of-the-further",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:15:00",
-      "movie": "It Ends",
+      "show_time": "2026-08-31T19:15:00",
+      "movie": "Insidious: Out of the Further",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95592",
-      "presentation_slug": "it-ends",
+      "session_id": "96349",
+      "presentation_slug": "insidious-out-of-the-further",
       "open_caption": true
     },
     {
-      "show_time": "2026-08-30T19:15:00",
+      "show_time": "2026-08-31T19:15:00",
+      "movie": "It Ends",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95597",
+      "presentation_slug": "it-ends",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T19:15:00",
+      "movie": "Little Shop of Horrors (1986)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94166",
+      "presentation_slug": "queer-film-theory-101-little-shop-of-horrors-1986",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T19:15:00",
       "movie": "The Dog Stars",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135343",
+      "session_id": "135347",
       "presentation_slug": "the-dog-stars",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:30:00",
+      "show_time": "2026-08-31T19:30:00",
       "movie": "Buddy (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96266",
+      "session_id": "96327",
       "presentation_slug": "buddy-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:30:00",
+      "show_time": "2026-08-31T19:30:00",
       "movie": "It Ends",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136026",
+      "session_id": "136031",
       "presentation_slug": "it-ends",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:30:00",
+      "show_time": "2026-08-31T19:30:00",
       "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96276",
+      "session_id": "96317",
       "presentation_slug": "the-odyssey",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:45:00",
+      "show_time": "2026-08-31T19:45:00",
       "movie": "Insidious: Out of the Further",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136503",
+      "session_id": "136538",
       "presentation_slug": "insidious-out-of-the-further",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T19:45:00",
+      "show_time": "2026-08-31T19:45:00",
       "movie": "The End of Oak Street",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96308",
+      "session_id": "96358",
       "presentation_slug": "the-end-of-oak-street",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T20:00:00",
+      "show_time": "2026-08-31T21:00:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96401",
+      "presentation_slug": "the-odyssey",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-31T21:00:00",
       "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136522",
+      "session_id": "136550",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T20:30:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96390",
-      "presentation_slug": "the-odyssey",
+      "show_time": "2026-08-31T21:00:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136555",
+      "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:00:00",
+      "show_time": "2026-08-31T21:15:00",
       "movie": "Coyote Vs. ACME",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "94179",
+      "session_id": "94183",
       "presentation_slug": "coyote-vs-acme",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:00:00",
+      "show_time": "2026-08-31T21:15:00",
       "movie": "Finding Emily",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135305",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94268",
       "presentation_slug": "finding-emily",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:00:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-08-31T21:15:00",
+      "movie": "Finding Emily",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136515",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T21:15:00",
-      "movie": "Finding Emily",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94264",
+      "session_id": "135309",
       "presentation_slug": "finding-emily",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:15:00",
-      "movie": "Idiots",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136379",
-      "presentation_slug": "idiots",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T21:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96389",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T21:30:00",
+      "show_time": "2026-08-31T21:15:00",
       "movie": "Mutiny",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136526",
+      "session_id": "136554",
       "presentation_slug": "mutiny",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:30:00",
-      "movie": "The Dog Stars",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "94674",
-      "presentation_slug": "the-dog-stars",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-08-30T21:45:00",
+      "show_time": "2026-08-31T21:30:00",
       "movie": "Idiots",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96107",
+      "session_id": "96396",
       "presentation_slug": "idiots",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-30T21:45:00",
+      "show_time": "2026-08-31T21:30:00",
+      "movie": "The Dog Stars",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "94678",
+      "presentation_slug": "the-dog-stars",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T21:30:00",
+      "movie": "Mystery Transmission",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "134116",
+      "presentation_slug": "video-vortex-mystery-transmission-039",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T21:45:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136519",
+      "session_id": "136547",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:00:00",
+      "show_time": "2026-08-31T22:00:00",
+      "movie": "Idiots",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136542",
+      "presentation_slug": "idiots",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T22:00:00",
       "movie": "It Ends",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95591",
+      "session_id": "95596",
       "presentation_slug": "it-ends",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:00:00",
+      "show_time": "2026-08-31T22:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96279",
+      "session_id": "96314",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:00:00",
-      "movie": "The End of Oak Street",
+      "show_time": "2026-08-31T22:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136586",
-      "presentation_slug": "the-end-of-oak-street",
+      "session_id": "136531",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:00:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136500",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T22:00:00",
+      "show_time": "2026-08-31T22:00:00",
       "movie": "Tony",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96281",
+      "session_id": "96312",
       "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:15:00",
+      "show_time": "2026-08-31T22:15:00",
       "movie": "Insidious: Out of the Further",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96311",
+      "session_id": "96355",
       "presentation_slug": "insidious-out-of-the-further",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:15:00",
-      "movie": "It Ends",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136027",
-      "presentation_slug": "it-ends",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T22:15:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136511",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-08-30T22:15:00",
+      "show_time": "2026-08-31T22:15:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96299",
+      "session_id": "96352",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:30:00",
+      "show_time": "2026-08-31T22:15:00",
+      "movie": "The End of Oak Street",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136590",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T22:30:00",
       "movie": "Buddy (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96265",
+      "session_id": "96328",
       "presentation_slug": "buddy-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:30:00",
+      "show_time": "2026-08-31T22:30:00",
+      "movie": "It Ends",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136032",
+      "presentation_slug": "it-ends",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-08-31T22:30:00",
+      "movie": "Mothra vs. Godzilla",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96416",
+      "presentation_slug": "mothra-vs-godzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-08-31T22:30:00",
       "movie": "The Dog Stars",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "135340",
+      "session_id": "135344",
       "presentation_slug": "the-dog-stars",
       "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:45:00",
+      "show_time": "2026-08-31T22:45:00",
       "movie": "Insidious: Out of the Further",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "136504",
+      "session_id": "136537",
       "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-08-30T22:45:00",
+      "show_time": "2026-08-31T22:45:00",
       "movie": "The End of Oak Street",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96305",
+      "session_id": "96346",
       "presentation_slug": "the-end-of-oak-street",
-      "open_caption": true
+      "open_caption": false
     }
   ]
 }
