@@ -1,628 +1,862 @@
 {
   "time_range": {
-    "start": "2026-09-14T12:40:49.084237792-04:00",
-    "end": "2026-09-15T00:40:49.084237792-04:00"
+    "start": "2026-09-15T11:19:48.964148549-04:00",
+    "end": "2026-09-15T23:19:48.964148549-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-09-14T12:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137384",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T13:00:00",
-      "movie": "First Blood",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97226",
-      "presentation_slug": "first-blood",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T13:00:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137383",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T13:15:00",
-      "movie": "By Any Means",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137401",
-      "presentation_slug": "by-any-means",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T13:15:00",
-      "movie": "Onslaught",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97202",
-      "presentation_slug": "onslaught",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T13:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97225",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T14:30:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135689",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T14:30:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97215",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T14:30:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137388",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T14:45:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137400",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T14:45:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97201",
-      "presentation_slug": "the-odyssey",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T15:00:00",
-      "movie": "By Any Means",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97200",
-      "presentation_slug": "by-any-means",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:00:00",
+      "show_time": "2026-09-15T11:30:00",
       "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97228",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137289",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T15:00:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137402",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:00:00",
-      "movie": "The Uprising",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96153",
-      "presentation_slug": "the-uprising",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:15:00",
-      "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136348",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:15:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97221",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95547",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:15:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97217",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:30:00",
-      "movie": "Onslaught",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137405",
-      "presentation_slug": "onslaught",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:30:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97209",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97199",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137406",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137386",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:45:00",
-      "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95640",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T15:45:00",
-      "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137387",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:00:00",
-      "movie": "Ernie & Emma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135282",
-      "presentation_slug": "ernie-emma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:00:00",
-      "movie": "The Uprising",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97227",
-      "presentation_slug": "the-uprising",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:15:00",
-      "movie": "By Any Means",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137404",
-      "presentation_slug": "by-any-means",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:15:00",
-      "movie": "The End of Oak Street",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97208",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:30:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137391",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T16:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97223",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:00:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135690",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:00:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97216",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137390",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T18:00:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97207",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:15:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137403",
-      "presentation_slug": "the-odyssey",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T18:15:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97219",
-      "presentation_slug": "tony",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T18:30:00",
-      "movie": "Insidious: Out of the Further",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97220",
-      "presentation_slug": "insidious-out-of-the-further",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:30:00",
-      "movie": "The Uprising",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96155",
-      "presentation_slug": "the-uprising",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:30:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137415",
-      "presentation_slug": "tony",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T18:45:00",
-      "movie": "By Any Means",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97206",
-      "presentation_slug": "by-any-means",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137389",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T18:45:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95545",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T18:45:00",
-      "movie": "The Doors",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136055",
-      "presentation_slug": "the-doors",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:00:00",
-      "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136350",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:00:00",
-      "movie": "Mystery Machine (9/14/2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137143",
-      "presentation_slug": "mystery-machine-9-14-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:00:00",
+      "show_time": "2026-09-15T11:30:00",
       "movie": "Oasis: Don't Look Back in Anger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97205",
+      "session_id": "97248",
       "presentation_slug": "oasis-dont-look-back-in-anger",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T19:00:00",
-      "movie": "The Doors",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "95617",
-      "presentation_slug": "the-doors",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:15:00",
-      "movie": "Buddy (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97210",
-      "presentation_slug": "buddy-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:15:00",
-      "movie": "Onslaught",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137408",
-      "presentation_slug": "onslaught",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T19:15:00",
+      "show_time": "2026-09-15T11:30:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97211",
+      "session_id": "97250",
       "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-09-14T19:30:00",
-      "movie": "Coyote vs. ACME",
+      "show_time": "2026-09-15T11:45:00",
+      "movie": "Akira (Subtitled) in 4K",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97222",
-      "presentation_slug": "coyote-vs-acme",
+      "session_id": "97236",
+      "presentation_slug": "akira-subtitled-in-4k-w-pre-recorded-q-a",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T19:30:00",
+      "show_time": "2026-09-15T11:45:00",
+      "movie": "By Any Means",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97249",
+      "presentation_slug": "by-any-means",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T11:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137363",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T11:45:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96156",
+      "presentation_slug": "the-uprising",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T12:00:00",
       "movie": "Hope (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "95639",
+      "session_id": "95651",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T19:30:00",
-      "movie": "Spider-Man: Brand New Day",
+      "show_time": "2026-09-15T12:00:00",
+      "movie": "Onslaught",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137409",
-      "presentation_slug": "spider-man-brand-new-day",
+      "session_id": "137362",
+      "presentation_slug": "onslaught",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T12:00:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137419",
+      "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T19:45:00",
-      "movie": "By Any Means",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137407",
-      "presentation_slug": "by-any-means",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T19:45:00",
-      "movie": "Mystery Machine (9/14/2026)",
+      "show_time": "2026-09-15T12:00:00",
+      "movie": "Practical Magic 2",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96871",
-      "presentation_slug": "mystery-machine-9-14-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T20:00:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137394",
+      "session_id": "97245",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T21:00:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137393",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "show_time": "2026-09-15T12:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97241",
+      "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T21:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "135691",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T21:30:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137392",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-14T21:45:00",
+      "show_time": "2026-09-15T12:15:00",
       "movie": "The End of Oak Street",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137410",
+      "session_id": "137367",
       "presentation_slug": "the-end-of-oak-street",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T22:00:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137414",
-      "presentation_slug": "the-odyssey",
+      "show_time": "2026-09-15T12:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97237",
+      "presentation_slug": "coyote-vs-acme",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T22:15:00",
+      "show_time": "2026-09-15T12:30:00",
+      "movie": "First Blood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97267",
+      "presentation_slug": "first-blood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T12:30:00",
+      "movie": "TWILIGHT (2008)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137433",
+      "presentation_slug": "twilight",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T12:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137427",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T13:00:00",
       "movie": "Practical Magic 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137417",
+      "session_id": "137428",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T22:15:00",
-      "movie": "Spider-Man: Brand New Day",
+      "show_time": "2026-09-15T13:15:00",
+      "movie": "By Any Means",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137413",
-      "presentation_slug": "spider-man-brand-new-day",
+      "session_id": "137369",
+      "presentation_slug": "by-any-means",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T22:30:00",
+      "show_time": "2026-09-15T13:15:00",
       "movie": "Onslaught",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137411",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97247",
       "presentation_slug": "onslaught",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T22:45:00",
-      "movie": "By Any Means",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137412",
-      "presentation_slug": "by-any-means",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-09-14T22:45:00",
+      "show_time": "2026-09-15T14:30:00",
       "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136351",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97268",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-14T23:00:00",
+      "show_time": "2026-09-15T14:30:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137287",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T14:30:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137429",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T14:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95550",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T14:45:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137368",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T14:45:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97246",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:00:00",
+      "movie": "By Any Means",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97255",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:00:00",
+      "movie": "The Sun Never Sets",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97253",
+      "presentation_slug": "the-sun-never-sets",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97240",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:15:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137286",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:15:00",
+      "movie": "Insidious: Out of the Further",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97233",
+      "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:15:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97254",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:15:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96157",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:15:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137361",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97235",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:30:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137423",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:30:00",
+      "movie": "Onslaught",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137365",
+      "presentation_slug": "onslaught",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:30:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97242",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:30:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97269",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137424",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:45:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95650",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T15:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137366",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T16:00:00",
+      "movie": "Ernie & Emma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "135283",
+      "presentation_slug": "ernie-emma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T16:15:00",
+      "movie": "By Any Means",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137373",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T16:15:00",
+      "movie": "The End of Oak Street",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97252",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T16:30:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137425",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:00:00",
+      "movie": "Oasis: Don't Look Back in Anger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97259",
+      "presentation_slug": "oasis-dont-look-back-in-anger",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T18:00:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137285",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137426",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:00:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97251",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97239",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:15:00",
+      "movie": "Akira (Subtitled) in 4K",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97270",
+      "presentation_slug": "akira-subtitled-in-4k-w-pre-recorded-q-a",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:15:00",
+      "movie": "Insidious: Out of the Further",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97232",
+      "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95549",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:15:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137372",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97234",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:30:00",
+      "movie": "Angel Heart",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137434",
+      "presentation_slug": "terror-tuesday-angel-heart",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:30:00",
+      "movie": "The End of Oak Street",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137371",
+      "presentation_slug": "the-end-of-oak-street",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:45:00",
+      "movie": "By Any Means",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97260",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T18:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137432",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-15T18:45:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96159",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:00:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137292",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:00:00",
+      "movie": "Onslaught",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137377",
+      "presentation_slug": "onslaught",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97258",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:00:00",
+      "movie": "Angel Heart",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95659",
+      "presentation_slug": "terror-tuesday-angel-heart",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:15:00",
+      "movie": "Buddy (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97257",
+      "presentation_slug": "buddy-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:15:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137420",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97244",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:30:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95652",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137370",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T19:45:00",
+      "movie": "By Any Means",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137376",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T20:00:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137421",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:00:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137422",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97238",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:15:00",
+      "movie": "Akira (Dubbed) in 4K",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97264",
+      "presentation_slug": "akira-dubbed-in-4k-w-pre-recorded-q-a",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:15:00",
+      "movie": "Insidious: Out of the Further",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97231",
+      "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:15:00",
+      "movie": "Tony",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137375",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97230",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137430",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:30:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137291",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:45:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97271",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96115",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:45:00",
+      "movie": "Nightbreed",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136383",
+      "presentation_slug": "terror-tuesday-nightbreed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T21:45:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97256",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:00:00",
+      "movie": "By Any Means",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97263",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:00:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137374",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:15:00",
+      "movie": "Buddy (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97262",
+      "presentation_slug": "buddy-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:15:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137380",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:15:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96158",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:45:00",
+      "movie": "By Any Means",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137379",
+      "presentation_slug": "by-any-means",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:45:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137290",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97243",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T22:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97261",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T23:00:00",
       "movie": "Insidious: Out of the Further",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137395",
+      "session_id": "137431",
       "presentation_slug": "insidious-out-of-the-further",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-15T23:00:00",
+      "movie": "Onslaught",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137378",
+      "presentation_slug": "onslaught",
       "open_caption": false
     }
   ]
