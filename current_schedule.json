@@ -1,845 +1,908 @@
 {
   "time_range": {
-    "start": "2026-09-17T11:21:35.562907456-04:00",
-    "end": "2026-09-17T23:21:35.562907456-04:00"
+    "start": "2026-09-18T10:41:37.663730389-04:00",
+    "end": "2026-09-18T22:41:37.663730389-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-09-17T11:30:00",
-      "movie": "Akira (Dubbed) in 4K",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97401",
-      "presentation_slug": "akira-dubbed-in-4k-w-pre-recorded-q-a",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T11:30:00",
-      "movie": "The End of Oak Street",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137599",
-      "presentation_slug": "the-end-of-oak-street",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T11:30:00",
-      "movie": "The Weight",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137586",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T11:45:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97391",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T11:45:00",
-      "movie": "Tony",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137597",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T12:00:00",
+      "show_time": "2026-09-18T11:00:00",
       "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137562",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97452",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T12:00:00",
+      "show_time": "2026-09-18T11:00:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137610",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T11:00:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97424",
+      "session_id": "97474",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T12:15:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97394",
-      "presentation_slug": "coyote-vs-acme",
+      "show_time": "2026-09-18T11:00:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137630",
+      "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T12:15:00",
-      "movie": "The Uprising",
+      "show_time": "2026-09-18T11:00:00",
+      "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97388",
-      "presentation_slug": "the-uprising",
+      "session_id": "97459",
+      "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T12:30:00",
+      "show_time": "2026-09-18T11:15:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137621",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T11:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97482",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T11:30:00",
+      "movie": "The Weight",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137602",
+      "presentation_slug": "the-weight",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T11:45:00",
       "movie": "Practical Magic 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137558",
+      "session_id": "137635",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T12:30:00",
-      "movie": "The End of Oak Street",
+      "show_time": "2026-09-18T11:45:00",
+      "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97404",
-      "presentation_slug": "the-end-of-oak-street",
+      "session_id": "97462",
+      "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T13:00:00",
+      "show_time": "2026-09-18T12:00:00",
       "movie": "By Any Means",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137590",
+      "session_id": "137634",
       "presentation_slug": "by-any-means",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T13:00:00",
-      "movie": "Onslaught",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97403",
-      "presentation_slug": "onslaught",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T13:00:00",
-      "movie": "The Weight",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97427",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T13:15:00",
-      "movie": "Akira (Subtitled) in 4K",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97400",
-      "presentation_slug": "akira-subtitled-in-4k-w-pre-recorded-q-a",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T13:15:00",
+      "show_time": "2026-09-18T12:00:00",
       "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137569",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97470",
       "presentation_slug": "coyote-vs-acme",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T13:15:00",
-      "movie": "If I Go Will They Miss Me",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137592",
-      "presentation_slug": "if-i-go-will-they-miss-me",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137579",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:15:00",
-      "movie": "On a String",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97429",
-      "presentation_slug": "on-a-string",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97398",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:15:00",
-      "movie": "The Odyssey",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97387",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:30:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137584",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:35:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137559",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T14:45:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137577",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:00:00",
-      "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97408",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96526",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137596",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:00:00",
-      "movie": "Tony",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97413",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:15:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97417",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97420",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:15:00",
-      "movie": "The Weight",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137572",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97323",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97425",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:45:00",
-      "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137563",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T15:45:00",
+      "show_time": "2026-09-18T12:00:00",
       "movie": "The Uprising",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97405",
+      "session_id": "97445",
       "presentation_slug": "the-uprising",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T16:00:00",
-      "movie": "If I Go Will They Miss Me",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137587",
-      "presentation_slug": "if-i-go-will-they-miss-me",
+      "show_time": "2026-09-18T12:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97461",
+      "presentation_slug": "tony",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T12:15:00",
+      "movie": "On a String",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95100",
+      "presentation_slug": "on-a-string",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T16:00:00",
+      "show_time": "2026-09-18T12:15:00",
       "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97433",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137636",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T16:15:00",
+      "show_time": "2026-09-18T12:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97466",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T12:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137611",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T12:30:00",
+      "movie": "Basic Instinct",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137641",
+      "presentation_slug": "basic-instinct",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T12:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97327",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T12:30:00",
+      "movie": "The Weight",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97478",
+      "presentation_slug": "the-weight",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T13:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137065",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T13:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96537",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T13:15:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137618",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T13:15:00",
+      "movie": "If I Go Will They Miss Me",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137626",
+      "presentation_slug": "if-i-go-will-they-miss-me",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T13:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97484",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97481",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T14:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97444",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T14:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97473",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:30:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137603",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:45:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137608",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:45:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97453",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:45:00",
+      "movie": "On a String",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95101",
+      "presentation_slug": "on-a-string",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T14:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137622",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T15:00:00",
       "movie": "By Any Means",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137591",
+      "session_id": "137631",
       "presentation_slug": "by-any-means",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T16:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137060",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T16:15:00",
-      "movie": "The Weight",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97428",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T16:30:00",
+      "show_time": "2026-09-18T15:00:00",
       "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137568",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97469",
       "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-09-17T16:45:00",
-      "movie": "On a String",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97430",
-      "presentation_slug": "on-a-string",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T17:00:00",
-      "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97435",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T17:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137580",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T17:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97397",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T17:45:00",
+      "show_time": "2026-09-18T15:00:00",
       "movie": "Practical Magic 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137595",
+      "session_id": "137607",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T18:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96527",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:00:00",
+      "show_time": "2026-09-18T15:00:00",
       "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97414",
+      "session_id": "97458",
       "presentation_slug": "the-odyssey",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-09-17T18:15:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97418",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137560",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:15:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137576",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97322",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:30:00",
-      "movie": "The Odyssey",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137571",
-      "presentation_slug": "the-odyssey",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T18:30:00",
+      "show_time": "2026-09-18T15:00:00",
       "movie": "Tony",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97411",
+      "session_id": "97460",
       "presentation_slug": "tony",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T18:45:00",
-      "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97409",
-      "presentation_slug": "hope-2026",
+      "show_time": "2026-09-18T15:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137612",
+      "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T18:45:00",
-      "movie": "Practical Magic 2",
+      "show_time": "2026-09-18T15:15:00",
+      "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97421",
-      "presentation_slug": "practical-magic-2",
+      "session_id": "97326",
+      "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T18:45:00",
+      "show_time": "2026-09-18T15:15:00",
       "movie": "The Weight",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137585",
+      "session_id": "137627",
       "presentation_slug": "the-weight",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T19:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137061",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T19:00:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97390",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T19:15:00",
-      "movie": "On a String",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97432",
-      "presentation_slug": "on-a-string",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T19:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137588",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T19:15:00",
-      "movie": "The Uprising",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97406",
-      "presentation_slug": "the-uprising",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T19:30:00",
+      "show_time": "2026-09-18T15:30:00",
       "movie": "Hope (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137564",
+      "session_id": "137637",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T19:30:00",
+      "show_time": "2026-09-18T15:30:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97446",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T15:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97465",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T15:45:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97434",
+      "session_id": "96536",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T19:30:00",
+      "show_time": "2026-09-18T15:45:00",
+      "movie": "The Weight",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97477",
+      "presentation_slug": "the-weight",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T16:00:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97483",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T16:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137064",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T16:05:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137644",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T16:15:00",
+      "movie": "If I Go Will They Miss Me",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137623",
+      "presentation_slug": "if-i-go-will-they-miss-me",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T16:30:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137615",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T17:15:00",
+      "movie": "On a String",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95102",
+      "presentation_slug": "on-a-string",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T17:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97443",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T17:45:00",
+      "movie": "Oasis: Don't Look Back in Anger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97480",
+      "presentation_slug": "oasis-dont-look-back-in-anger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:00:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97467",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137613",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:00:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97471",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:00:00",
       "movie": "Teenage Sex and Death at Camp Miasma",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137574",
+      "session_id": "137632",
       "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T19:30:00",
-      "movie": "The Weight",
+      "show_time": "2026-09-18T18:00:00",
+      "movie": "The Odyssey",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97399",
-      "presentation_slug": "the-weight",
+      "session_id": "97454",
+      "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T19:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137567",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T20:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137581",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T20:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97396",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:00:00",
-      "movie": "The Weight",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136667",
-      "presentation_slug": "live-q-a-the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:00:00",
-      "movie": "The Weight",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96525",
-      "presentation_slug": "livestream-q-a-the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96528",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:15:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97419",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:15:00",
-      "movie": "Hope (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137565",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:30:00",
+      "show_time": "2026-09-18T18:15:00",
       "movie": "Practical Magic 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137561",
+      "session_id": "137604",
       "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T21:30:00",
+      "show_time": "2026-09-18T18:15:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97321",
+      "session_id": "97325",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T21:45:00",
-      "movie": "On a String",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97431",
-      "presentation_slug": "on-a-string",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T21:45:00",
+      "show_time": "2026-09-18T18:15:00",
       "movie": "Spider-Man: Brand New Day",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137573",
+      "session_id": "137619",
       "presentation_slug": "spider-man-brand-new-day",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T21:45:00",
+      "show_time": "2026-09-18T18:30:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97451",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:30:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137609",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T18:30:00",
       "movie": "The Odyssey",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137583",
+      "session_id": "137628",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T21:45:00",
-      "movie": "Tony",
+      "show_time": "2026-09-18T18:45:00",
+      "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97416",
-      "presentation_slug": "tony",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137062",
+      "session_id": "96535",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T22:00:00",
-      "movie": "The Odyssey",
+      "show_time": "2026-09-18T18:45:00",
+      "movie": "The Weight",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137600",
+      "presentation_slug": "the-weight",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137063",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:00:00",
+      "movie": "The Weight",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97415",
+      "session_id": "97475",
+      "presentation_slug": "the-weight",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97455",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97463",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137638",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:30:00",
+      "movie": "On a String",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95081",
+      "presentation_slug": "live-q-a-on-a-string",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:30:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137624",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137645",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137616",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97479",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T19:45:00",
+      "movie": "The Uprising",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95103",
+      "presentation_slug": "the-uprising",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T20:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97442",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:00:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97468",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137614",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:15:00",
+      "movie": "On a String",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97448",
+      "presentation_slug": "on-a-string",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97324",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:15:00",
+      "movie": "Teenage Sex and Death at Camp Miasma",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137633",
+      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:30:00",
+      "movie": "Hope (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137640",
+      "presentation_slug": "hope-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T21:30:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97472",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-09-18T21:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96538",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:45:00",
+      "movie": "Spider-Man: Brand New Day",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137620",
+      "presentation_slug": "spider-man-brand-new-day",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T21:45:00",
+      "movie": "The Odyssey",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137601",
       "presentation_slug": "the-odyssey",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T22:15:00",
+      "show_time": "2026-09-18T22:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137066",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:00:00",
+      "movie": "The Odyssey",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97456",
+      "presentation_slug": "the-odyssey",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:00:00",
+      "movie": "Tony",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97457",
+      "presentation_slug": "tony",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:15:00",
+      "movie": "Hope (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97450",
+      "presentation_slug": "hope-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137605",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137639",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:15:00",
+      "movie": "The Weight",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97476",
+      "presentation_slug": "the-weight",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-09-18T22:30:00",
       "movie": "Buddy (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97389",
+      "session_id": "97449",
       "presentation_slug": "buddy-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T22:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97422",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:15:00",
+      "show_time": "2026-09-18T22:30:00",
       "movie": "Resident Evil (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137589",
+      "session_id": "137646",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-09-17T22:30:00",
-      "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97410",
-      "presentation_slug": "hope-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:30:00",
-      "movie": "Spider-Man: Brand New Day",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97423",
-      "presentation_slug": "spider-man-brand-new-day",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:30:00",
-      "movie": "The Weight",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137582",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137566",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:45:00",
-      "movie": "Teenage Sex and Death at Camp Miasma",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137575",
-      "presentation_slug": "teenage-sex-and-death-at-camp-miasma",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:45:00",
+      "show_time": "2026-09-18T22:30:00",
       "movie": "The Uprising",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97407",
+      "session_id": "97447",
       "presentation_slug": "the-uprising",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T22:45:00",
-      "movie": "The Weight",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97426",
-      "presentation_slug": "the-weight",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-09-17T23:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137593",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
+      "open_caption": true
     }
   ]
 }
