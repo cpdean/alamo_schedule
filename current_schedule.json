@@ -1,798 +1,933 @@
 {
   "time_range": {
-    "start": "2026-10-02T12:24:30.817997885-04:00",
-    "end": "2026-10-03T00:24:30.817997885-04:00"
+    "start": "2026-10-03T10:59:18.289058325-04:00",
+    "end": "2026-10-03T22:59:18.289058325-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-10-02T12:30:00",
-      "movie": "Forgotten Island",
+      "show_time": "2026-10-03T11:00:00",
+      "movie": "Casino Royale (2006)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98349",
-      "presentation_slug": "forgotten-island",
+      "session_id": "98563",
+      "presentation_slug": "casino-royale",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T12:30:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138401",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T12:30:00",
-      "movie": "Verity",
+      "show_time": "2026-10-03T11:00:00",
+      "movie": "Digger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98335",
-      "presentation_slug": "verity",
-      "open_caption": false
+      "session_id": "97788",
+      "presentation_slug": "digger",
+      "open_caption": true
     },
     {
-      "show_time": "2026-10-02T12:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98342",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T12:45:00",
-      "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138439",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T12:45:00",
-      "movie": "Heart of the Beast",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138400",
-      "presentation_slug": "heart-of-the-beast",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T12:45:00",
+      "show_time": "2026-10-03T11:00:00",
       "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98341",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T13:00:00",
-      "movie": "Forgotten Island",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138399",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
+      "session_id": "138441",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": true
     },
     {
-      "show_time": "2026-10-02T13:00:00",
-      "movie": "The History of Concrete",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98322",
-      "presentation_slug": "the-history-of-concrete",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T13:15:00",
+      "show_time": "2026-10-03T11:15:00",
       "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98326",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138450",
       "presentation_slug": "primetime",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T14:00:00",
+      "show_time": "2026-10-03T11:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98391",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T11:30:00",
       "movie": "Avengers Endgame: Encore",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138398",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98480",
       "presentation_slug": "avengers-endgame-encore",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T14:15:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98328",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T14:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138397",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T14:30:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97785",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T14:30:00",
-      "movie": "Moonlight",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138396",
-      "presentation_slug": "special-event-moonlight-10th-anniversary-remastered",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T14:45:00",
+      "show_time": "2026-10-03T11:30:00",
       "movie": "Hope (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98365",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138451",
       "presentation_slug": "hope-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T14:45:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138395",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:00:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98362",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:00:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137089",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:15:00",
-      "movie": "Avengers Endgame: Encore",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98332",
-      "presentation_slug": "avengers-endgame-encore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:15:00",
-      "movie": "Heart of the Beast",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98352",
-      "presentation_slug": "heart-of-the-beast",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138408",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:15:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138394",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:15:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96846",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:30:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98348",
-      "presentation_slug": "forgotten-island",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-02T15:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98340",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:30:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138407",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98343",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:45:00",
-      "movie": "Heart of the Beast",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138406",
-      "presentation_slug": "heart-of-the-beast",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:45:00",
-      "movie": "Practical Magic 2",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98355",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:45:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138438",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T15:45:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98334",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T16:00:00",
-      "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137903",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T16:00:00",
+      "show_time": "2026-10-03T11:30:00",
       "movie": "The History of Concrete",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98321",
+      "session_id": "98561",
       "presentation_slug": "the-history-of-concrete",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T16:15:00",
-      "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138405",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T16:15:00",
-      "movie": "Primetime",
+      "show_time": "2026-10-03T11:45:00",
+      "movie": "Ha-Chan, Shake Your Booty!",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98325",
-      "presentation_slug": "primetime",
+      "session_id": "98367",
+      "presentation_slug": "ha-chan-shake-your-booty",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T17:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138404",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T17:15:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98330",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:00:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97784",
-      "presentation_slug": "fan-event-digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:00:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138403",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:00:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138434",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:00:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98363",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:15:00",
-      "movie": "Heart of the Beast",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98350",
-      "presentation_slug": "heart-of-the-beast",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:15:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138415",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98338",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:15:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137132",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:30:00",
-      "movie": "Avengers Endgame: Encore",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138416",
-      "presentation_slug": "avengers-endgame-encore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:30:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98346",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:30:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96848",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98344",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:45:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98358",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:45:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138414",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T18:45:00",
+      "show_time": "2026-10-03T11:45:00",
       "movie": "Your Mother Your Mother Your Mother",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138413",
+      "session_id": "138452",
       "presentation_slug": "your-mother-your-mother-your-mother",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T19:00:00",
-      "movie": "Heart of the Beast",
+      "show_time": "2026-10-03T12:00:00",
+      "movie": "Practical Magic 2",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138412",
-      "presentation_slug": "heart-of-the-beast",
+      "session_id": "138449",
+      "presentation_slug": "practical-magic-2",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T19:00:00",
+      "show_time": "2026-10-03T12:00:00",
       "movie": "The History of Concrete",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98319",
+      "session_id": "98395",
       "presentation_slug": "the-history-of-concrete",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T19:00:00",
+      "show_time": "2026-10-03T12:00:00",
       "movie": "Verity",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98337",
+      "session_id": "96852",
       "presentation_slug": "verity",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T19:00:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138435",
-      "presentation_slug": "verity",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-02T19:15:00",
+      "show_time": "2026-10-03T12:15:00",
       "movie": "Digger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137899",
-      "presentation_slug": "fan-event-digger",
+      "session_id": "137906",
+      "presentation_slug": "digger",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T19:15:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98323",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T19:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98357",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T19:30:00",
-      "movie": "Avengers Endgame: Encore",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98333",
-      "presentation_slug": "avengers-endgame-encore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T19:30:00",
-      "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138411",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T19:45:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138410",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-02T20:15:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98329",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:00:00",
-      "movie": "Avengers Endgame: Encore",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138437",
-      "presentation_slug": "avengers-endgame-encore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:00:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138409",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98339",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:15:00",
+      "show_time": "2026-10-03T12:15:00",
       "movie": "Heart of the Beast",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98351",
+      "session_id": "98368",
       "presentation_slug": "heart-of-the-beast",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T21:15:00",
+      "show_time": "2026-10-03T12:30:00",
+      "movie": "Forgotten Island",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98372",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T12:30:00",
+      "movie": "Heart of the Beast",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138447",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T12:30:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138448",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T12:45:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137095",
+      "presentation_slug": "alamo-drafthouse-movie-book-club-verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T12:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98381",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T12:45:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98359",
+      "session_id": "98382",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T21:15:00",
+      "show_time": "2026-10-03T12:45:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98386",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T13:00:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138446",
+      "presentation_slug": "forgotten-island",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T13:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98398",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T13:45:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138445",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138444",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98390",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:30:00",
+      "movie": "Digger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97787",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:30:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138458",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:45:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98479",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:45:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98566",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:45:00",
+      "movie": "Moonlight",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138459",
+      "presentation_slug": "special-event-moonlight-10th-anniversary-remastered",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T14:45:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137133",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:00:00",
+      "movie": "The History of Concrete",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98396",
+      "presentation_slug": "the-history-of-concrete",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:15:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96853",
+      "presentation_slug": "alamo-drafthouse-movie-book-club-verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:15:00",
+      "movie": "Heart of the Beast",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98369",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138456",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:15:00",
+      "movie": "Practical Magic 2",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98366",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138457",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:30:00",
+      "movie": "Forgotten Island",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98373",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98383",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T15:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138455",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98380",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T15:45:00",
+      "movie": "Heart of the Beast",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138454",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T16:00:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137907",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T16:00:00",
+      "movie": "LINKIN PARK: UNSHATTER",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "136059",
+      "presentation_slug": "linkin-park-unshatter",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T16:00:00",
+      "movie": "LINKIN PARK: UNSHATTER",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "95648",
+      "presentation_slug": "linkin-park-unshatter",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T16:00:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98387",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T16:15:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138453",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T16:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98399",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T17:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138467",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T17:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98388",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T17:45:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138466",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T17:45:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98565",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:00:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98559",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:00:00",
+      "movie": "Digger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97790",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:00:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138465",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:00:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137090",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:15:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138464",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:15:00",
+      "movie": "Heart of the Beast",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98371",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138463",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98385",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:30:00",
+      "movie": "Forgotten Island",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98375",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96851",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138462",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98379",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138461",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T18:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98376",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:00:00",
+      "movie": "Heart of the Beast",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138460",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98562",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:00:00",
+      "movie": "The History of Concrete",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97838",
+      "presentation_slug": "the-history-of-concrete",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:00:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138481",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:15:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137908",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98394",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:15:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98392",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:30:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138476",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T19:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138475",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T20:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98389",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T20:45:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138474",
+      "presentation_slug": "primetime",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T21:00:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138480",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98384",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:00:00",
       "movie": "Buddy (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138426",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98564",
       "presentation_slug": "sing-along-buddy-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T21:30:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97783",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:30:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98347",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138425",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:45:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98345",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:45:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138424",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-02T21:45:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96849",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T21:45:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138422",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T22:00:00",
+      "show_time": "2026-10-03T21:15:00",
       "movie": "Heart of the Beast",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138421",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98370",
       "presentation_slug": "heart-of-the-beast",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:00:00",
+      "show_time": "2026-10-03T21:15:00",
       "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98356",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138473",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:00:00",
-      "movie": "The History of Concrete",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98320",
-      "presentation_slug": "the-history-of-concrete",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T22:15:00",
-      "movie": "Avengers Endgame: Encore",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98361",
-      "presentation_slug": "avengers-endgame-encore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T22:15:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98324",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T22:15:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98336",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-02T22:15:00",
-      "movie": "Verity",
+      "show_time": "2026-10-03T21:15:00",
+      "movie": "Buddy (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138440",
-      "presentation_slug": "verity",
+      "session_id": "138472",
+      "presentation_slug": "sing-along-buddy-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:30:00",
+      "show_time": "2026-10-03T21:30:00",
       "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138420",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97789",
       "presentation_slug": "digger",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:30:00",
+      "show_time": "2026-10-03T21:30:00",
       "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138419",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98374",
       "presentation_slug": "forgotten-island",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:45:00",
-      "movie": "Primetime",
+      "show_time": "2026-10-03T21:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138417",
+      "session_id": "138471",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98378",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:45:00",
+      "movie": "Ghost in the Cell",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96933",
+      "presentation_slug": "ghost-in-the-cell",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:45:00",
+      "movie": "Practical Magic 2",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138470",
+      "presentation_slug": "practical-magic-2",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T21:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98377",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:00:00",
+      "movie": "Avengers Endgame: Encore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98560",
+      "presentation_slug": "avengers-endgame-encore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:00:00",
+      "movie": "Heart of the Beast",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138478",
+      "presentation_slug": "heart-of-the-beast",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:00:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96850",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:15:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138479",
+      "presentation_slug": "digger",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-03T22:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98400",
       "presentation_slug": "primetime",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-02T22:45:00",
+      "show_time": "2026-10-03T22:30:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138468",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:30:00",
+      "movie": "The History of Concrete",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98397",
+      "presentation_slug": "the-history-of-concrete",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:30:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138469",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98393",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:45:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138482",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-03T22:45:00",
       "movie": "Resident Evil (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138418",
+      "session_id": "138477",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     }
