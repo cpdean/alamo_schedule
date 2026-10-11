@@ -1,781 +1,808 @@
 {
   "time_range": {
-    "start": "2026-10-10T11:59:07.872166889-04:00",
-    "end": "2026-10-10T23:59:07.872166889-04:00"
+    "start": "2026-10-11T12:26:59.788628151-04:00",
+    "end": "2026-10-12T00:26:59.788628151-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-10-10T12:00:00",
-      "movie": "The History of Concrete",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98837",
-      "presentation_slug": "the-history-of-concrete",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:00:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137879",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:00:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96911",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:15:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139080",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:30:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98965",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:45:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98829",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T12:45:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139088",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T13:00:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98297",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T13:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139089",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T13:15:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137516",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T13:15:00",
-      "movie": "Queen Budapest",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136394",
-      "presentation_slug": "queen-budapest",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T13:45:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98819",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:00:00",
-      "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139075",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:00:00",
-      "movie": "Queen Budapest",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96165",
-      "presentation_slug": "queen-budapest",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:15:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97364",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:15:00",
-      "movie": "Practical Magic 2",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139086",
-      "presentation_slug": "practical-magic-2",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:30:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98924",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:30:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98834",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:45:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97760",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:45:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138671",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T14:45:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98983",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:00:00",
-      "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139087",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:00:00",
-      "movie": "The History of Concrete",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98822",
-      "presentation_slug": "the-history-of-concrete",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:00:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137880",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:00:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98928",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:15:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98826",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:15:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96912",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:30:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139081",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:30:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98964",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:45:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98830",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T15:45:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139093",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T16:00:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97341",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T16:00:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139095",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T16:15:00",
-      "movie": "Dismember the Alamo 2026 - Brooklyn",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "136666",
-      "presentation_slug": "dismember-the-alamo-2026-brooklyn",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T16:15:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137515",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T16:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98821",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T17:00:00",
-      "movie": "Naza",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137543",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T17:00:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97363",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T17:00:00",
-      "movie": "The Texas Chain Saw Massacre (1974)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98982",
-      "presentation_slug": "the-texas-chainsaw-massacre-1974",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T17:30:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139101",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T17:30:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98833",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:00:00",
+      "show_time": "2026-10-11T12:30:00",
       "movie": "Misty Green",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138670",
+      "session_id": "139129",
       "presentation_slug": "misty-green",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T18:00:00",
-      "movie": "The History of Concrete",
+      "show_time": "2026-10-11T12:30:00",
+      "movie": "Primetime",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98824",
-      "presentation_slug": "the-history-of-concrete",
+      "session_id": "98972",
+      "presentation_slug": "primetime",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T18:00:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97763",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:15:00",
+      "show_time": "2026-10-11T12:45:00",
       "movie": "Coyote vs. ACME",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98923",
+      "session_id": "98933",
       "presentation_slug": "coyote-vs-acme",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T18:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137881",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:15:00",
-      "movie": "Verity",
+      "show_time": "2026-10-11T12:45:00",
+      "movie": "Forgotten Island",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98927",
-      "presentation_slug": "verity",
+      "session_id": "98862",
+      "presentation_slug": "forgotten-island",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T18:30:00",
-      "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139090",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:30:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98962",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:30:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139076",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:30:00",
+      "show_time": "2026-10-11T12:45:00",
       "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96910",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139102",
       "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-10T18:45:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98828",
-      "presentation_slug": "digger",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T18:45:00",
-      "movie": "Pan's Labyrinth 20th Anniversary",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98832",
-      "presentation_slug": "pan-labyrinth-20th-anniversary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T18:45:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139082",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T19:00:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97340",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T19:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139096",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T19:15:00",
+      "show_time": "2026-10-11T13:00:00",
       "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137514",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98986",
       "presentation_slug": "other-mommy",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T19:15:00",
+      "show_time": "2026-10-11T13:00:00",
       "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98820",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139112",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T19:15:00",
-      "movie": "Your Mother Your Mother Your Mother",
+      "show_time": "2026-10-11T13:15:00",
+      "movie": "9 to 5",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139092",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-10T19:30:00",
-      "movie": "Naza",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137542",
-      "presentation_slug": "naza",
+      "session_id": "139113",
+      "presentation_slug": "9-to-5",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T19:45:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98299",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T19:45:00",
+      "show_time": "2026-10-11T13:15:00",
       "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97362",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137520",
       "presentation_slug": "other-mommy",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T20:45:00",
-      "movie": "Pan's Labyrinth 20th Anniversary",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139094",
-      "presentation_slug": "pan-labyrinth-20th-anniversary",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T20:45:00",
-      "movie": "Primetime",
+      "show_time": "2026-10-11T13:45:00",
+      "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98836",
-      "presentation_slug": "primetime",
+      "session_id": "98850",
+      "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:00:00",
+      "show_time": "2026-10-11T14:00:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139107",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T14:15:00",
+      "movie": "Forgotten Island",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139111",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T14:15:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97374",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T14:15:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98868",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T14:30:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139110",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T14:45:00",
       "movie": "Misty Green",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138669",
+      "session_id": "138675",
       "presentation_slug": "misty-green",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:00:00",
-      "movie": "Other Mommy",
+      "show_time": "2026-10-11T14:45:00",
+      "movie": "The Social Reckoning",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98984",
-      "presentation_slug": "other-mommy",
+      "session_id": "97765",
+      "presentation_slug": "the-social-reckoning",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:00:00",
+      "show_time": "2026-10-11T15:00:00",
       "movie": "The History of Concrete",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98823",
+      "session_id": "98854",
       "presentation_slug": "the-history-of-concrete",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:15:00",
+      "show_time": "2026-10-11T15:00:00",
       "movie": "The Social Reckoning",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137882",
+      "session_id": "137884",
       "presentation_slug": "the-social-reckoning",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97762",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T21:30:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98963",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T21:30:00",
+      "show_time": "2026-10-11T15:00:00",
       "movie": "Verity",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98926",
+      "session_id": "98936",
       "presentation_slug": "verity",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:30:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139077",
-      "presentation_slug": "verity",
+      "show_time": "2026-10-11T15:15:00",
+      "movie": "Appofeniacs",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98301",
+      "presentation_slug": "appofeniacs",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:45:00",
+      "show_time": "2026-10-11T15:15:00",
       "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139099",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98858",
       "presentation_slug": "digger",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:45:00",
+      "show_time": "2026-10-11T15:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139117",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:15:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96916",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T15:30:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98971",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:30:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139130",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139103",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98932",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:45:00",
+      "movie": "Forgotten Island",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98863",
+      "presentation_slug": "forgotten-island",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T15:45:00",
       "movie": "Resident Evil (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139098",
+      "session_id": "139116",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:45:00",
+      "show_time": "2026-10-11T16:00:00",
+      "movie": "A Prayer for the Dying",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98307",
+      "presentation_slug": "a-prayer-for-the-dying",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T16:00:00",
+      "movie": "Naza",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97342",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T16:00:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139135",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T16:15:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137519",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T16:30:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139115",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T16:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98852",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T17:00:00",
+      "movie": "Naza",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137545",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T17:00:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97373",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T17:30:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98867",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T17:30:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139121",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:00:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139120",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:00:00",
+      "movie": "The History of Concrete",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98856",
+      "presentation_slug": "the-history-of-concrete",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:00:00",
+      "movie": "The Social Reckoning",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97764",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:15:00",
+      "movie": "Appofeniacs",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98302",
+      "presentation_slug": "appofeniacs",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139119",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:15:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137885",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:15:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98935",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:30:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98973",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139104",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "96914",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:45:00",
+      "movie": "Coyote vs. ACME",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98931",
+      "presentation_slug": "coyote-vs-acme",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:45:00",
+      "movie": "Digger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98860",
+      "presentation_slug": "digger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:45:00",
+      "movie": "Pan's Labyrinth 20th Anniversary",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98865",
+      "presentation_slug": "pan-labyrinth-20th-anniversary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T18:45:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139131",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:00:00",
+      "movie": "Repo! The Genetic Opera",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137180",
+      "presentation_slug": "movie-party-repo-the-genetic-opera",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:00:00",
+      "movie": "Naza",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97343",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:00:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98987",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:00:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139118",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:15:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137518",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:15:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98851",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T19:30:00",
+      "movie": "Naza",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137544",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T19:45:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97372",
+      "presentation_slug": "other-mommy",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T19:45:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139126",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T20:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98866",
+      "presentation_slug": "verity",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T20:45:00",
+      "movie": "Pan's Labyrinth 20th Anniversary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139125",
+      "presentation_slug": "pan-labyrinth-20th-anniversary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:00:00",
+      "movie": "Misty Green",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138673",
+      "presentation_slug": "misty-green",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:00:00",
+      "movie": "The History of Concrete",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98855",
+      "presentation_slug": "the-history-of-concrete",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:15:00",
+      "movie": "Digger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139124",
+      "presentation_slug": "digger",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T21:15:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98989",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139123",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:15:00",
+      "movie": "The Social Reckoning",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97767",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:30:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98970",
+      "presentation_slug": "primetime",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T21:30:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137886",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T21:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98934",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139105",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T21:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139122",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T21:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98930",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T21:45:00",
       "movie": "Restoration at Grayson Manor",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98650",
+      "session_id": "98651",
       "presentation_slug": "restoration-at-grayson-manor",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T21:45:00",
+      "show_time": "2026-10-11T21:45:00",
       "movie": "Your Mother Your Mother Your Mother",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "96909",
+      "session_id": "96913",
       "presentation_slug": "your-mother-your-mother-your-mother",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:00:00",
+      "show_time": "2026-10-11T22:00:00",
       "movie": "Other Mommy",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "137513",
+      "session_id": "137517",
       "presentation_slug": "other-mommy",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:00:00",
+      "show_time": "2026-10-11T22:00:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139136",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T22:00:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98988",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T22:00:00",
       "movie": "Pan's Labyrinth 20th Anniversary",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98831",
+      "session_id": "98864",
       "presentation_slug": "pan-labyrinth-20th-anniversary",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:00:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139083",
-      "presentation_slug": "primetime",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-10T22:00:00",
+      "show_time": "2026-10-11T22:00:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98922",
+      "session_id": "98848",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:15:00",
+      "show_time": "2026-10-11T22:15:00",
       "movie": "Digger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98827",
+      "session_id": "98859",
       "presentation_slug": "digger",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:15:00",
-      "movie": "Other Mommy",
+      "show_time": "2026-10-11T22:15:00",
+      "movie": "Verity",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139100",
+      "session_id": "139132",
+      "presentation_slug": "verity",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-11T22:30:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97371",
       "presentation_slug": "other-mommy",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-10T22:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98817",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T22:30:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98298",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T22:30:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97361",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-10T22:30:00",
-      "movie": "Your Mother Your Mother Your Mother",
+      "show_time": "2026-10-11T22:30:00",
+      "movie": "The Texas Chain Saw Massacre (1974)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139097",
-      "presentation_slug": "your-mother-your-mother-your-mother",
+      "session_id": "139134",
+      "presentation_slug": "the-texas-chainsaw-massacre-1974",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-11T22:45:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139127",
+      "presentation_slug": "other-mommy",
       "open_caption": false
     }
   ]
