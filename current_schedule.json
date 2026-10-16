@@ -1,862 +1,790 @@
 {
   "time_range": {
-    "start": "2026-10-15T11:23:40.199003102-04:00",
-    "end": "2026-10-15T23:23:40.199003102-04:00"
+    "start": "2026-10-16T11:03:50.736491125-04:00",
+    "end": "2026-10-16T23:03:50.736491125-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-10-15T11:30:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99357",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:30:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139391",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:30:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99374",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:30:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139409",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:30:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99364",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:45:00",
-      "movie": "Forgotten Island",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99353",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:45:00",
-      "movie": "Forgotten Island",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139399",
-      "presentation_slug": "forgotten-island",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T11:45:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99376",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:00:00",
-      "movie": "Digger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99352",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:00:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139410",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:15:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98305",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:15:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139407",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:30:00",
-      "movie": "Coyote vs. ACME",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99375",
-      "presentation_slug": "coyote-vs-acme",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:30:00",
-      "movie": "Misty Green",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139401",
-      "presentation_slug": "misty-green",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:30:00",
-      "movie": "The History of Concrete",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99349",
-      "presentation_slug": "the-history-of-concrete",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:30:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139390",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T12:45:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99369",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:00:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139398",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:00:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99347",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:00:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99377",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:15:00",
-      "movie": "Digger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139400",
-      "presentation_slug": "digger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99361",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T13:30:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139411",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:15:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99356",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:15:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99371",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:45:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139392",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:45:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97721",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:45:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137851",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T14:45:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99365",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138322",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97891",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:15:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98304",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:15:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98236",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:15:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139408",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139404",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:30:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139384",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:30:00",
-      "movie": "Whalefall",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98239",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99131",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138185",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:45:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99348",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T15:45:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139387",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:00:00",
-      "movie": "A Prayer for the Dying",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98311",
-      "presentation_slug": "a-prayer-for-the-dying",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:00:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97349",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:00:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139397",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:00:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99368",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99362",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:15:00",
-      "movie": "Whalefall",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138323",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T16:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138188",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T17:00:00",
-      "movie": "Naza",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137552",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T17:00:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99355",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T17:00:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99372",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:00:00",
-      "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139393",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:00:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97723",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:00:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137852",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:00:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99351",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:15:00",
-      "movie": "Appofeniacs",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98303",
-      "presentation_slug": "appofeniacs",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:15:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138320",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:30:00",
+      "show_time": "2026-10-16T11:15:00",
       "movie": "Fjord",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138909",
+      "session_id": "138912",
       "presentation_slug": "fjord",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T18:30:00",
-      "movie": "Whalefall",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98240",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:45:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99345",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T18:45:00",
+      "show_time": "2026-10-16T11:15:00",
       "movie": "Sense and Sensibility (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "98237",
+      "session_id": "98213",
       "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-10-15T18:45:00",
+      "show_time": "2026-10-16T11:15:00",
       "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139388",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99184",
       "presentation_slug": "the-social-reckoning",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T19:00:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97350",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:00:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139395",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:00:00",
-      "movie": "Verity",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139385",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97892",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99360",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:15:00",
-      "movie": "Whalefall",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138324",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:15:00",
-      "movie": "Your Mother Your Mother Your Mother",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99366",
-      "presentation_slug": "your-mother-your-mother-your-mother",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:30:00",
-      "movie": "Ken Russell's The Devils",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138988",
-      "presentation_slug": "ken-russells-the-devils",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:30:00",
-      "movie": "Naza",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137551",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:45:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99358",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:45:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99373",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T19:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138186",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:00:00",
+      "show_time": "2026-10-16T11:30:00",
       "movie": "Primetime",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139394",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99154",
       "presentation_slug": "primetime",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T21:00:00",
+      "show_time": "2026-10-16T11:30:00",
       "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "97893",
+      "session_id": "99116",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T21:00:00",
+      "show_time": "2026-10-16T11:30:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138187",
+      "session_id": "138193",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T21:15:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137853",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:15:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97724",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:20:00",
-      "movie": "Verity",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99363",
-      "presentation_slug": "verity",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:30:00",
-      "movie": "Other Mommy",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139396",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:30:00",
-      "movie": "Whalefall",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98241",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:45:00",
-      "movie": "Restoration at Grayson Manor",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98657",
-      "presentation_slug": "restoration-at-grayson-manor",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:45:00",
-      "movie": "The Social Reckoning",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139389",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T21:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139403",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:00:00",
-      "movie": "Fjord",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138910",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:00:00",
-      "movie": "Primetime",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99346",
-      "presentation_slug": "primetime",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138321",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:15:00",
-      "movie": "The Social Reckoning",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99359",
-      "presentation_slug": "the-social-reckoning",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:15:00",
-      "movie": "Whalefall",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138325",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:30:00",
-      "movie": "Ken Russell's The Devils",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138987",
-      "presentation_slug": "ken-russells-the-devils",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:30:00",
-      "movie": "Other Mommy",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99354",
-      "presentation_slug": "other-mommy",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-15T22:30:00",
+      "show_time": "2026-10-16T11:40:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99370",
+      "session_id": "99175",
       "presentation_slug": "resident-evil-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-10-15T22:30:00",
+      "show_time": "2026-10-16T11:45:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139423",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T11:45:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99171",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97728",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T12:00:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139413",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:00:00",
+      "movie": "Whalefall",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98242",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:15:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139431",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139438",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:30:00",
       "movie": "Verity",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139386",
+      "session_id": "139414",
       "presentation_slug": "verity",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-15T22:30:00",
+      "show_time": "2026-10-16T12:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138194",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97899",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T12:45:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99170",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T13:15:00",
+      "movie": "Ken Russell's The Devils",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138963",
+      "presentation_slug": "ken-russells-the-devils",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T13:30:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139435",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T13:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99381",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T14:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138318",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T14:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99181",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T14:45:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99155",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T14:45:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98214",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T14:45:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137856",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:00:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138911",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:00:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139424",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:00:00",
+      "movie": "Whalefall",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98243",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:00:00",
       "movie": "Your Mother Your Mother Your Mother",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99367",
+      "session_id": "99172",
       "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97727",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:15:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138328",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:30:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99160",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:30:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139430",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:30:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99176",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:30:00",
+      "movie": "The Social Reckoning",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99164",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138191",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99115",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T15:45:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139493",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T16:00:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139415",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T16:00:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99169",
+      "presentation_slug": "verity",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T16:15:00",
+      "movie": "Ken Russell's The Devils",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138965",
+      "presentation_slug": "ken-russells-the-devils",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T16:30:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139434",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T16:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97898",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T16:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138189",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T17:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99380",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:00:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99156",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137855",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:00:00",
+      "movie": "Whalefall",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98245",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:15:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98216",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:15:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138327",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:15:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99173",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:25:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99178",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139429",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:30:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97725",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:30:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139425",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T18:45:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138913",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:00:00",
+      "movie": "Hellbound: Hellraiser II",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137496",
+      "presentation_slug": "hellbound-hellraiser-ii",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:00:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139565",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:15:00",
+      "movie": "Ken Russell's The Devils",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138964",
+      "presentation_slug": "ken-russells-the-devils",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:15:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99158",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:15:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99167",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:15:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139416",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138192",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T19:45:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139432",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T20:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99117",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:00:00",
+      "movie": "Whalefall",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98244",
+      "presentation_slug": "whalefall",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T21:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138190",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97897",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:15:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99157",
+      "presentation_slug": "primetime",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T21:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137854",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:15:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138326",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:30:00",
+      "movie": "The Social Reckoning",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139426",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:30:00",
+      "movie": "Your Mother Your Mother Your Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99174",
+      "presentation_slug": "your-mother-your-mother-your-mother",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T21:35:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99177",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:45:00",
+      "movie": "Misty Green",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139494",
+      "presentation_slug": "misty-green",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:45:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98215",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T21:45:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97726",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:00:00",
+      "movie": "Other Mommy",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99159",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:00:00",
+      "movie": "Primetime",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139428",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:00:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138317",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-16T22:00:00",
+      "movie": "The Social Reckoning",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99166",
+      "presentation_slug": "the-social-reckoning",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:15:00",
+      "movie": "Ken Russell's The Devils",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138966",
+      "presentation_slug": "ken-russells-the-devils",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:30:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138914",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99168",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:30:00",
+      "movie": "Verity",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139417",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-16T22:45:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139433",
+      "presentation_slug": "other-mommy",
       "open_caption": false
     }
   ]
