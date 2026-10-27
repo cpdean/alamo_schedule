@@ -1,672 +1,717 @@
 {
   "time_range": {
-    "start": "2026-10-26T13:03:05.979928661-04:00",
-    "end": "2026-10-27T01:03:05.979928661-04:00"
+    "start": "2026-10-27T12:05:36.998686999-04:00",
+    "end": "2026-10-28T00:05:36.998686999-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-10-26T13:15:00",
-      "movie": "Wicker",
+      "show_time": "2026-10-27T12:15:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98771",
+      "presentation_slug": "clayface",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T12:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99738",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T12:30:00",
+      "movie": "Clayface",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139951",
+      "session_id": "139964",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T12:30:00",
+      "movie": "Verity",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99752",
+      "presentation_slug": "verity",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T12:45:00",
+      "movie": "Klara and the Sun",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139317",
+      "presentation_slug": "klara-and-the-sun",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T12:45:00",
+      "movie": "Klara and the Sun",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99073",
+      "presentation_slug": "klara-and-the-sun",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T13:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139968",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T13:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99784",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T14:30:00",
-      "movie": "Sense and Sensibility (2026)",
+      "show_time": "2026-10-27T13:00:00",
+      "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139941",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T14:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99697",
+      "session_id": "139977",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T14:45:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98734",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T14:45:00",
-      "movie": "Fjord",
+      "show_time": "2026-10-27T13:15:00",
+      "movie": "Wicker",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139945",
-      "presentation_slug": "fjord",
+      "session_id": "139976",
+      "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T14:45:00",
+      "show_time": "2026-10-27T13:15:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99782",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T13:30:00",
       "movie": "La Bola Negra",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138257",
+      "session_id": "138280",
       "presentation_slug": "la-bola-negra",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-10-26T14:45:00",
+      "show_time": "2026-10-27T14:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99745",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T14:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139973",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T14:45:00",
+      "movie": "Fjord",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98747",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T14:45:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139983",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T14:45:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138261",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T14:45:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99694",
+      "session_id": "99732",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T15:00:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138278",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99708",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:00:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139957",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:00:00",
+      "show_time": "2026-10-27T15:00:00",
       "movie": "Whalefall",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99710",
+      "session_id": "99747",
       "presentation_slug": "whalefall",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T15:00:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98200",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:15:00",
-      "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98764",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:15:00",
+      "show_time": "2026-10-27T15:00:00",
       "movie": "Whalefall",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139936",
+      "session_id": "139962",
       "presentation_slug": "whalefall",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-26T15:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99701",
-      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T15:30:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99705",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138951",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-26T15:45:00",
-      "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139929",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:45:00",
-      "movie": "Resident Evil (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99686",
-      "presentation_slug": "resident-evil-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T15:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99691",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T16:00:00",
-      "movie": "Klara and the Sun",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99061",
-      "presentation_slug": "klara-and-the-sun",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T16:00:00",
-      "movie": "Klara and the Sun",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139315",
-      "presentation_slug": "klara-and-the-sun",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T16:00:00",
-      "movie": "Marie Antoinette (2006)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98749",
-      "presentation_slug": "marie-antoinette",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T16:00:00",
+      "show_time": "2026-10-27T15:00:00",
       "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99727",
+      "session_id": "98207",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T16:15:00",
+      "show_time": "2026-10-27T15:15:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98772",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T15:15:00",
       "movie": "Making Marie Antoinette",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138694",
+      "session_id": "138696",
       "presentation_slug": "making-marie-antoinette",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T16:15:00",
-      "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139950",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T17:00:00",
+      "show_time": "2026-10-27T15:15:00",
       "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139952",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99740",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T18:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139940",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:00:00",
+      "show_time": "2026-10-27T15:30:00",
       "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139955",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99739",
       "presentation_slug": "street-fighter-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T18:00:00",
-      "movie": "Whalefall",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99709",
-      "presentation_slug": "whalefall",
+      "show_time": "2026-10-27T15:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138955",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T18:00:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98210",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:15:00",
+      "show_time": "2026-10-27T15:45:00",
       "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98766",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139965",
       "presentation_slug": "clayface",
       "open_caption": true
     },
     {
-      "show_time": "2026-10-26T18:15:00",
-      "movie": "Fjord",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139944",
-      "presentation_slug": "fjord",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-26T18:15:00",
-      "movie": "Whalefall",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139937",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:15:00",
-      "movie": "Wildwood",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99695",
-      "presentation_slug": "wildwood",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-26T18:30:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98735",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:30:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138254",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:30:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99712",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:45:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138279",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:45:00",
+      "show_time": "2026-10-27T15:45:00",
       "movie": "Resident Evil (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99688",
+      "session_id": "99755",
       "presentation_slug": "resident-evil-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T18:45:00",
-      "movie": "Street Fighter (2026)",
+      "show_time": "2026-10-27T15:45:00",
+      "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99704",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T18:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139928",
+      "session_id": "99735",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T19:00:00",
-      "movie": "Capturing Bigfoot",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99130",
-      "presentation_slug": "capturing-bigfoot",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:00:00",
-      "movie": "Littermates",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138695",
-      "presentation_slug": "fantastic-fest-presents-littermates-advance-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:00:00",
-      "movie": "Daughters of Darkness",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96942",
-      "presentation_slug": "queer-film-theory-101-daughters-of-darkness",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:00:00",
-      "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139949",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:15:00",
-      "movie": "Littermates",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "97836",
-      "presentation_slug": "fantastic-fest-presents-littermates-advance-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:15:00",
+      "show_time": "2026-10-27T16:00:00",
       "movie": "Klara and the Sun",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99062",
+      "session_id": "99076",
       "presentation_slug": "klara-and-the-sun",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T19:15:00",
+      "show_time": "2026-10-27T16:00:00",
       "movie": "Klara and the Sun",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139314",
+      "session_id": "139318",
       "presentation_slug": "klara-and-the-sun",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T19:30:00",
-      "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138954",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T19:30:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-10-27T16:00:00",
+      "movie": "Making Marie Antoinette",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99702",
-      "presentation_slug": "you-can-see-everything",
+      "session_id": "98750",
+      "presentation_slug": "making-marie-antoinette",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T20:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99692",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T21:00:00",
+      "show_time": "2026-10-27T16:00:00",
       "movie": "Street Fighter (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139956",
+      "session_id": "139969",
       "presentation_slug": "street-fighter-2026",
       "open_caption": true
     },
     {
-      "show_time": "2026-10-26T21:00:00",
-      "movie": "Whalefall",
+      "show_time": "2026-10-27T16:15:00",
+      "movie": "Godzilla vs. Megalon",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99713",
-      "presentation_slug": "whalefall",
-      "open_caption": true
+      "session_id": "99785",
+      "presentation_slug": "godzilla-vs-megalon",
+      "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:00:00",
+      "show_time": "2026-10-27T16:15:00",
       "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98211",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139979",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:00:00",
+      "show_time": "2026-10-27T17:00:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140025",
+      "session_id": "139978",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:15:00",
-      "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98765",
-      "presentation_slug": "clayface",
+      "show_time": "2026-10-27T17:30:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138281",
+      "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:15:00",
+      "show_time": "2026-10-27T18:00:00",
       "movie": "Sense and Sensibility (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139939",
+      "session_id": "139974",
       "presentation_slug": "sense-and-sensibility-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:15:00",
+      "show_time": "2026-10-27T18:00:00",
       "movie": "Whalefall",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139938",
-      "presentation_slug": "whalefall",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T21:30:00",
-      "movie": "Mystery Transmission",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137554",
-      "presentation_slug": "video-vortex-mystery-transmission-041",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T21:45:00",
-      "movie": "Primetime",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99687",
-      "presentation_slug": "primetime",
-      "open_caption": false
+      "session_id": "99748",
+      "presentation_slug": "whalefall",
+      "open_caption": true
     },
     {
-      "show_time": "2026-10-26T21:45:00",
+      "show_time": "2026-10-27T18:00:00",
       "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139948",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98209",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:45:00",
+      "show_time": "2026-10-27T18:15:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98774",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T18:15:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139984",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T18:15:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139961",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T18:15:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99699",
+      "session_id": "99731",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T21:45:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-10-27T18:30:00",
+      "movie": "Fjord",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99696",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-26T22:00:00",
-      "movie": "Fjord",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139943",
+      "session_id": "98746",
       "presentation_slug": "fjord",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:00:00",
+      "show_time": "2026-10-27T18:30:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138258",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T18:45:00",
+      "movie": "Resident Evil (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99753",
+      "presentation_slug": "resident-evil-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T18:45:00",
       "movie": "Sense and Sensibility (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99714",
+      "session_id": "99749",
       "presentation_slug": "sense-and-sensibility-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:00:00",
+      "show_time": "2026-10-27T18:45:00",
       "movie": "Street Fighter (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99703",
+      "session_id": "99741",
       "presentation_slug": "street-fighter-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:15:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98736",
-      "presentation_slug": "fjord",
+      "show_time": "2026-10-27T18:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139966",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:15:00",
+      "show_time": "2026-10-27T19:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139971",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T19:00:00",
+      "movie": "Wicker",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139980",
+      "presentation_slug": "wicker",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T19:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99783",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T19:15:00",
       "movie": "Klara and the Sun",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139313",
+      "session_id": "139319",
       "presentation_slug": "klara-and-the-sun",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:15:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "138255",
-      "presentation_slug": "la-bola-negra",
+      "show_time": "2026-10-27T19:15:00",
+      "movie": "Klara and the Sun",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99075",
+      "presentation_slug": "klara-and-the-sun",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:30:00",
+      "show_time": "2026-10-27T19:30:00",
       "movie": "Clayface",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138953",
+      "session_id": "138958",
       "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:30:00",
-      "movie": "Klara and the Sun",
+      "show_time": "2026-10-27T19:30:00",
+      "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99063",
-      "presentation_slug": "klara-and-the-sun",
+      "session_id": "99742",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:30:00",
+      "show_time": "2026-10-27T20:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99734",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:00:00",
+      "movie": "Other Mommy",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139981",
+      "presentation_slug": "other-mommy",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:00:00",
+      "movie": "Whalefall",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99750",
+      "presentation_slug": "whalefall",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98208",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:15:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98773",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:15:00",
+      "movie": "Whalefall",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139960",
+      "presentation_slug": "whalefall",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T21:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139975",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-27T21:30:00",
+      "movie": "House of 1000 Corpses",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137537",
+      "presentation_slug": "terror-tuesday-house-of-1000-corpses",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:45:00",
+      "movie": "Primetime",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99754",
+      "presentation_slug": "primetime",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:45:00",
+      "movie": "Wicker",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139986",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T21:45:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99730",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:00:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139985",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139970",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99743",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:15:00",
+      "movie": "Fjord",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98745",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:15:00",
       "movie": "La Bola Negra",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "138287",
+      "session_id": "138259",
       "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-26T22:45:00",
+      "show_time": "2026-10-27T22:15:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99751",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:15:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140024",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:30:00",
+      "movie": "Klara and the Sun",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139320",
+      "presentation_slug": "klara-and-the-sun",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:30:00",
+      "movie": "Klara and the Sun",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99074",
+      "presentation_slug": "klara-and-the-sun",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:45:00",
+      "movie": "Clayface",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "138957",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-27T22:45:00",
       "movie": "Ken Russell's The Devils",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "139931",
+      "session_id": "139967",
       "presentation_slug": "ken-russells-the-devils",
       "open_caption": false
     }
