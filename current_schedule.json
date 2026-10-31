@@ -1,681 +1,753 @@
 {
   "time_range": {
-    "start": "2026-10-30T12:51:02.459058493-04:00",
-    "end": "2026-10-31T00:51:02.459058493-04:00"
+    "start": "2026-10-31T11:54:41.532557217-04:00",
+    "end": "2026-10-31T23:54:41.532557217-04:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-10-30T13:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140444",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T14:00:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140428",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T14:00:00",
-      "movie": "The Only Living Pickpocket in New York",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99885",
-      "presentation_slug": "the-only-living-pickpocket-in-new-york",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T14:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100161",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-30T14:30:00",
-      "movie": "Wildwood",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100143",
-      "presentation_slug": "wildwood",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T14:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140446",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T14:45:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140440",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:00:00",
+      "show_time": "2026-10-31T12:00:00",
       "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100121",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140473",
       "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T15:00:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100146",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:00:00",
-      "movie": "Fjord",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140460",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100154",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:00:00",
-      "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140451",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:15:00",
+      "show_time": "2026-10-31T12:00:00",
       "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140436",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100174",
       "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T15:15:00",
-      "movie": "The Only Living Pickpocket in New York",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140715",
-      "presentation_slug": "live-q-a-the-only-living-pickpocket-in-new-york",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:15:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100125",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100129",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:30:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100138",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:30:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140463",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:30:00",
+      "show_time": "2026-10-31T12:00:00",
       "movie": "Street Fighter (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140455",
+      "session_id": "140487",
       "presentation_slug": "street-fighter-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T15:30:00",
+      "show_time": "2026-10-31T12:15:00",
       "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100162",
+      "session_id": "100184",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T15:45:00",
-      "movie": "Naza",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140592",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T15:45:00",
+      "show_time": "2026-10-31T12:15:00",
       "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100135",
+      "session_id": "100175",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T16:00:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100152",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T16:00:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100159",
-      "presentation_slug": "wicker",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-30T16:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140467",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T16:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100132",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T16:45:00",
-      "movie": "The Only Living Pickpocket in New York",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99886",
-      "presentation_slug": "the-only-living-pickpocket-in-new-york",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T17:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140445",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:00:00",
-      "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100123",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:00:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140429",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:00:00",
-      "movie": "The Only Living Pickpocket in New York",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139575",
-      "presentation_slug": "the-only-living-pickpocket-in-new-york",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:00:00",
-      "movie": "Wildwood",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100141",
-      "presentation_slug": "wildwood",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:15:00",
+      "show_time": "2026-10-31T12:30:00",
       "movie": "Christmas at the Kringles",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100139",
+      "session_id": "100167",
       "presentation_slug": "christmas-at-the-kringles",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:15:00",
-      "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140452",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:15:00",
-      "movie": "Wicker",
+      "show_time": "2026-10-31T12:30:00",
+      "movie": "Wild at Heart",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100127",
-      "presentation_slug": "wicker",
+      "session_id": "98312",
+      "presentation_slug": "special-event-wild-at-heart-unrated",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:15:00",
+      "show_time": "2026-10-31T12:45:00",
+      "movie": "Klara and the Sun",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100202",
+      "presentation_slug": "klara-and-the-sun",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T12:45:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100190",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T13:15:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140433",
+      "session_id": "140478",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:30:00",
-      "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140437",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:30:00",
-      "movie": "Wild Horse Nine",
+      "show_time": "2026-10-31T14:00:00",
+      "movie": "The Only Living Pickpocket in New York",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99077",
-      "presentation_slug": "fan-event-wild-horse-nine-advance-fan-screening",
+      "session_id": "99892",
+      "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:30:00",
+      "show_time": "2026-10-31T14:15:00",
       "movie": "La Bola Negra",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140441",
+      "session_id": "140469",
       "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:30:00",
+      "show_time": "2026-10-31T14:30:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100186",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T14:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100327",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T14:45:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140498",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T14:45:00",
+      "movie": "Wicker",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140490",
+      "presentation_slug": "wicker",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T15:00:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100173",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:00:00",
+      "movie": "Fjord",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100197",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:00:00",
       "movie": "Sense and Sensibility (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100149",
+      "session_id": "100189",
       "presentation_slug": "sense-and-sensibility-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:45:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100148",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T18:45:00",
-      "movie": "Fjord",
+      "show_time": "2026-10-31T15:00:00",
+      "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140461",
-      "presentation_slug": "fjord",
+      "session_id": "140504",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:45:00",
-      "movie": "Halloween (1978)",
+      "show_time": "2026-10-31T15:15:00",
+      "movie": "Clayface",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140472",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140486",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:15:00",
+      "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100119",
+      "session_id": "100183",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:15:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100179",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:30:00",
+      "movie": "Naza",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100166",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140495",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:30:00",
+      "movie": "The Only Living Pickpocket in New York",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139581",
+      "presentation_slug": "the-only-living-pickpocket-in-new-york",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T15:45:00",
+      "movie": "Naza",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140593",
+      "presentation_slug": "naza",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T15:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100169",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T16:00:00",
+      "movie": "Halloween (1978)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "137500",
       "presentation_slug": "halloween-1978",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T18:45:00",
+      "show_time": "2026-10-31T16:00:00",
+      "movie": "Halloween (1978)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "97320",
+      "presentation_slug": "halloween-1978",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T16:00:00",
       "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140456",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100191",
       "presentation_slug": "street-fighter-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T19:00:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "139327",
-      "presentation_slug": "fan-event-wild-horse-nine-advance-fan-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T19:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140464",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T19:00:00",
+      "show_time": "2026-10-31T16:00:00",
       "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100157",
+      "session_id": "100199",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T19:15:00",
-      "movie": "Street Fighter (2026)",
+      "show_time": "2026-10-31T16:30:00",
+      "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100150",
-      "presentation_slug": "street-fighter-2026",
+      "session_id": "100176",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T19:30:00",
+      "show_time": "2026-10-31T16:45:00",
       "movie": "The Only Living Pickpocket in New York",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99887",
+      "session_id": "99891",
       "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T19:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100130",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T20:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100134",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T20:30:00",
+      "show_time": "2026-10-31T17:15:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140466",
+      "session_id": "140507",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T20:45:00",
+      "show_time": "2026-10-31T17:30:00",
       "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100131",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140477",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:00:00",
+      "show_time": "2026-10-31T18:00:00",
       "movie": "Clayface",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100122",
+      "session_id": "100171",
       "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:00:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-10-31T18:00:00",
+      "movie": "La Bola Negra",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140449",
-      "presentation_slug": "you-can-see-everything",
+      "session_id": "140475",
+      "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:15:00",
-      "movie": "Christmas at the Kringles",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100140",
-      "presentation_slug": "christmas-at-the-kringles",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T21:15:00",
-      "movie": "Ken Russell's The Devils",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100126",
-      "presentation_slug": "ken-russells-the-devils",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T21:30:00",
-      "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140438",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T21:30:00",
+      "show_time": "2026-10-31T18:00:00",
       "movie": "Wicker",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140453",
+      "session_id": "140489",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:30:00",
+      "show_time": "2026-10-31T18:00:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100142",
+      "session_id": "100188",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:45:00",
-      "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140430",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T21:45:00",
-      "movie": "Green Room",
+      "show_time": "2026-10-31T18:15:00",
+      "movie": "Christmas at the Kringles",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99153",
-      "presentation_slug": "special-event-green-room-10th-anniversary",
+      "session_id": "100165",
+      "presentation_slug": "christmas-at-the-kringles",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T21:45:00",
-      "movie": "Trick or Treat (1986)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "137499",
-      "presentation_slug": "trick-or-treat-1986",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T21:45:00",
-      "movie": "Trick or Treat (1986)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "96943",
-      "presentation_slug": "trick-or-treat-1986",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T22:00:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140457",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T22:00:00",
+      "show_time": "2026-10-31T18:15:00",
       "movie": "The Only Living Pickpocket in New York",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140605",
+      "session_id": "139582",
       "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T22:00:00",
+      "show_time": "2026-10-31T18:15:00",
       "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100158",
+      "session_id": "100181",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T22:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100151",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T22:15:00",
-      "movie": "La Bola Negra",
+      "show_time": "2026-10-31T18:30:00",
+      "movie": "Clayface",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140442",
-      "presentation_slug": "la-bola-negra",
+      "session_id": "140471",
+      "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T22:15:00",
-      "movie": "The Only Living Pickpocket in New York",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99888",
-      "presentation_slug": "the-only-living-pickpocket-in-new-york",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T22:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140434",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-10-30T22:30:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100147",
-      "presentation_slug": "fjord",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-10-30T22:30:00",
+      "show_time": "2026-10-31T18:30:00",
       "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140465",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100194",
       "presentation_slug": "sense-and-sensibility-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T22:30:00",
-      "movie": "Street Fighter (2026)",
+      "show_time": "2026-10-31T18:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140595",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T18:45:00",
+      "movie": "Fjord",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100328",
+      "session_id": "100195",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T18:45:00",
+      "movie": "Fjord",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140497",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T18:45:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140485",
       "presentation_slug": "street-fighter-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-10-30T22:30:00",
+      "show_time": "2026-10-31T18:45:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100333",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:00:00",
+      "movie": "Godzilla vs. Mechagodzilla",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100325",
+      "presentation_slug": "godzilla-vs-mechagodzilla",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:00:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140481",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:00:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140494",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100201",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:15:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100193",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:15:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140505",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:30:00",
+      "movie": "The Only Living Pickpocket in New York",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99890",
+      "presentation_slug": "the-only-living-pickpocket-in-new-york",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T19:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100178",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T20:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100170",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T20:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100177",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:00:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100172",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140703",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T21:15:00",
+      "movie": "Halloween (1978)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100164",
+      "presentation_slug": "halloween-1978",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:15:00",
+      "movie": "Ken Russell's The Devils",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100182",
+      "presentation_slug": "ken-russells-the-devils",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:15:00",
+      "movie": "Wicker",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140488",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:30:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100187",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140508",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:45:00",
+      "movie": "Breeder",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100326",
+      "presentation_slug": "breeder",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:45:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140474",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:45:00",
+      "movie": "The Only Living Pickpocket in New York",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140606",
+      "presentation_slug": "the-only-living-pickpocket-in-new-york",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T21:45:00",
+      "movie": "The Rocky Horror Picture Show",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99048",
+      "presentation_slug": "the-rocky-horror-picture-show",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:00:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140484",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T22:00:00",
+      "movie": "The Rocky Horror Picture Show",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "139356",
+      "presentation_slug": "the-rocky-horror-picture-show",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100200",
+      "presentation_slug": "wicker",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T22:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100192",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:15:00",
+      "movie": "The Only Living Pickpocket in New York",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99889",
+      "presentation_slug": "the-only-living-pickpocket-in-new-york",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:30:00",
+      "movie": "Clayface",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140702",
+      "presentation_slug": "clayface",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:30:00",
+      "movie": "Fjord",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100196",
+      "presentation_slug": "fjord",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:30:00",
+      "movie": "Sense and Sensibility (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140493",
+      "presentation_slug": "sense-and-sensibility-2026",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-10-31T22:30:00",
+      "movie": "Street Fighter (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100329",
+      "presentation_slug": "street-fighter-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:45:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140480",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-10-31T22:45:00",
       "movie": "Whalefall",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140458",
+      "session_id": "140483",
       "presentation_slug": "whalefall",
       "open_caption": false
     }
