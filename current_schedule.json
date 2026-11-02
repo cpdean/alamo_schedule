@@ -1,99 +1,9 @@
 {
   "time_range": {
-    "start": "2026-11-02T14:47:04.156162783-05:00",
-    "end": "2026-11-03T02:47:04.156162783-05:00"
+    "start": "2026-11-02T15:33:35.138179606-05:00",
+    "end": "2026-11-03T03:33:35.138179606-05:00"
   },
   "showtimes": [
-    {
-      "show_time": "2026-11-02T15:00:00",
-      "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100277",
-      "presentation_slug": "clayface",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-11-02T15:00:00",
-      "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100238",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:00:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100227",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140652",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:15:00",
-      "movie": "Fjord",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140619",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:15:00",
-      "movie": "Street Fighter (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140617",
-      "presentation_slug": "street-fighter-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:15:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100266",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100260",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:30:00",
-      "movie": "Naza",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100255",
-      "presentation_slug": "naza",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T15:30:00",
-      "movie": "Sense and Sensibility (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140628",
-      "presentation_slug": "sense-and-sensibility-2026",
-      "open_caption": false
-    },
     {
       "show_time": "2026-11-02T15:45:00",
       "movie": "Naza",
@@ -277,20 +187,20 @@
     {
       "show_time": "2026-11-02T18:45:00",
       "movie": "Fjord",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100240",
-      "presentation_slug": "fjord",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-02T18:45:00",
-      "movie": "Fjord",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
       "session_id": "140636",
       "presentation_slug": "fjord",
       "open_caption": true
+    },
+    {
+      "show_time": "2026-11-02T18:45:00",
+      "movie": "Fjord",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100240",
+      "presentation_slug": "fjord",
+      "open_caption": false
     },
     {
       "show_time": "2026-11-02T18:45:00",
@@ -403,20 +313,20 @@
     {
       "show_time": "2026-11-02T21:00:00",
       "movie": "Clayface",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140634",
-      "presentation_slug": "clayface",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-11-02T21:00:00",
-      "movie": "Clayface",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
       "session_id": "100278",
       "presentation_slug": "clayface",
       "open_caption": false
+    },
+    {
+      "show_time": "2026-11-02T21:00:00",
+      "movie": "Clayface",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140634",
+      "presentation_slug": "clayface",
+      "open_caption": true
     },
     {
       "show_time": "2026-11-02T21:00:00",
