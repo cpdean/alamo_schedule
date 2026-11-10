@@ -1,7 +1,7 @@
 {
   "time_range": {
-    "start": "2026-11-10T13:08:17.304689765-05:00",
-    "end": "2026-11-11T01:08:17.304689765-05:00"
+    "start": "2026-11-10T13:21:02.183383643-05:00",
+    "end": "2026-11-11T01:21:02.183383643-05:00"
   },
   "showtimes": [
     {
@@ -43,20 +43,20 @@
     {
       "show_time": "2026-11-10T14:45:00",
       "movie": "La Bola Negra",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "98291",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-10T14:45:00",
-      "movie": "La Bola Negra",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
       "session_id": "141004",
       "presentation_slug": "la-bola-negra",
       "open_caption": true
+    },
+    {
+      "show_time": "2026-11-10T14:45:00",
+      "movie": "La Bola Negra",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "98291",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
     },
     {
       "show_time": "2026-11-10T14:45:00",
@@ -250,18 +250,18 @@
     {
       "show_time": "2026-11-10T18:00:00",
       "movie": "The Cat in the Hat (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140122",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99497",
       "presentation_slug": "the-cat-in-the-hat-2026",
       "open_caption": false
     },
     {
       "show_time": "2026-11-10T18:00:00",
       "movie": "The Cat in the Hat (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99497",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140122",
       "presentation_slug": "the-cat-in-the-hat-2026",
       "open_caption": false
     },
@@ -583,18 +583,18 @@
     {
       "show_time": "2026-11-10T22:15:00",
       "movie": "The Only Living Pickpocket in New York",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100681",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140974",
       "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
     {
       "show_time": "2026-11-10T22:15:00",
       "movie": "The Only Living Pickpocket in New York",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140974",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100681",
       "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
