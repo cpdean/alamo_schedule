@@ -1,674 +1,656 @@
 {
   "time_range": {
-    "start": "2026-11-12T13:38:31.430932478-05:00",
-    "end": "2026-11-13T01:38:31.430932478-05:00"
+    "start": "2026-11-13T13:15:13.962374868-05:00",
+    "end": "2026-11-14T01:15:13.962374868-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-11-12T14:00:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-11-13T14:15:00",
+      "movie": "The Cat in the Hat (2026)",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141110",
-      "presentation_slug": "you-can-see-everything",
+      "session_id": "141153",
+      "presentation_slug": "the-cat-in-the-hat-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T14:30:00",
+      "show_time": "2026-11-13T14:30:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141131",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T14:45:00",
       "movie": "Ebenezer",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100009",
+      "session_id": "100013",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T14:30:00",
+      "show_time": "2026-11-13T14:45:00",
       "movie": "La Bola Negra",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141149",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100859",
       "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T14:45:00",
-      "movie": "Clayface",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101104",
-      "presentation_slug": "clayface",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T14:45:00",
-      "movie": "La Bola Negra",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101097",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T14:45:00",
+      "show_time": "2026-11-13T14:45:00",
       "movie": "Paper Tiger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140314",
+      "session_id": "140318",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:00:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141157",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T15:00:00",
+      "show_time": "2026-11-13T14:45:00",
       "movie": "The Cat in the Hat (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141122",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100838",
       "presentation_slug": "the-cat-in-the-hat-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:00:00",
-      "movie": "The Cat in the Hat (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101079",
-      "presentation_slug": "the-cat-in-the-hat-2026",
+      "show_time": "2026-11-13T14:45:00",
+      "movie": "Victorian Psycho",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141128",
+      "presentation_slug": "victorian-psycho",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:15:00",
-      "movie": "Being Heumann",
+      "show_time": "2026-11-13T15:00:00",
+      "movie": "How to Rob a Bank",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99151",
-      "presentation_slug": "being-heumann",
-      "open_caption": true
+      "session_id": "100077",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:15:00",
+      "show_time": "2026-11-13T15:15:00",
       "movie": "Ebenezer",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140203",
+      "session_id": "140204",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:15:00",
+      "show_time": "2026-11-13T15:15:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101093",
+      "session_id": "100853",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:15:00",
+      "show_time": "2026-11-13T15:15:00",
       "movie": "I Play Rocky",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141160",
+      "session_id": "141118",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:30:00",
+      "show_time": "2026-11-13T15:15:00",
       "movie": "Wild Horse Nine",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101084",
+      "session_id": "100842",
       "presentation_slug": "wild-horse-nine",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:30:00",
-      "movie": "Women on the Verge of a Nervous Breakdown",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140396",
-      "presentation_slug": "women-on-the-verge-of-a-nervous-breakdown",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T15:30:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101086",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T15:45:00",
+      "show_time": "2026-11-13T15:30:00",
       "movie": "Club Kid",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141116",
+      "session_id": "141134",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T15:45:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141112",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T15:45:00",
-      "movie": "Wildwood",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101100",
-      "presentation_slug": "wildwood",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:00:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140285",
-      "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:00:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100074",
-      "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:00:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101101",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:15:00",
-      "movie": "Littermates",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99877",
-      "presentation_slug": "littermates",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:30:00",
-      "movie": "Victorian Psycho",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100405",
-      "presentation_slug": "victorian-psycho",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T16:30:00",
+      "show_time": "2026-11-13T15:30:00",
       "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101089",
+      "session_id": "100849",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T16:45:00",
-      "movie": "Victorian Psycho",
+      "show_time": "2026-11-13T15:45:00",
+      "movie": "All About My Mother",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141105",
+      "session_id": "140402",
+      "presentation_slug": "all-about-my-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T15:45:00",
+      "movie": "Littermates",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100856",
+      "presentation_slug": "littermates",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T15:45:00",
+      "movie": "Victorian Psycho",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100410",
       "presentation_slug": "victorian-psycho",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:00:00",
+      "show_time": "2026-11-13T16:00:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140290",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T16:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100867",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T16:00:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100863",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T16:15:00",
+      "movie": "Clayface",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100871",
+      "presentation_slug": "clayface",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-13T16:15:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141138",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T16:30:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100846",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T17:15:00",
+      "movie": "La Bola Negra",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141143",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T17:20:00",
+      "movie": "You Can See Everything",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141355",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T17:30:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100873",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:00:00",
       "movie": "Ebenezer",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100010",
+      "session_id": "100015",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:00:00",
+      "show_time": "2026-11-13T18:00:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141133",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:00:00",
       "movie": "Paper Tiger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140312",
+      "session_id": "140320",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:00:00",
+      "show_time": "2026-11-13T18:00:00",
+      "movie": "The Cat in the Hat (2026)",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100839",
+      "presentation_slug": "the-cat-in-the-hat-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:00:00",
+      "movie": "Victorian Psycho",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141352",
+      "presentation_slug": "victorian-psycho",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:15:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100079",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:30:00",
+      "movie": "Ebenezer",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140206",
+      "presentation_slug": "ebenezer",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:30:00",
+      "movie": "I Play Rocky",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141117",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:30:00",
+      "movie": "La Bola Negra",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100857",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:30:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100843",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:45:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100854",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:45:00",
+      "movie": "Paper Tiger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140262",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T18:45:00",
+      "movie": "Victorian Psycho",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100409",
+      "presentation_slug": "victorian-psycho",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:00:00",
+      "movie": "All About My Mother",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99588",
+      "presentation_slug": "all-about-my-mother",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:00:00",
+      "movie": "Club Kid",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140323",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:00:00",
+      "movie": "Wicker",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100865",
+      "presentation_slug": "wicker",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:15:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140288",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:15:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100861",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:30:00",
       "movie": "The Only Living Pickpocket in New York",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101076",
+      "session_id": "100869",
       "presentation_slug": "the-only-living-pickpocket-in-new-york",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:00:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-11-13T19:30:00",
+      "movie": "Wild Horse Nine",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141108",
+      "session_id": "141136",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T19:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100848",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:15:00",
+      "show_time": "2026-11-13T20:45:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100847",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T21:00:00",
       "movie": "Paper Tiger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140261",
+      "session_id": "140319",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:15:00",
-      "movie": "The Cat in the Hat (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141123",
-      "presentation_slug": "the-cat-in-the-hat-2026",
+      "show_time": "2026-11-13T21:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100851",
+      "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:15:00",
-      "movie": "The Cat in the Hat (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101081",
-      "presentation_slug": "the-cat-in-the-hat-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T18:30:00",
-      "movie": "Being Heumann",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99150",
-      "presentation_slug": "being-heumann",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-11-12T18:30:00",
+      "show_time": "2026-11-13T21:15:00",
       "movie": "Ebenezer",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140201",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100014",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:30:00",
-      "movie": "La Bola Negra",
+      "show_time": "2026-11-13T21:15:00",
+      "movie": "The Cat in the Hat (2026)",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101094",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-11-12T18:45:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101075",
-      "presentation_slug": "godzilla-minus-zero",
+      "session_id": "100840",
+      "presentation_slug": "the-cat-in-the-hat-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T18:45:00",
-      "movie": "I Play Rocky",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141150",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T18:45:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101073",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T19:00:00",
-      "movie": "Club Kid",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140315",
-      "presentation_slug": "club-kid",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T19:00:00",
+      "show_time": "2026-11-13T21:15:00",
       "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101102",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141145",
       "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:00:00",
-      "movie": "Women on the Verge of a Nervous Breakdown",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99587",
-      "presentation_slug": "women-on-the-verge-of-a-nervous-breakdown",
+      "show_time": "2026-11-13T21:30:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141132",
+      "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:15:00",
+      "show_time": "2026-11-13T21:30:00",
       "movie": "How to Rob a Bank",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140287",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100078",
       "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-11-12T19:15:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100006",
-      "presentation_slug": "special-event-how-to-rob-a-bank-wolf-pack-screening",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T19:15:00",
-      "movie": "Wild Horse Nine",
+      "show_time": "2026-11-13T21:30:00",
+      "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141113",
+      "session_id": "141356",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T21:45:00",
+      "movie": "Club Kid",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141119",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T21:45:00",
+      "movie": "Ebenezer",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140205",
+      "presentation_slug": "ebenezer",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T21:45:00",
+      "movie": "Victorian Psycho",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100408",
+      "presentation_slug": "victorian-psycho",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T21:45:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100844",
       "presentation_slug": "wild-horse-nine",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:15:00",
-      "movie": "Wildwood",
+      "show_time": "2026-11-13T22:00:00",
+      "movie": "Mystery Voyage",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101074",
-      "presentation_slug": "wildwood",
+      "session_id": "99867",
+      "presentation_slug": "agfadrome-mystery-voyage-november-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:30:00",
-      "movie": "Victorian Psycho",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100406",
-      "presentation_slug": "victorian-psycho",
+      "show_time": "2026-11-13T22:00:00",
+      "movie": "Mystery Voyage",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140130",
+      "presentation_slug": "agfadrome-mystery-voyage-november-2026",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:45:00",
+      "show_time": "2026-11-13T22:00:00",
       "movie": "Victorian Psycho",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141106",
+      "session_id": "141129",
       "presentation_slug": "victorian-psycho",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T19:45:00",
-      "movie": "You Can See Everything",
+      "show_time": "2026-11-13T22:00:00",
+      "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101085",
-      "presentation_slug": "you-can-see-everything",
+      "session_id": "100866",
+      "presentation_slug": "wicker",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-13T22:15:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100855",
+      "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T20:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101090",
-      "presentation_slug": "you-can-see-everything",
+      "show_time": "2026-11-13T22:15:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140289",
+      "presentation_slug": "how-to-rob-a-bank",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T21:00:00",
+      "show_time": "2026-11-13T22:15:00",
+      "movie": "La Bola Negra",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100858",
+      "presentation_slug": "la-bola-negra",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T22:15:00",
+      "movie": "The Cat in the Hat (2026)",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141354",
+      "presentation_slug": "the-cat-in-the-hat-2026",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-13T22:30:00",
       "movie": "Clayface",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101077",
+      "session_id": "100870",
       "presentation_slug": "clayface",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T21:00:00",
-      "movie": "Paper Tiger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140313",
-      "presentation_slug": "paper-tiger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:15:00",
-      "movie": "The Cat in the Hat (2026)",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141121",
-      "presentation_slug": "the-cat-in-the-hat-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:30:00",
-      "movie": "Ebenezer",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100011",
-      "presentation_slug": "ebenezer",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:30:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141261",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:30:00",
-      "movie": "The Cat in the Hat (2026)",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101080",
-      "presentation_slug": "the-cat-in-the-hat-2026",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:45:00",
-      "movie": "Ebenezer",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140202",
-      "presentation_slug": "ebenezer",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:45:00",
-      "movie": "Littermates",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99880",
-      "presentation_slug": "littermates",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T21:45:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101071",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:00:00",
-      "movie": "Wicker",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101103",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:00:00",
-      "movie": "Wicker",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141151",
-      "presentation_slug": "wicker",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:00:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101082",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141109",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:15:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101091",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:15:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140286",
-      "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:15:00",
+      "show_time": "2026-11-13T22:30:00",
       "movie": "I Play Rocky",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141140",
+      "session_id": "141146",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T22:15:00",
-      "movie": "La Bola Negra",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101095",
-      "presentation_slug": "la-bola-negra",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:30:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141158",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:30:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100075",
-      "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:30:00",
-      "movie": "Victorian Psycho",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100407",
-      "presentation_slug": "victorian-psycho",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:30:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141141",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:45:00",
-      "movie": "Victorian Psycho",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141107",
-      "presentation_slug": "victorian-psycho",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-12T22:45:00",
+      "show_time": "2026-11-13T22:30:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101098",
+      "session_id": "100862",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-12T23:00:00",
-      "movie": "Club Kid",
+      "show_time": "2026-11-13T22:45:00",
+      "movie": "Wild Horse Nine",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141159",
-      "presentation_slug": "club-kid",
-      "open_caption": false
+      "session_id": "141137",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": true
     }
   ]
 }
