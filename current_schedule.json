@@ -1,673 +1,700 @@
 {
   "time_range": {
-    "start": "2026-11-20T13:54:15.169235445-05:00",
-    "end": "2026-11-21T01:54:15.169235445-05:00"
+    "start": "2026-11-21T12:49:21.217578353-05:00",
+    "end": "2026-11-22T00:49:21.217578353-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-11-20T14:00:00",
+      "show_time": "2026-11-21T13:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140232",
+      "session_id": "141499",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-21T13:00:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101175",
+      "presentation_slug": "wild-horse-nine",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:00:00",
+      "show_time": "2026-11-21T13:15:00",
+      "movie": "Elsinore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140814",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T14:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99923",
+      "session_id": "99934",
+      "presentation_slug": "book-club-screening-the-hunger-games-sunrise-on-the-reaping-book-club-dress-up-screening",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T14:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140237",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:15:00",
+      "show_time": "2026-11-21T14:15:00",
       "movie": "I Play Rocky",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141477",
+      "session_id": "141523",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:30:00",
+      "show_time": "2026-11-21T14:30:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100791",
+      "session_id": "100794",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:30:00",
-      "movie": "Victorian Psycho",
+      "show_time": "2026-11-21T14:30:00",
+      "movie": "True Stories",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101150",
-      "presentation_slug": "victorian-psycho",
+      "session_id": "99837",
+      "presentation_slug": "true-stories",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:30:00",
+      "show_time": "2026-11-21T14:30:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141478",
+      "session_id": "141518",
       "presentation_slug": "you-can-see-everything",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-21T14:45:00",
+      "movie": "Club Kid",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141526",
+      "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:45:00",
+      "show_time": "2026-11-21T14:45:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101156",
+      "session_id": "101183",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:45:00",
+      "show_time": "2026-11-21T14:45:00",
       "movie": "La Bola Negra",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101164",
+      "session_id": "101317",
       "presentation_slug": "la-bola-negra",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T14:45:00",
+      "show_time": "2026-11-21T14:45:00",
       "movie": "Paper Tiger",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141457",
+      "session_id": "141498",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:00:00",
+      "show_time": "2026-11-21T15:00:00",
       "movie": "Ebenezer",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141471",
+      "session_id": "141511",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:00:00",
+      "show_time": "2026-11-21T15:00:00",
       "movie": "Paper Tiger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100104",
+      "session_id": "100109",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141489",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T15:15:00",
+      "show_time": "2026-11-21T15:15:00",
       "movie": "Club Kid",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141456",
+      "session_id": "141501",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:15:00",
+      "show_time": "2026-11-21T15:15:00",
       "movie": "Ebenezer",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101160",
+      "session_id": "101180",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:15:00",
+      "show_time": "2026-11-21T15:15:00",
       "movie": "I Play Rocky",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100516",
+      "session_id": "100519",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:30:00",
+      "show_time": "2026-11-21T15:30:00",
       "movie": "How to Rob a Bank",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141476",
+      "session_id": "141509",
       "presentation_slug": "how-to-rob-a-bank",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:30:00",
+      "show_time": "2026-11-21T15:30:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99927",
+      "session_id": "99930",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:30:00",
+      "show_time": "2026-11-21T15:30:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101153",
+      "session_id": "101179",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:45:00",
+      "show_time": "2026-11-21T15:45:00",
       "movie": "Club Kid",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101143",
+      "session_id": "101213",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:45:00",
+      "show_time": "2026-11-21T15:45:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141472",
+      "session_id": "141507",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T15:45:00",
+      "show_time": "2026-11-21T15:45:00",
       "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101139",
+      "session_id": "101228",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T16:00:00",
+      "show_time": "2026-11-21T16:00:00",
       "movie": "How to Rob a Bank",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101169",
+      "session_id": "101172",
       "presentation_slug": "how-to-rob-a-bank",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T16:15:00",
+      "show_time": "2026-11-21T16:00:00",
       "movie": "Wild Horse Nine",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101146",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141493",
       "presentation_slug": "wild-horse-nine",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T16:30:00",
+      "show_time": "2026-11-21T16:15:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101182",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T16:30:00",
       "movie": "Elsinore",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140802",
+      "session_id": "140813",
       "presentation_slug": "elsinore",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T16:30:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141455",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T17:00:00",
+      "show_time": "2026-11-21T17:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141454",
+      "session_id": "141502",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T17:30:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "show_time": "2026-11-21T17:30:00",
+      "movie": "Wicker",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101149",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "session_id": "101261",
+      "presentation_slug": "wicker",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:00:00",
+      "show_time": "2026-11-21T18:00:00",
       "movie": "Ebenezer",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141475",
+      "session_id": "141514",
       "presentation_slug": "ebenezer",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:00:00",
+      "show_time": "2026-11-21T18:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99933",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T18:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140231",
+      "session_id": "140238",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99924",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T18:15:00",
+      "show_time": "2026-11-21T18:15:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101158",
+      "session_id": "101186",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:15:00",
+      "show_time": "2026-11-21T18:15:00",
       "movie": "I Play Rocky",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141482",
+      "session_id": "141522",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:15:00",
-      "movie": "Paper Tiger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141466",
-      "presentation_slug": "paper-tiger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T18:15:00",
+      "show_time": "2026-11-21T18:15:00",
       "movie": "Paper Tiger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100103",
+      "session_id": "100110",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:30:00",
+      "show_time": "2026-11-21T18:15:00",
+      "movie": "Paper Tiger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141491",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T18:30:00",
       "movie": "Club Kid",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141458",
+      "session_id": "141503",
       "presentation_slug": "club-kid",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:30:00",
+      "show_time": "2026-11-21T18:30:00",
       "movie": "Ebenezer",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101162",
+      "session_id": "101181",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:30:00",
+      "show_time": "2026-11-21T18:30:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100790",
+      "session_id": "100795",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:45:00",
+      "show_time": "2026-11-21T18:45:00",
       "movie": "I Play Rocky",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100515",
+      "session_id": "100520",
       "presentation_slug": "i-play-rocky",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:45:00",
+      "show_time": "2026-11-21T18:45:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101312",
+      "session_id": "101315",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T18:45:00",
+      "show_time": "2026-11-21T18:45:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141480",
+      "session_id": "141516",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:00:00",
+      "show_time": "2026-11-21T19:00:00",
       "movie": "Club Kid",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101141",
+      "session_id": "101215",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:00:00",
+      "show_time": "2026-11-21T19:00:00",
       "movie": "How to Rob a Bank",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141481",
+      "session_id": "141513",
       "presentation_slug": "how-to-rob-a-bank",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "show_time": "2026-11-21T19:00:00",
+      "movie": "Wild Horse Nine",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141490",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
+      "session_id": "141496",
+      "presentation_slug": "wild-horse-nine",
+      "open_caption": true
     },
     {
-      "show_time": "2026-11-20T19:00:00",
+      "show_time": "2026-11-21T19:00:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101151",
+      "session_id": "101187",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:15:00",
+      "show_time": "2026-11-21T19:15:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141483",
+      "session_id": "141510",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:15:00",
+      "show_time": "2026-11-21T19:15:00",
       "movie": "How to Rob a Bank",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101167",
+      "session_id": "101174",
       "presentation_slug": "how-to-rob-a-bank",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:30:00",
+      "show_time": "2026-11-21T19:30:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99926",
+      "session_id": "99931",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:30:00",
+      "show_time": "2026-11-21T19:30:00",
       "movie": "Wild Horse Nine",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101148",
+      "session_id": "101185",
       "presentation_slug": "wild-horse-nine",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T19:30:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141459",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T19:45:00",
+      "show_time": "2026-11-21T19:45:00",
       "movie": "Elsinore",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140804",
+      "session_id": "140812",
       "presentation_slug": "elsinore",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T20:00:00",
+      "show_time": "2026-11-21T20:00:00",
       "movie": "You Can See Everything",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101140",
+      "session_id": "101229",
       "presentation_slug": "you-can-see-everything",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:00:00",
+      "show_time": "2026-11-21T21:00:00",
       "movie": "Elsinore",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141464",
+      "session_id": "141504",
       "presentation_slug": "elsinore",
-      "open_caption": true
+      "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:15:00",
+      "show_time": "2026-11-21T21:15:00",
       "movie": "Ebenezer",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141479",
+      "session_id": "141517",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:30:00",
-      "movie": "Paper Tiger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141462",
-      "presentation_slug": "paper-tiger",
-      "open_caption": true
-    },
-    {
-      "show_time": "2026-11-20T21:30:00",
+      "show_time": "2026-11-21T21:30:00",
       "movie": "Paper Tiger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100106",
+      "session_id": "100107",
       "presentation_slug": "paper-tiger",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:45:00",
+      "show_time": "2026-11-21T21:30:00",
+      "movie": "The Host: 20th Anniversary",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141360",
+      "presentation_slug": "the-host-20th-anniversary",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T21:45:00",
       "movie": "Club Kid",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141461",
+      "session_id": "141505",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:45:00",
+      "show_time": "2026-11-21T21:45:00",
       "movie": "Ebenezer",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101161",
+      "session_id": "101184",
       "presentation_slug": "ebenezer",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:45:00",
+      "show_time": "2026-11-21T21:45:00",
       "movie": "Godzilla Minus Zero",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101157",
+      "session_id": "101188",
       "presentation_slug": "godzilla-minus-zero",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T21:45:00",
+      "show_time": "2026-11-21T21:45:00",
       "movie": "I Play Rocky",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141485",
+      "session_id": "141525",
       "presentation_slug": "i-play-rocky",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-11-20T21:45:00",
-      "movie": "The Cook, The Thief, His Wife, & Her Lover",
+      "show_time": "2026-11-21T21:45:00",
+      "movie": "NOFX: 40 YEARS OF FUCKIN' UP",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99835",
-      "presentation_slug": "the-cook-the-thief-his-wife-her-lover",
+      "session_id": "100829",
+      "presentation_slug": "nofx-40-years-of-fuckin-up",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:00:00",
+      "show_time": "2026-11-21T22:00:00",
+      "movie": "Paper Tiger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141492",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T22:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140234",
+      "session_id": "140235",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:00:00",
+      "show_time": "2026-11-21T22:00:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "99925",
+      "session_id": "99932",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:15:00",
+      "show_time": "2026-11-21T22:15:00",
       "movie": "Club Kid",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101142",
+      "session_id": "101217",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:15:00",
+      "show_time": "2026-11-21T22:15:00",
       "movie": "How to Rob a Bank",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141484",
-      "presentation_slug": "how-to-rob-a-bank",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T22:15:00",
-      "movie": "I Play Rocky",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100514",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T22:30:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141486",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T22:30:00",
-      "movie": "How to Rob a Bank",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101168",
+      "session_id": "141520",
       "presentation_slug": "how-to-rob-a-bank",
       "open_caption": true
     },
     {
-      "show_time": "2026-11-20T22:30:00",
+      "show_time": "2026-11-21T22:15:00",
+      "movie": "I Play Rocky",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100521",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-21T22:30:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141519",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T22:30:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101173",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T22:30:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "100792",
+      "session_id": "100793",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:30:00",
-      "movie": "Wild Horse Nine",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141463",
-      "presentation_slug": "wild-horse-nine",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-20T22:30:00",
+      "show_time": "2026-11-21T22:30:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101152",
+      "session_id": "101190",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:45:00",
+      "show_time": "2026-11-21T22:45:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "140810",
+      "session_id": "140815",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:45:00",
+      "show_time": "2026-11-21T22:45:00",
       "movie": "The Hunger Games: Sunrise on the Reaping",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101313",
+      "session_id": "101314",
       "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-20T22:45:00",
+      "show_time": "2026-11-21T22:45:00",
       "movie": "Wild Horse Nine",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101147",
+      "session_id": "101189",
       "presentation_slug": "wild-horse-nine",
-      "open_caption": false
+      "open_caption": true
     },
     {
-      "show_time": "2026-11-20T22:45:00",
+      "show_time": "2026-11-21T22:45:00",
       "movie": "You Can See Everything",
       "theater": "Downtown Brooklyn",
       "cinema_id": "2101",
-      "session_id": "141487",
+      "session_id": "141521",
       "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-21T23:00:00",
+      "movie": "Wild Horse Nine",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141495",
+      "presentation_slug": "wild-horse-nine",
       "open_caption": false
     }
   ]
