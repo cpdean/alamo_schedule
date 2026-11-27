@@ -1,385 +1,592 @@
 {
   "time_range": {
-    "start": "2026-11-26T14:54:50.159180126-05:00",
-    "end": "2026-11-27T02:54:50.159180126-05:00"
+    "start": "2026-11-27T14:43:41.251168372-05:00",
+    "end": "2026-11-28T02:43:41.251168372-05:00"
   },
   "showtimes": [
     {
-      "show_time": "2026-11-26T15:00:00",
-      "movie": "Hexed",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140046",
-      "presentation_slug": "hexed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:00:00",
-      "movie": "Planes, Trains and Automobiles",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99840",
-      "presentation_slug": "planes-trains-automobiles",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:00:00",
-      "movie": "You Can See Everything",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101561",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:15:00",
-      "movie": "Focker In-Law",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100439",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:30:00",
-      "movie": "Elsinore",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100479",
-      "presentation_slug": "elsinore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:30:00",
-      "movie": "Hexed",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99448",
-      "presentation_slug": "hexed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:30:00",
-      "movie": "Hexed",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140047",
-      "presentation_slug": "hexed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:30:00",
-      "movie": "I Play Rocky",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141942",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T15:45:00",
-      "movie": "Bitter Christmas",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100046",
-      "presentation_slug": "bitter-christmas",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:00:00",
-      "movie": "Focker In-Law",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140726",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:00:00",
-      "movie": "I Play Rocky",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101548",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:15:00",
-      "movie": "Bitter Christmas",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140367",
-      "presentation_slug": "bitter-christmas",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:15:00",
-      "movie": "Focker In-Law",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101563",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:30:00",
+      "show_time": "2026-11-27T14:45:00",
       "movie": "Club Kid",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101553",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141974",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-26T16:30:00",
-      "movie": "Elsinore",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141937",
-      "presentation_slug": "elsinore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T16:45:00",
-      "movie": "Paper Tiger",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101558",
-      "presentation_slug": "paper-tiger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T17:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99969",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T17:30:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101547",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T17:30:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141949",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T17:45:00",
-      "movie": "Focker In-Law",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101570",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T17:45:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141951",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:00:00",
-      "movie": "Paper Tiger",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141940",
-      "presentation_slug": "paper-tiger",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140044",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99964",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:15:00",
-      "movie": "Focker In-Law",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100438",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:15:00",
-      "movie": "You Can See Everything",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141930",
-      "presentation_slug": "you-can-see-everything",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:30:00",
-      "movie": "Club Kid",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141947",
-      "presentation_slug": "club-kid",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:30:00",
-      "movie": "Hexed",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140043",
-      "presentation_slug": "hexed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:30:00",
-      "movie": "Hexed",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "99449",
-      "presentation_slug": "hexed",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:30:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101566",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:45:00",
-      "movie": "Elsinore",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100476",
-      "presentation_slug": "elsinore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T18:45:00",
-      "movie": "Focker In-Law",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140725",
-      "presentation_slug": "focker-in-law",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:00:00",
-      "movie": "Bitter Christmas",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "100043",
-      "presentation_slug": "bitter-christmas",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:00:00",
-      "movie": "I Play Rocky",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141944",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:00:00",
-      "movie": "The Hunger Games: Sunrise on the Reaping",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141614",
-      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:15:00",
-      "movie": "Bitter Christmas",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "140368",
-      "presentation_slug": "bitter-christmas",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:15:00",
-      "movie": "Godzilla Minus Zero",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101560",
-      "presentation_slug": "godzilla-minus-zero",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:30:00",
-      "movie": "Elsinore",
-      "theater": "Downtown Brooklyn",
-      "cinema_id": "2101",
-      "session_id": "141941",
-      "presentation_slug": "elsinore",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:30:00",
-      "movie": "I Play Rocky",
-      "theater": "Lower Manhattan",
-      "cinema_id": "2103",
-      "session_id": "101568",
-      "presentation_slug": "i-play-rocky",
-      "open_caption": false
-    },
-    {
-      "show_time": "2026-11-26T19:30:00",
+      "show_time": "2026-11-27T14:45:00",
       "movie": "Wildwood",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101565",
+      "session_id": "101574",
       "presentation_slug": "wildwood",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-26T19:45:00",
+      "show_time": "2026-11-27T15:00:00",
+      "movie": "Focker In-Law",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140051",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:00:00",
+      "movie": "Hexed",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99391",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:30:00",
+      "movie": "Hexed",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140053",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:30:00",
+      "movie": "I Play Rocky",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141966",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:30:00",
+      "movie": "Paper Tiger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101590",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:30:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101599",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T15:45:00",
+      "movie": "Elsinore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100480",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:00:00",
+      "movie": "Focker In-Law",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140731",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:00:00",
+      "movie": "Focker In-Law",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100444",
+      "presentation_slug": "movie-party-focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141979",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:15:00",
+      "movie": "Bitter Christmas",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140370",
+      "presentation_slug": "bitter-christmas",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:15:00",
+      "movie": "Bitter Christmas",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100047",
+      "presentation_slug": "bitter-christmas",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:15:00",
+      "movie": "I Play Rocky",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101585",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:30:00",
+      "movie": "Elsinore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141962",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T16:45:00",
       "movie": "Club Kid",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101554",
+      "session_id": "101587",
       "presentation_slug": "club-kid",
       "open_caption": false
     },
     {
-      "show_time": "2026-11-26T20:00:00",
+      "show_time": "2026-11-27T17:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141967",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T17:15:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101582",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T17:30:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99398",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:00:00",
+      "movie": "Hexed",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99389",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:00:00",
+      "movie": "Paper Tiger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141961",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140049",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:00:00",
+      "movie": "You Can See Everything",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101571",
+      "presentation_slug": "you-can-see-everything",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:15:00",
+      "movie": "Club Kid",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101597",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:15:00",
+      "movie": "Focker In-Law",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101577",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:15:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141954",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:30:00",
+      "movie": "Club Kid",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141975",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:30:00",
+      "movie": "Hexed",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140048",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:30:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99406",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:45:00",
+      "movie": "Focker In-Law",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140730",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T18:45:00",
       "movie": "Paper Tiger",
       "theater": "Lower Manhattan",
       "cinema_id": "2103",
-      "session_id": "101555",
+      "session_id": "101589",
       "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:00:00",
+      "movie": "Elsinore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100483",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:00:00",
+      "movie": "Focker In-Law",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100443",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:00:00",
+      "movie": "I Play Rocky",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141969",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141617",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:15:00",
+      "movie": "Bitter Christmas",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140369",
+      "presentation_slug": "bitter-christmas",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:30:00",
+      "movie": "Bitter Christmas",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100050",
+      "presentation_slug": "bitter-christmas",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:30:00",
+      "movie": "Elsinore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141968",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:30:00",
+      "movie": "Paper Tiger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101598",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:45:00",
+      "movie": "Focker In-Law",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141978",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T19:45:00",
+      "movie": "I Play Rocky",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101586",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T20:00:00",
+      "movie": "Club Kid",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101588",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T20:45:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "142148",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:00:00",
+      "movie": "Hexed",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99390",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:00:00",
+      "movie": "Paper Tiger",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141970",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:15:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101584",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:15:00",
+      "movie": "Wildwood",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101594",
+      "presentation_slug": "wildwood",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:30:00",
+      "movie": "Club Kid",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101596",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:30:00",
+      "movie": "Hexed",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140056",
+      "presentation_slug": "hexed",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:30:00",
+      "movie": "How to Rob a Bank",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141955",
+      "presentation_slug": "how-to-rob-a-bank",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:30:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99399",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T21:45:00",
+      "movie": "Focker In-Law",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140733",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:00:00",
+      "movie": "Club Kid",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141976",
+      "presentation_slug": "club-kid",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:00:00",
+      "movie": "Focker In-Law",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100442",
+      "presentation_slug": "focker-in-law",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:00:00",
+      "movie": "Paper Tiger",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101591",
+      "presentation_slug": "paper-tiger",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:00:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140050",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:15:00",
+      "movie": "Bitter Christmas",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "140373",
+      "presentation_slug": "bitter-christmas",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:15:00",
+      "movie": "Elsinore",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100484",
+      "presentation_slug": "elsinore",
+      "open_caption": true
+    },
+    {
+      "show_time": "2026-11-27T22:15:00",
+      "movie": "Godzilla Minus Zero",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "101580",
+      "presentation_slug": "godzilla-minus-zero",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:30:00",
+      "movie": "Elsinore",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141972",
+      "presentation_slug": "elsinore",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:30:00",
+      "movie": "I Play Rocky",
+      "theater": "Downtown Brooklyn",
+      "cinema_id": "2101",
+      "session_id": "141971",
+      "presentation_slug": "i-play-rocky",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:30:00",
+      "movie": "The Hunger Games: Sunrise on the Reaping",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99405",
+      "presentation_slug": "the-hunger-games-sunrise-on-the-reaping",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:45:00",
+      "movie": "Batman Returns",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "99841",
+      "presentation_slug": "batman-returns",
+      "open_caption": false
+    },
+    {
+      "show_time": "2026-11-27T22:45:00",
+      "movie": "Bitter Christmas",
+      "theater": "Lower Manhattan",
+      "cinema_id": "2103",
+      "session_id": "100051",
+      "presentation_slug": "bitter-christmas",
       "open_caption": false
     }
   ]
